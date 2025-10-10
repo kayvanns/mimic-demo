@@ -137,3 +137,21 @@
 [I 2025-10-08 20:20:52.267 ServerApp] Saving file at /starter_patient.ipynb
 [I 2025-10-08 20:20:56.383 ServerApp] Saving file at /starter_patient.ipynb
 [I 2025-10-08 20:21:00.728 ServerApp] Saving file at /starter_patient.ipynb
+[I 2025-10-08 20:23:31.959 ServerApp] EOF on FD 24; stopping reading
+[I 2025-10-08 20:23:32.060 ServerApp] Terminal 2 closed
+[I 2025-10-08 20:23:32.063 ServerApp] Kernel shutdown: fc161a97-0bc3-42fd-878d-f53c6686c7c8
+[I 2025-10-08 20:23:33.054 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-08 20:23:33.055 ServerApp] Shutting down 5 extensions
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
