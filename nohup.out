@@ -195,3 +195,19 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2025-10-10 18:46:36.402 ServerApp] Saving file at /notebooks/starter_patient.ipynb
 [I 2025-10-10 18:48:36.733 ServerApp] Saving file at /notebooks/starter_patient.ipynb
 [I 2025-10-10 18:50:37.126 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:53:22.291 ServerApp] Kernel shutdown: 67fcf8b0-63a4-46ed-9cde-97e93829238b
+[I 2025-10-10 18:53:24.688 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-10 18:53:24.689 ServerApp] Shutting down 5 extensions
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
