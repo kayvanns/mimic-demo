@@ -140,3 +140,48 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[W 2025-10-10 18:17:21.304 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[I 2025-10-10 18:17:21.398 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-10 18:17:21.403 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-10 18:17:21.409 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-10 18:17:21.414 ServerApp] nbclassic | extension was successfully linked.
+[I 2025-10-10 18:17:22.114 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-10-10 18:17:22.177 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-10 18:17:22.180 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-10 18:17:22.181 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-10 18:17:22.189 LabApp] JupyterLab extension loaded from /home/kayvans/.local/lib/python3.10/site-packages/jupyterlab
+[I 2025-10-10 18:17:22.189 LabApp] JupyterLab application directory is /home/kayvans/.local/share/jupyter/lab
+[I 2025-10-10 18:17:22.190 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-10 18:17:22.472 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-10 18:17:22.484 ServerApp] nbclassic | extension was successfully loaded.
+[I 2025-10-10 18:17:22.485 ServerApp] Serving notebooks from local directory: /home/kayvans/mimic-demo
+[I 2025-10-10 18:17:22.485 ServerApp] Jupyter Server 2.16.0 is running at:
+[I 2025-10-10 18:17:22.485 ServerApp] http://cs320:2020/lab
+[I 2025-10-10 18:17:22.485 ServerApp]     http://127.0.0.1:2020/lab
+[I 2025-10-10 18:17:22.485 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-10-10 18:17:22.514 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2025-10-10 18:17:26.554 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-10-10 18:17:27.683 ServerApp] Kernel started: 67fcf8b0-63a4-46ed-9cde-97e93829238b
+[I 2025-10-10 18:17:28.714 ServerApp] Connecting to kernel 67fcf8b0-63a4-46ed-9cde-97e93829238b.
+[I 2025-10-10 18:17:28.719 ServerApp] Connecting to kernel 67fcf8b0-63a4-46ed-9cde-97e93829238b.
+[I 2025-10-10 18:17:28.724 ServerApp] Connecting to kernel 67fcf8b0-63a4-46ed-9cde-97e93829238b.
+[W 2025-10-10 18:17:28.727 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-10 18:18:08.386 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:18:08.768 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:18:09.122 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:18:47.574 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:20:06.448 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:20:13.037 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:20:56.439 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:22:21.073 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:23:50.198 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:24:08.444 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:26:08.744 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:27:48.488 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:29:31.892 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:29:38.678 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:31:39.023 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:32:42.831 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:32:49.142 ServerApp] Saving file at /notebooks/starter_patient.ipynb
+[I 2025-10-10 18:32:51.362 ServerApp] Saving file at /notebooks/starter_patient.ipynb
