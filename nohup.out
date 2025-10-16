@@ -211,3 +211,356 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[W 2025-10-16 19:38:37.732 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[I 2025-10-16 19:38:37.828 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-16 19:38:37.834 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-16 19:38:37.840 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-16 19:38:37.844 ServerApp] nbclassic | extension was successfully linked.
+[I 2025-10-16 19:38:38.545 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-10-16 19:38:38.614 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-16 19:38:38.617 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-16 19:38:38.618 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-16 19:38:38.626 LabApp] JupyterLab extension loaded from /home/kayvans/.local/lib/python3.10/site-packages/jupyterlab
+[I 2025-10-16 19:38:38.627 LabApp] JupyterLab application directory is /home/kayvans/.local/share/jupyter/lab
+[I 2025-10-16 19:38:38.627 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-16 19:38:38.927 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-16 19:38:38.941 ServerApp] nbclassic | extension was successfully loaded.
+[I 2025-10-16 19:38:38.942 ServerApp] Serving notebooks from local directory: /home/kayvans/mimic-demo
+[I 2025-10-16 19:38:38.942 ServerApp] Jupyter Server 2.16.0 is running at:
+[I 2025-10-16 19:38:38.942 ServerApp] http://cs320:2020/lab
+[I 2025-10-16 19:38:38.942 ServerApp]     http://127.0.0.1:2020/lab
+[I 2025-10-16 19:38:38.942 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-10-16 19:38:38.975 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-10-16 19:38:45.259 ServerApp] 302 GET / (@72.33.2.45) 0.73ms
+[W 2025-10-16 19:38:45.947 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2025-10-16 19:38:46.093 ServerApp] 404 GET /api/contents/Current_Location.jpg?content=0&hash=0&1760643526021 (b961125cf2e042caa8b8251d01f89643@72.33.2.45) 1.61ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-16 19:38:46.093 ServerApp] 404 GET /api/contents/Current_Location.jpg?content=0&hash=0&1760643526021 (72.33.2.45): No such file or directory: Current_Location.jpg
+[W 2025-10-16 19:38:46.093 ServerApp] 404 GET /api/contents/test.ipynb?content=0&hash=0&1760643526021 (b961125cf2e042caa8b8251d01f89643@72.33.2.45) 2.21ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-16 19:38:46.094 ServerApp] 404 GET /api/contents/test.ipynb?content=0&hash=0&1760643526021 (72.33.2.45): No such file or directory: test.ipynb
+[W 2025-10-16 19:38:46.094 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1760643526021 (b961125cf2e042caa8b8251d01f89643@72.33.2.45) 2.60ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-16 19:38:46.094 ServerApp] 404 GET /api/contents/Untitled.ipynb?content=0&hash=0&1760643526021 (72.33.2.45): No such file or directory: Untitled.ipynb
+[W 2025-10-16 19:38:46.096 ServerApp] 404 GET /api/contents/Current_Location.jpg?content=0&hash=0&1760643526021 (b961125cf2e042caa8b8251d01f89643@72.33.2.45) 1.10ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-16 19:38:46.096 ServerApp] 404 GET /api/contents/Current_Location.jpg?content=0&hash=0&1760643526021 (72.33.2.45): No such file or directory: Current_Location.jpg
+[W 2025-10-16 19:38:46.096 ServerApp] 404 GET /api/contents/scrape.py?content=0&hash=0&1760643526021 (b961125cf2e042caa8b8251d01f89643@72.33.2.45) 1.42ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-16 19:38:46.096 ServerApp] 404 GET /api/contents/scrape.py?content=0&hash=0&1760643526021 (72.33.2.45): No such file or directory: scrape.py
+[W 2025-10-16 19:38:46.113 ServerApp] 404 GET /api/contents/test.ipynb?content=0&hash=0&1760643526021 (b961125cf2e042caa8b8251d01f89643@72.33.2.45) 1.16ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-16 19:38:46.113 ServerApp] 404 GET /api/contents/test.ipynb?content=0&hash=0&1760643526021 (72.33.2.45): No such file or directory: test.ipynb
+[W 2025-10-16 19:38:46.115 ServerApp] 404 GET /api/contents/scrape.py?content=0&hash=0&1760643526021 (b961125cf2e042caa8b8251d01f89643@72.33.2.45) 1.13ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-16 19:38:46.115 ServerApp] 404 GET /api/contents/scrape.py?content=0&hash=0&1760643526021 (72.33.2.45): No such file or directory: scrape.py
+[I 2025-10-16 19:38:52.400 ServerApp] Kernel started: 4339458d-8a1a-455e-abcd-5f26e4607d25
+[I 2025-10-16 19:38:53.421 ServerApp] Connecting to kernel 4339458d-8a1a-455e-abcd-5f26e4607d25.
+[I 2025-10-16 19:38:53.426 ServerApp] Connecting to kernel 4339458d-8a1a-455e-abcd-5f26e4607d25.
+[I 2025-10-16 19:38:53.431 ServerApp] Connecting to kernel 4339458d-8a1a-455e-abcd-5f26e4607d25.
+[W 2025-10-16 19:38:53.435 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-16 19:39:51.490 ServerApp] Creating new notebook in /notebooks
+[I 2025-10-16 19:39:51.708 ServerApp] Kernel started: e15b07c7-4596-4a7e-9995-cc622a6d2916
+[I 2025-10-16 19:39:52.431 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 19:42:40.934 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:44:41.040 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:45:20.345 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:46:51.410 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:48:32.004 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:48:34.480 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:50:36.393 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:52:36.512 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:53:09.316 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:53:34.323 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:54:58.702 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:56:58.801 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:58:58.915 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 19:59:30.802 ServerApp] Creating new file in /notebooks
+[I 2025-10-16 20:00:45.667 ServerApp] Saving file at /notebooks/untitled.py
+[E 2025-10-16 20:00:45.755 ServerApp] Uncaught exception POST /api/contents/notebooks/untitled.py/checkpoints?1760644845709 (72.33.2.45)
+    HTTPServerRequest(protocol='http', host='34.61.98.138:2020', method='POST', uri='/api/contents/notebooks/untitled.py/checkpoints?1760644845709', version='HTTP/1.1', remote_ip='72.33.2.45')
+    Traceback (most recent call last):
+      File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/handlers.py", line 358, in post
+        checkpoint = await ensure_async(cm.create_checkpoint(path))
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_core/utils/__init__.py", line 197, in ensure_async
+        result = await obj
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/manager.py", line 1083, in create_checkpoint
+        return await self.checkpoints.create_checkpoint(self, path)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 145, in create_checkpoint
+        await self._copy(src_path, dest_path)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/fileio.py", line 470, in _copy
+        await async_copy2_safe(src, dest, log=self.log)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/fileio.py", line 66, in async_copy2_safe
+        await run_sync(shutil.copyfile, src, dst)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+      File "/home/kayvans/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 2470, in run_sync_in_worker_thread
+        return await future
+      File "/home/kayvans/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 967, in run
+        result = context.run(func, *args)
+      File "/usr/lib/python3.10/shutil.py", line 254, in copyfile
+        with open(src, 'rb') as fsrc:
+    FileNotFoundError: [Errno 2] No such file or directory: '/home/kayvans/mimic-demo/notebooks/untitled.py'
+[W 2025-10-16 20:00:45.770 ServerApp] wrote error: 'Unhandled error'
+    Traceback (most recent call last):
+      File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/handlers.py", line 358, in post
+        checkpoint = await ensure_async(cm.create_checkpoint(path))
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_core/utils/__init__.py", line 197, in ensure_async
+        result = await obj
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/manager.py", line 1083, in create_checkpoint
+        return await self.checkpoints.create_checkpoint(self, path)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 145, in create_checkpoint
+        await self._copy(src_path, dest_path)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/fileio.py", line 470, in _copy
+        await async_copy2_safe(src, dest, log=self.log)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/services/contents/fileio.py", line 66, in async_copy2_safe
+        await run_sync(shutil.copyfile, src, dst)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+      File "/home/kayvans/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 2470, in run_sync_in_worker_thread
+        return await future
+      File "/home/kayvans/.local/lib/python3.10/site-packages/anyio/_backends/_asyncio.py", line 967, in run
+        result = context.run(func, *args)
+      File "/usr/lib/python3.10/shutil.py", line 254, in copyfile
+        with open(src, 'rb') as fsrc:
+    FileNotFoundError: [Errno 2] No such file or directory: '/home/kayvans/mimic-demo/notebooks/untitled.py'
+[E 2025-10-16 20:00:45.771 ServerApp] {
+      "Host": "34.61.98.138:2020",
+      "Accept": "*/*",
+      "Referer": "http://34.61.98.138:2020/lab/tree/notebooks/untitled.py",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    }
+[E 2025-10-16 20:00:45.771 ServerApp] 500 POST /api/contents/notebooks/untitled.py/checkpoints?1760644845709 (b961125cf2e042caa8b8251d01f89643@72.33.2.45) 19.46ms referer=http://34.61.98.138:2020/lab/tree/notebooks/untitled.py
+[I 2025-10-16 20:00:48.307 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:00:57.825 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:00:59.057 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:01:20.263 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:02:59.197 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:03:44.231 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:04:59.302 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:05:44.328 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:07:44.489 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:07:58.255 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:08:26.429 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:09:11.734 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:09:58.351 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:11:11.851 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:11:18.135 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:11:37.666 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:12:43.613 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:12:52.487 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:12:57.173 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:13:28.897 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:14:52.606 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:15:16.929 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:15:17.173 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:15:20.528 ServerApp] Starting buffering for 4339458d-8a1a-455e-abcd-5f26e4607d25:dca55064-c888-47ab-9ed4-0e711ce5fcb9
+[I 2025-10-16 20:15:33.896 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:16:14.741 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:16:15.206 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:16:17.975 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:17:43.444 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:17:44.157 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:19:44.295 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:22:24.417 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:22:24.842 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:22:50.935 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:22:51.178 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:23:12.589 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:23:17.630 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:24:29.136 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:24:29.366 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:24:31.159 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:24:53.930 ServerApp] Kernel restarted: e15b07c7-4596-4a7e-9995-cc622a6d2916
+[I 2025-10-16 20:24:53.958 ServerApp] Starting buffering for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 20:24:54.003 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 20:24:54.004 ServerApp] Restoring connection for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[W 2025-10-16 20:24:55.374 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x74ad300cde40>
+[I 2025-10-16 20:25:26.246 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:27:26.440 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:29:26.617 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[W 2025-10-16 20:32:54.004 ServerApp] WebSocket ping timeout after 119846 ms.
+[I 2025-10-16 20:32:59.007 ServerApp] Starting buffering for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 20:44:14.225 ServerApp] 302 GET / (@162.216.149.237) 1.09ms
+[I 2025-10-16 20:44:14.295 LabApp] 302 GET /lab? (@162.216.149.237) 1.31ms
+[I 2025-10-16 20:46:17.866 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 20:46:17.866 ServerApp] Restoring connection for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 20:46:34.048 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:46:49.567 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:46:54.928 ServerApp] Kernel restarted: e15b07c7-4596-4a7e-9995-cc622a6d2916
+[I 2025-10-16 20:46:55.046 ServerApp] Starting buffering for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 20:46:55.077 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 20:46:55.077 ServerApp] Restoring connection for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 20:48:03.878 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:48:49.719 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:49:02.266 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:49:04.144 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 20:49:12.583 ServerApp] Kernel restarted: e15b07c7-4596-4a7e-9995-cc622a6d2916
+[I 2025-10-16 20:49:12.672 ServerApp] Starting buffering for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 20:49:12.701 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 20:49:12.701 ServerApp] Restoring connection for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 20:49:29.715 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:51:29.826 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:51:30.458 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:52:07.280 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:52:09.915 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:54:10.027 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:56:10.150 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 20:58:10.263 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:00:10.376 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:02:10.486 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:02:39.194 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:04:39.332 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:06:39.455 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:08:39.573 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:10:39.759 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:18:39.994 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:20:40.113 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:22:40.230 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:24:40.346 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:25:34.235 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:27:28.241 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:27:34.401 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:29:28.334 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:29:44.595 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:30:41.795 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:32:41.893 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:32:43.383 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:34:01.859 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:34:19.672 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:35:20.590 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:35:23.761 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:35:34.514 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:35:37.370 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:36:09.109 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:36:19.181 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:36:43.306 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:36:44.720 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:37:01.437 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:37:08.077 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:37:08.289 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:37:14.073 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:37:21.326 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:37:21.557 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:37:27.458 ServerApp] Kernel restarted: e15b07c7-4596-4a7e-9995-cc622a6d2916
+[I 2025-10-16 21:37:27.547 ServerApp] Starting buffering for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 21:37:27.581 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 21:37:27.581 ServerApp] Restoring connection for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 21:38:49.007 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:38:49.276 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:39:02.796 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:39:17.411 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:39:17.621 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:39:21.429 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:39:27.085 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:41:11.174 ServerApp] Saving file at /notebooks/cleaning.py
+[W 2025-10-16 21:41:11.182 ServerApp] /home/kayvans/mimic-demo/notebooks/.~cleaning.py doesn't exist
+[I 2025-10-16 21:41:11.474 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:41:21.595 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:41:54.846 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:41:56.066 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:42:11.128 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:43:11.281 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:43:56.183 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:45:11.380 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:45:56.334 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[W 2025-10-16 21:45:56.349 ServerApp] /home/kayvans/mimic-demo/notebooks/.~urinary_tract_infection.ipynb doesn't exist
+[I 2025-10-16 21:45:59.481 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:47:56.447 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:53:56.570 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:53:59.581 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:54:37.343 ServerApp] Connecting to kernel 4339458d-8a1a-455e-abcd-5f26e4607d25.
+[I 2025-10-16 21:54:59.089 ServerApp] Starting buffering for 4339458d-8a1a-455e-abcd-5f26e4607d25:0e8efda1-a6d7-4ad5-977e-888cc05b30e0
+[I 2025-10-16 21:55:57.866 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:56:00.946 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 21:56:54.072 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 21:58:54.371 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:00:01.053 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:00:54.519 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:01:31.277 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:01:32.758 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:02:54.696 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:03:32.855 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:03:49.248 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:04:25.057 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:04:27.725 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:04:35.887 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:04:36.104 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:04:36.340 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:04:39.757 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:04:54.810 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:05:21.011 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:05:38.119 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:05:38.295 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:06:54.975 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:07:10.047 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:07:10.538 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:07:21.277 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:07:47.715 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:07:47.901 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:07:48.086 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:04.207 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:13.453 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:13.653 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:33.905 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:34.168 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:41.436 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:41.644 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:41.821 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:42.013 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:08:55.107 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:09:45.864 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:10:04.090 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:10:15.639 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:10:50.987 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:10:57.957 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:11:05.731 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:11:09.993 ServerApp] Kernel restarted: e15b07c7-4596-4a7e-9995-cc622a6d2916
+[I 2025-10-16 22:11:10.016 ServerApp] Starting buffering for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 22:11:10.047 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 22:11:10.047 ServerApp] Restoring connection for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 22:11:29.282 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:11:44.187 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:11:49.087 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:11:50.782 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:12:10.211 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:12:12.929 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:12:28.515 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:12:48.928 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:13:10.674 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:14:49.041 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:21:10.782 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:23:10.887 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:23:28.183 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:23:41.602 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:23:47.750 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:25:21.985 ServerApp] AsyncIOLoopKernelRestarter: restarting kernel (1/5), keep random ports
+[W 2025-10-16 22:25:21.987 ServerApp] kernel e15b07c7-4596-4a7e-9995-cc622a6d2916 restarted
+[I 2025-10-16 22:25:22.047 ServerApp] Starting buffering for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 22:25:22.171 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 22:25:22.171 ServerApp] Restoring connection for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 22:25:47.902 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:26:19.897 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:26:20.265 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:27:09.459 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:27:10.103 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:27:12.935 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:27:15.609 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:27:48.025 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:28:02.536 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:28:02.806 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:29:38.696 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:29:48.137 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:29:51.447 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:29:54.472 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:30:18.502 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:30:19.337 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-16 22:30:24.081 ServerApp] Kernel restarted: e15b07c7-4596-4a7e-9995-cc622a6d2916
+[I 2025-10-16 22:30:24.122 ServerApp] Starting buffering for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 22:30:24.151 ServerApp] Connecting to kernel e15b07c7-4596-4a7e-9995-cc622a6d2916.
+[I 2025-10-16 22:30:24.151 ServerApp] Restoring connection for e15b07c7-4596-4a7e-9995-cc622a6d2916:efdce521-1011-45e0-bb78-a255e7b15746
+[I 2025-10-16 22:31:19.024 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:31:22.373 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-16 22:31:34.810 ServerApp] New terminal with automatic name: 1
