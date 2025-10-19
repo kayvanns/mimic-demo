@@ -564,3 +564,22 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2025-10-16 22:31:19.024 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
 [I 2025-10-16 22:31:22.373 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
 [I 2025-10-16 22:31:34.810 ServerApp] New terminal with automatic name: 1
+[I 2025-10-16 22:32:15.613 ServerApp] Kernel shutdown: 4339458d-8a1a-455e-abcd-5f26e4607d25
+[I 2025-10-16 22:32:15.621 ServerApp] Kernel shutdown: e15b07c7-4596-4a7e-9995-cc622a6d2916
+[I 2025-10-16 22:32:15.630 ServerApp] EOF on FD 43; stopping reading
+[I 2025-10-16 22:32:15.733 ServerApp] Terminal 1 closed
+[I 2025-10-16 22:32:16.498 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-16 22:32:16.499 ServerApp] Shutting down 5 extensions
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+

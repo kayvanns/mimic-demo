@@ -155,3 +155,179 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[W 2025-10-19 22:08:02.863 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[I 2025-10-19 22:08:02.956 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-19 22:08:02.966 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-19 22:08:02.977 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-19 22:08:02.987 ServerApp] nbclassic | extension was successfully linked.
+[I 2025-10-19 22:08:03.624 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-10-19 22:08:03.677 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-19 22:08:03.680 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-19 22:08:03.682 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-19 22:08:03.686 LabApp] JupyterLab extension loaded from /home/kayvans/.local/lib/python3.10/site-packages/jupyterlab
+[I 2025-10-19 22:08:03.686 LabApp] JupyterLab application directory is /home/kayvans/.local/share/jupyter/lab
+[I 2025-10-19 22:08:03.687 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-19 22:08:03.955 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-19 22:08:03.965 ServerApp] nbclassic | extension was successfully loaded.
+[I 2025-10-19 22:08:03.966 ServerApp] The port 2020 is already in use, trying another port.
+[I 2025-10-19 22:08:03.966 ServerApp] Serving notebooks from local directory: /home/kayvans/mimic-demo/notebooks
+[I 2025-10-19 22:08:03.966 ServerApp] Jupyter Server 2.16.0 is running at:
+[I 2025-10-19 22:08:03.966 ServerApp] http://cs320:2021/lab
+[I 2025-10-19 22:08:03.966 ServerApp]     http://127.0.0.1:2021/lab
+[I 2025-10-19 22:08:03.966 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-10-19 22:08:03.995 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2025-10-19 22:09:32.530 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[I 2025-10-19 22:09:32.566 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-19 22:09:32.571 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-19 22:09:32.577 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-19 22:09:32.582 ServerApp] nbclassic | extension was successfully linked.
+[I 2025-10-19 22:09:32.951 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-10-19 22:09:32.984 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-19 22:09:32.988 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-19 22:09:32.989 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-19 22:09:32.993 LabApp] JupyterLab extension loaded from /home/kayvans/.local/lib/python3.10/site-packages/jupyterlab
+[I 2025-10-19 22:09:32.993 LabApp] JupyterLab application directory is /home/kayvans/.local/share/jupyter/lab
+[I 2025-10-19 22:09:32.994 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-19 22:09:33.184 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-19 22:09:33.189 ServerApp] nbclassic | extension was successfully loaded.
+[I 2025-10-19 22:09:33.190 ServerApp] Serving notebooks from local directory: /home/kayvans/mimic-demo/notebooks
+[I 2025-10-19 22:09:33.190 ServerApp] Jupyter Server 2.16.0 is running at:
+[I 2025-10-19 22:09:33.190 ServerApp] http://cs320:2020/lab
+[I 2025-10-19 22:09:33.190 ServerApp]     http://127.0.0.1:2020/lab
+[I 2025-10-19 22:09:33.190 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-10-19 22:09:33.217 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-10-19 22:09:33.243 ServerApp] 302 GET / (@50.93.221.145) 1.04ms
+[W 2025-10-19 22:09:33.894 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2025-10-19 22:09:34.088 ServerApp] 404 GET /api/contents/webpage?content=0&hash=0&1760911774018 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 1.54ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.089 ServerApp] 404 GET /api/contents/webpage?content=0&hash=0&1760911774018 (50.93.221.145): No such file or directory: webpage
+[W 2025-10-19 22:09:34.092 ServerApp] 404 GET /api/contents/webpage/website.py?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 2.32ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.093 ServerApp] 404 GET /api/contents/webpage/website.py?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: webpage/website.py
+[W 2025-10-19 22:09:34.093 ServerApp] 404 GET /api/contents/webpage/index.html?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 2.92ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.094 ServerApp] 404 GET /api/contents/webpage/index.html?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: webpage/index.html
+[W 2025-10-19 22:09:34.094 ServerApp] 404 GET /api/contents/flask-struture?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 3.38ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.094 ServerApp] 404 GET /api/contents/flask-struture?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: flask-struture
+[W 2025-10-19 22:09:34.095 ServerApp] 404 GET /api/contents/flask-struture/decorators.ipynb?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 3.91ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.095 ServerApp] 404 GET /api/contents/flask-struture/decorators.ipynb?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: flask-struture/decorators.ipynb
+[W 2025-10-19 22:09:34.096 ServerApp] 404 GET /api/contents/flask-struture/flaskk.py?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 4.35ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.096 ServerApp] 404 GET /api/contents/flask-struture/flaskk.py?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: flask-struture/flaskk.py
+[W 2025-10-19 22:09:34.122 ServerApp] 404 GET /api/contents/webpage/website.py?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 1.50ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.122 ServerApp] 404 GET /api/contents/webpage/website.py?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: webpage/website.py
+[W 2025-10-19 22:09:34.123 ServerApp] 404 GET /api/contents/webpage/index.html?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 2.06ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.123 ServerApp] 404 GET /api/contents/webpage/index.html?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: webpage/index.html
+[W 2025-10-19 22:09:34.125 ServerApp] 404 GET /api/contents/flask-struture/decorators.ipynb?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 1.07ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.125 ServerApp] 404 GET /api/contents/flask-struture/decorators.ipynb?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: flask-struture/decorators.ipynb
+[W 2025-10-19 22:09:34.126 ServerApp] 404 GET /api/contents/flask-struture/flaskk.py?content=0&hash=0&1760911774019 (b961125cf2e042caa8b8251d01f89643@50.93.221.145) 0.85ms referer=http://34.61.98.138:2020/lab?
+[W 2025-10-19 22:09:34.126 ServerApp] 404 GET /api/contents/flask-struture/flaskk.py?content=0&hash=0&1760911774019 (50.93.221.145): No such file or directory: flask-struture/flaskk.py
+[I 2025-10-19 22:09:34.185 ServerApp] New terminal with automatic name: 1
+[W 2025-10-19 22:09:34.277 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-19 22:09:39.786 ServerApp] Kernel started: b48dfa49-497f-41cd-91bc-1a7af3e22e27
+[I 2025-10-19 22:09:40.773 ServerApp] Connecting to kernel b48dfa49-497f-41cd-91bc-1a7af3e22e27.
+[I 2025-10-19 22:09:40.778 ServerApp] Connecting to kernel b48dfa49-497f-41cd-91bc-1a7af3e22e27.
+[I 2025-10-19 22:09:40.783 ServerApp] Connecting to kernel b48dfa49-497f-41cd-91bc-1a7af3e22e27.
+[I 2025-10-19 22:11:37.342 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:11:39.658 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:12:05.491 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:12:07.112 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:12:07.534 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:12:10.949 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:12:11.251 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:12:23.020 ServerApp] Kernel restarted: b48dfa49-497f-41cd-91bc-1a7af3e22e27
+[I 2025-10-19 22:12:23.071 ServerApp] Starting buffering for b48dfa49-497f-41cd-91bc-1a7af3e22e27:3783f7a7-fc43-4169-9009-e51c3c403b12
+[I 2025-10-19 22:12:23.108 ServerApp] Connecting to kernel b48dfa49-497f-41cd-91bc-1a7af3e22e27.
+[I 2025-10-19 22:12:23.108 ServerApp] Restoring connection for b48dfa49-497f-41cd-91bc-1a7af3e22e27:3783f7a7-fc43-4169-9009-e51c3c403b12
+[I 2025-10-19 22:13:19.540 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:13:39.806 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:16:32.941 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:17:39.995 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:23:40.178 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:24:33.176 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:24:37.864 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:24:38.461 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:24:51.749 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:24:58.257 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:25:26.354 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:26:50.002 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:27:40.315 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:28:50.115 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:30:33.269 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:31:28.759 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:31:40.789 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:31:55.708 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:33:55.821 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:35:46.069 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:35:51.160 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:35:51.321 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:35:57.806 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:36:01.579 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:37:15.396 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:37:18.177 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:38:32.404 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:38:32.734 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:39:18.438 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:39:39.304 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:40:35.040 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:40:36.873 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:41:08.450 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:41:10.062 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:42:20.346 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:42:36.034 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:42:36.998 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:42:37.554 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:43:00.019 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:44:20.637 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:44:37.235 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:45:25.873 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:45:31.187 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:45:38.262 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:45:38.501 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:46:11.897 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:46:12.104 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:46:37.550 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:46:51.453 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:46:52.051 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:46:55.662 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:47:10.082 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:47:10.330 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:47:12.843 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:47:36.068 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:49:12.975 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:49:36.182 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:51:13.113 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:51:16.783 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:53:14.474 ServerApp] Kernel restarted: b48dfa49-497f-41cd-91bc-1a7af3e22e27
+[I 2025-10-19 22:53:14.570 ServerApp] Starting buffering for b48dfa49-497f-41cd-91bc-1a7af3e22e27:3783f7a7-fc43-4169-9009-e51c3c403b12
+[I 2025-10-19 22:53:14.615 ServerApp] Connecting to kernel b48dfa49-497f-41cd-91bc-1a7af3e22e27.
+[I 2025-10-19 22:53:14.616 ServerApp] Restoring connection for b48dfa49-497f-41cd-91bc-1a7af3e22e27:3783f7a7-fc43-4169-9009-e51c3c403b12
+[I 2025-10-19 22:53:16.997 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:54:39.936 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:54:41.907 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:54:59.403 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:55:13.325 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:55:17.124 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:57:01.762 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:57:17.252 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 22:57:21.665 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:57:22.075 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:58:02.950 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:58:03.362 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 22:59:17.372 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:01:17.557 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:03:17.736 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:05:17.863 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:07:18.116 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:09:18.321 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:11:29.152 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:12:03.323 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 23:13:29.278 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:14:39.537 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 23:15:29.407 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:16:39.753 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 23:17:29.628 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:18:39.871 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 23:18:40.663 ServerApp] Saving file at /cleaning.py
+[I 2025-10-19 23:19:29.762 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:21:29.892 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:23:30.036 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:25:16.884 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-19 23:25:23.520 ServerApp] Saving file at /urinary_tract_infection.ipynb
