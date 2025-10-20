@@ -36,7 +36,7 @@ datetimeevents = dfs2["datetimeevents"]
 d_items = dfs2["d_items"]
 
 
-## converts import dates to datetime objects, and gets ICU + hospital duration
+## converts dates to datetime objects, and gets ICU + hospital duration
 def get_datetime(df):
     df["outtime"]= pd.to_datetime(df["outtime"])
     df["intime"]=pd.to_datetime(df["intime"])
@@ -76,4 +76,13 @@ def get_vitals(df):
         test = merged[merged["itemid"]==info["itemid"]].groupby("hadm_id")["valuenum"].agg(info["agg"]).reset_index(name=vital)
         result = result.merge(test, on="hadm_id",how="left")
     return result
+
+def get_max_creatinine_bun(df):
+    creatinine = labs[ (labs["itemid"].isin([50912,52546])) & (labs["hadm_id"].isin(df["hadm_id"]))]
+    max_cre = creatinine.groupby("hadm_id")["valuenum"].max().reset_index(name="creatinine_admission_max")
+    bun = labs[ (labs["itemid"] ==51006) & (labs["hadm_id"].isin(df["hadm_id"]))]
+    max_bun = bun.groupby("hadm_id")["valuenum"].max().reset_index(name="bun_admission_max")
+    df = df.merge(max_cre, on="hadm_id", how="left")
+    df = df.merge(max_bun, on="hadm_id", how="left")
+    return df
     
