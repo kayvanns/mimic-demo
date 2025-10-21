@@ -44,7 +44,6 @@ def get_datetime(df):
     df["admittime"] =pd.to_datetime(df["admittime"])
     df["dischtime"] = pd.to_datetime(df["dischtime"])
     df["Hospital_length"] = df["dischtime"]-df["admittime"]
-    df["end_window"] = (df["intime"] + timedelta(hours=4))
     return df
     
 ## merges the patients, admissions and icustays table based on the diagnosis
@@ -65,11 +64,13 @@ def get_base(title):
 ## collects highest/lowest measurements within 4 hours of ICU admission
 vitals = {"heart_rate_max":{'itemid':220045, "agg":'max'}, "blood_pressure_min":{'itemid':220181,"agg":'min'}}
 
-def get_vitals(df):
+def get_vitals(df, before, after):
+    df["end_window"] = (df["intime"] + timedelta(hours=after))
+    df["start_window"] = (df["intime"] - timedelta(hours=before))
     c = chartevents.copy()
     c["charttime"] =pd.to_datetime(c["charttime"])
     merged  = c.merge(df[["hadm_id","intime","end_window"]],on="hadm_id", how="right")
-    mask = (merged['charttime'] >= merged['intime']) & (merged['charttime'] <= merged["end_window"])
+    mask =  (merged['intime'] <= merged['charttime']) & (merged['charttime']<=merged["end_window"])
     merged = merged[mask]
     result = df[["hadm_id"]]
     for vital, info in vitals.items():
