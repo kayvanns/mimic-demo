@@ -7044,3 +7044,30 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2025-10-21 00:12:05.409 ServerApp] Saving file at /urinary_tract_infection.ipynb
 [I 2025-10-21 00:13:40.910 ServerApp] Saving file at /urinary_tract_infection.ipynb
 [I 2025-10-21 00:14:15.933 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-21 00:17:08.501 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-21 00:18:45.855 ServerApp] Kernel shutdown: 61cdc80a-3a29-4881-9836-16033468b158
+[I 2025-10-21 00:18:48.455 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-21 00:18:48.457 ServerApp] Shutting down 5 extensions
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 2025-10-21 01:15:52.849 ServerApp] Malformed HTTP message from 35.229.89.40: Malformed HTTP request line
+[I 2025-10-21 01:15:52.926 ServerApp] 302 GET / (@35.229.89.40) 5.94ms
+[I 2025-10-21 01:15:52.997 ServerApp] 302 GET / (@35.229.89.40) 1.23ms
+[W 2025-10-21 01:15:53.005 ServerApp] 403 POST /sdk (35.229.89.40): '_xsrf' argument missing from POST
+[W 2025-10-21 01:15:53.034 ServerApp] 403 POST /sdk (@35.229.89.40) 35.67ms referer=None
+[W 2025-10-21 01:15:53.040 ServerApp] 404 GET /nmaplowercheck1761009352 (@35.229.89.40) 4.38ms referer=None
+[W 2025-10-21 01:15:53.105 ServerApp] 404 GET /evox/about (@35.229.89.40) 2.11ms referer=None
+[W 2025-10-21 01:15:53.138 ServerApp] 404 GET /HNAP1 (@35.229.89.40) 1.87ms referer=None
+[I 2025-10-21 01:15:53.203 ServerApp] 302 GET / (@35.229.89.40) 0.62ms
+[I 2025-10-21 01:15:53.269 ServerApp] 302 GET / (@35.229.89.40) 0.93ms
