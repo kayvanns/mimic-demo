@@ -1,1389 +1,1389 @@
-,Diagnoses,Count
-0,Unspecified essential hypertension,41
-1,Other and unspecified hyperlipidemia,34
-2,"Acute kidney failure, unspecified",30
-3,"Anemia, unspecified",28
-4,"Urinary tract infection, site not specified",25
-5,"Obesity, unspecified",23
-6,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",21
-7,"Hyperlipidemia, unspecified",21
-8,Personal history of tobacco use,20
-9,"Thrombocytopenia, unspecified",20
-10,Coronary atherosclerosis of native coronary artery,19
-11,Acidosis,19
-12,Acute posthemorrhagic anemia,19
-13,Tobacco use disorder,18
-14,Atrial fibrillation,18
-15,"Chronic kidney disease, unspecified",17
-16,Essential (primary) hypertension,17
-17,"Depressive disorder, not elsewhere classified",16
-18,Esophageal reflux,15
-19,Personal history of nicotine dependence,15
-20,"Hypotension, unspecified",15
-21,Pure hypercholesterolemia,15
-22,Long-term (current) use of anticoagulants,14
-23,"Gout, unspecified",14
-24,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",14
-25,Accidents occurring in residential institution,13
-26,Unspecified atrial fibrillation,13
-27,"Congestive heart failure, unspecified",13
-28,Gastro-esophageal reflux disease without esophagitis,13
-29,Atherosclerotic heart disease of native coronary artery without angina pectoris,13
-30,"Retention of urine, unspecified",13
-31,Encounter for palliative care,13
-32,"Anxiety disorder, unspecified",12
-33,Do not resuscitate,12
-34,Long-term (current) use of insulin,12
-35,Acute respiratory failure,12
-36,Long-term (current) use of aspirin,12
-37,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",11
-38,Long term (current) use of insulin,11
-39,Long term (current) use of antithrombotics/antiplatelets,11
-40,"Encephalopathy, unspecified",11
-41,Hypoxemia,11
-42,Other chronic pain,11
-43,"Chronic obstructive pulmonary disease, unspecified",10
-44,Patient room in hospital as the place of occurrence of the external cause,10
-45,Hyposmolality and/or hyponatremia,10
-46,Do not resuscitate status,10
-47,"Hypothyroidism, unspecified",10
-48,"Chronic kidney disease, stage 3 (moderate)",10
-49,Type 2 diabetes mellitus without complications,10
-50,"Insomnia, unspecified",10
-51,Old myocardial infarction,9
-52,Other ascites,9
-53,Long term (current) use of anticoagulants,9
-54,"Iron deficiency anemia, unspecified",9
-55,"Major depressive disorder, single episode, unspecified",9
-56,"Nicotine dependence, cigarettes, uncomplicated",9
-57,"Asthma, unspecified type, unspecified",9
-58,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",9
-59,Unspecified acquired hypothyroidism,9
-60,Hypo-osmolality and hyponatremia,9
-61,"Pneumonia, organism unspecified",8
-62,Unspecified protein-calorie malnutrition,8
-63,Hyperosmolality and/or hypernatremia,8
-64,Dehydration,8
-65,"Chronic kidney disease, Stage III (moderate)",8
-66,Acute respiratory failure with hypoxia,8
-67,Non-ST elevation (NSTEMI) myocardial infarction,8
-68,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",8
-69,Severe sepsis,8
-70,Personal history of malignant neoplasm of breast,8
-71,Other secondary pulmonary hypertension,8
-72,Acute kidney failure with lesion of tubular necrosis,8
-73,Percutaneous transluminal coronary angioplasty status,8
-74,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",7
-75,"Pneumonia, unspecified organism",7
-76,Hyperpotassemia,7
-77,Pulmonary collapse,7
-78,Ventilator associated pneumonia,7
-79,"Leukocytosis, unspecified",7
-80,Hypopotassemia,7
-81,"Constipation, unspecified",7
-82,Unspecified place in hospital as the place of occurrence of the external cause,7
-83,Presence of coronary angioplasty implant and graft,7
-84,"Tachycardia, unspecified",7
-85,"Dysphagia, unspecified",7
-86,Personal history of antineoplastic chemotherapy,7
-87,Hyperkalemia,7
-88,Home accidents,7
-89,Examination of participant in clinical trial,7
-90,Abnormal coagulation profile,7
-91,Physical restraint status,7
-92,Mitral valve disorders,6
-93,"Sepsis, unspecified organism",6
-94,Nonrheumatic mitral (valve) insufficiency,6
-95,"Alcohol abuse, unspecified",6
-96,Anemia in chronic kidney disease,6
-97,Acute kidney failure with tubular necrosis,6
-98,Obstructive sleep apnea (adult) (pediatric),6
-99,Unspecified place or not applicable,6
-100,Unspecified fall,6
-101,Neoplasm related pain (acute) (chronic),6
-102,Severe sepsis with septic shock,6
-103,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],6
-104,Cardiogenic shock,6
-105,"Chronic airway obstruction, not elsewhere classified",6
-106,"Anxiety state, unspecified",6
-107,Other secondary thrombocytopenia,6
-108,Personal history of other malignant neoplasm of skin,6
-109,Portal hypertension,6
-110,"Unspecified asthma, uncomplicated",6
-111,"Hematuria, unspecified",5
-112,Unspecified severe protein-calorie malnutrition,5
-113,Anemia in other chronic diseases classified elsewhere,5
-114,Other specified bacterial agents as the cause of diseases classified elsewhere,5
-115,Unspecified viral hepatitis C without hepatic coma,5
-116,Delirium due to conditions classified elsewhere,5
-117,Septic shock,5
-118,Long term (current) use of aspirin,5
-119,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere,5
-120,Acute on chronic systolic (congestive) heart failure,5
-121,Type 2 diabetes mellitus with diabetic chronic kidney disease,5
-122,"Peripheral vascular disease, unspecified",5
-123,Alkalosis,5
-124,Personal history of other venous thrombosis and embolism,5
-125,"Heart failure, unspecified",5
-126,Family history of ischemic heart disease and other diseases of the circulatory system,5
-127,Encounter for immunization,5
-128,Pneumonitis due to inhalation of food or vomitus,5
-129,Intestinal infection due to Clostridium difficile,5
-130,Diarrhea,5
-131,Physical restraints status,5
-132,Pneumonitis due to inhalation of food and vomit,5
-133,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",5
-134,"Coagulation defect, unspecified",5
-135,Toxic encephalopathy,5
-136,"Pleural effusion, not elsewhere classified",5
-137,Chronic systolic (congestive) heart failure,5
-138,Paroxysmal atrial fibrillation,5
-139,"Personal history of noncompliance with medical treatment, presenting hazards to health",5
-140,Paralytic ileus,5
-141,Diverticulosis of colon (without mention of hemorrhage),5
-142,Unspecified pleural effusion,5
-143,Atelectasis,5
-144,Loss of weight,4
-145,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",4
-146,"Body Mass Index 32.0-32.9, adult",4
-147,Other disorders of phosphorus metabolism,4
-148,Obstructive sleep apnea (adult)(pediatric),4
-149,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled",4
-150,"Epilepsy, unspecified, not intractable, without status epilepticus",4
-151,"Body mass index (BMI) 40.0-44.9, adult",4
-152,"Cerebral aneurysm, nonruptured",4
-153,Other iatrogenic hypotension,4
-154,Paroxysmal ventricular tachycardia,4
-155,Acute on chronic diastolic (congestive) heart failure,4
-156,Bacteremia,4
-157,Tobacco use,4
-158,Aphasia,4
-159,Anemia of other chronic disease,4
-160,Palpitations,4
-161,Other fluid overload,4
-162,Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH],4
-163,Cellulitis and abscess of trunk,4
-164,Other postoperative infection,4
-165,"Alcohol abuse, in remission",4
-166,Type 2 diabetes mellitus with hypoglycemia without coma,4
-167,"Pure hypercholesterolemia, unspecified",4
-168,Cachexia,4
-169,"Coronary atherosclerosis of unspecified type of vessel, native or graft",4
-170,End stage renal disease,4
-171,Hypokalemia,4
-172,Other specified cardiac dysrhythmias,4
-173,Bariatric surgery status,4
-174,Personal history of peptic ulcer disease,4
-175,Other and unspecified Escherichia coli [E. coli],4
-176,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia",4
-177,Aortic valve disorders,4
-178,Unspecified mood [affective] disorder,4
-179,"Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus",4
-180,Cerebral edema,4
-181,Other primary cardiomyopathies,4
-182,"Backache, unspecified",4
-183,Chronic diastolic (congestive) heart failure,4
-184,"Other and unspecified alcohol dependence, unspecified",4
-185,Hypertensive heart disease with heart failure,4
-186,Personal history of malignant neoplasm of prostate,4
-187,Type 2 diabetes mellitus with hyperglycemia,4
-188,"Adverse effect of anticoagulants, initial encounter",4
-189,"Disorientation, unspecified",4
-190,Gastrostomy status,4
-191,Other chronic pulmonary heart diseases,4
-192,Presence of aortocoronary bypass graft,4
-193,History of falling,4
-194,Personal history of colonic polyps,3
-195,Cardiac pacemaker in situ,3
-196,Hyperosmolality and hypernatremia,3
-197,Family history of ischemic heart disease,3
-198,Alcohol withdrawal,3
-199,"Body mass index (BMI) 33.0-33.9, adult",3
-200,"Body mass index (BMI) 29.0-29.9, adult",3
-201,Personal history of traumatic brain injury,3
-202,Chronic passive congestion of liver,3
-203,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",3
-204,Dependence on renal dialysis,3
-205,"Urinary incontinence, unspecified",3
-206,Hypovolemia,3
-207,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side",3
-208,"Unspecified fall, initial encounter",3
-209,"Schizoaffective disorder, unspecified",3
-210,"Diarrhea, unspecified",3
-211,Headache,3
-212,Altered mental status,3
-213,Homelessness,3
-214,Candidiasis of mouth,3
-215,"Infection following a procedure, initial encounter",3
-216,Chronic hepatitis C without mention of hepatic coma,3
-217,Chronic pulmonary edema,3
-218,Other postprocedural status,3
-219,Acquired absence of breast and nipple,3
-220,Compression of vein,3
-221,Other forms of acute ischemic heart disease,3
-222,Sepsis,3
-223,Nausea with vomiting,3
-224,Type 2 diabetes mellitus with diabetic polyneuropathy,3
-225,Type 2 diabetes mellitus with foot ulcer,3
-226,Knee joint replacement,3
-227,Acute pancreatitis,3
-228,Other streptococcus as the cause of diseases classified elsewhere,3
-229,Peritoneal adhesions (postoperative) (postinfection),3
-230,Metabolic encephalopathy,3
-231,"Accidental puncture or laceration during a procedure, not elsewhere classified",3
-232,Other encephalopathy,3
-233,Iron deficiency anemia secondary to blood loss (chronic),3
-234,Blood in stool,3
-235,Chronic systolic heart failure,3
-236,Syncope and collapse,3
-237,"Other and unspecified alcohol dependence, in remission",3
-238,"Post-traumatic stress disorder, unspecified",3
-239,Acute and chronic respiratory failure with hypoxia,3
-240,"Personal history of irradiation, presenting hazards to health",3
-241,Personal history of malignant neoplasm of tongue,3
-242,Encounter for examination for normal comparison and control in clinical research program,3
-243,Other convulsions,3
-244,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled",3
-245,"Intestinal infection due to other organism, not elsewhere classified",3
-246,"Nicotine dependence, unspecified, uncomplicated",3
-247,"Subendocardial infarction, initial episode of care",3
-248,Disorders of phosphorus metabolism,3
-249,"Hemorrhage of gastrointestinal tract, unspecified",3
-250,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,3
-251,Orthostatic hypotension,3
-252,Disorders of magnesium metabolism,3
-253,Unspecified hereditary and idiopathic peripheral neuropathy,3
-254,Personal history of pulmonary embolism,3
-255,"Disease of pericardium, unspecified",3
-256,"Dysphagia, oropharyngeal phase",3
-257,Alcoholic cirrhosis of liver,3
-258,Anemia in neoplastic disease,3
-259,"Alcohol dependence, in remission",3
-260,"Alcohol abuse, uncomplicated",3
-261,Tumor lysis syndrome,3
-262,Septicemia due to escherichia coli [E. coli],3
-263,Unspecified atrial flutter,3
-264,Posttraumatic stress disorder,3
-265,"Chest pain, unspecified",3
-266,"Dementia, unspecified, without behavioral disturbance",3
-267,Unspecified vascular insufficiency of intestine,3
-268,Acute on chronic diastolic heart failure,3
-269,Irritable bowel syndrome,3
-270,Encounter for antineoplastic chemotherapy,3
-271,Other place in hospital as the place of occurrence of the external cause,3
-272,"Nephropathy induced by other drugs, medicaments and biological substances",3
-273,Abnormal levels of other serum enzymes,3
-274,"Adverse effect of antineoplastic and immunosuppressive drugs, initial encounter",3
-275,Hemorrhage complicating a procedure,3
-276,Chronic total occlusion of coronary artery,3
-277,Street and highway accidents,3
-278,Asymptomatic human immunodeficiency virus [HIV] infection status,3
-279,Unspecified psychosis,3
-280,Other nonspecific findings on examination of urine,3
-281,"Chronic kidney disease, stage 4 (severe)",3
-282,Intracerebral hemorrhage,3
-283,"Cardiac complications, not elsewhere classified",3
-284,"Arthropathy, unspecified, site unspecified",3
-285,Other constipation,3
-286,Unspecified septicemia,3
-287,Delirium due to known physiological condition,3
-288,"Respiratory failure, unspecified with hypoxia",3
-289,Other pancytopenia,3
-290,Anuria and oliguria,3
-291,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",3
-292,"Acute edema of lung, unspecified",3
-293,"Alcohol dependence with withdrawal, unspecified",3
-294,"Abdominal aortic aneurysm, without rupture",2
-295,Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause,2
-296,Mixed disorder of acid-base balance,2
-297,Other B-complex deficiencies,2
-298,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation",2
-299,Rheumatic disorders of both mitral and tricuspid valves,2
-300,Pseudomonas infection in conditions classified elsewhere and of unspecified site,2
-301,Calculus of kidney,2
-302,Hemorrhage of rectum and anus,2
-303,Other nonspecific abnormal finding of lung field,2
-304,Acute on chronic systolic heart failure,2
-305,Other specified forms of chronic ischemic heart disease,2
-306,Dependence on respirator [ventilator] status,2
-307,"Body mass index (BMI) 38.0-38.9, adult",2
-308,Acute embolism and thrombosis of left femoral vein,2
-309,Edema,2
-310,"Body Mass Index between 19-24, adult",2
-311,Other cardiomyopathies,2
-312,Unspecified glaucoma,2
-313,Other diuretics causing adverse effects in therapeutic use,2
-314,Other specified coagulation defects,2
-315,Diaphragmatic hernia without obstruction or gangrene,2
-316,Procedure and treatment not carried out because of other contraindication,2
-317,Secondary esophageal varices without bleeding,2
-318,Supraventricular tachycardia,2
-319,"Body mass index (BMI) 24.0-24.9, adult",2
-320,"Other foreign object in respiratory tract, part unspecified in causing asphyxiation, initial encounter",2
-321,Alcoholic cirrhosis of liver with ascites,2
-322,Chronic diastolic heart failure,2
-323,Barrett's esophagus without dysplasia,2
-324,Pain in left shoulder,2
-325,Nonrheumatic aortic (valve) stenosis,2
-326,"Acquired absence of organ, genital organs",2
-327,Alcohol withdrawal delirium,2
-328,Encounter for adjustment and management of other part of cardiac pacemaker,2
-329,Nontraumatic hematoma of soft tissue,2
-330,Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility,2
-331,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",2
-332,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",2
-333,"Hepatic failure, unspecified without coma",2
-334,"Jaundice, unspecified, not of newborn",2
-335,Other and unspecified coagulation defects,2
-336,"Body Mass Index 31.0-31.9, adult",2
-337,Epistaxis,2
-338,Gross hematuria,2
-339,Enterocolitis due to Clostridium difficile,2
-340,Other shock,2
-341,Dependence on supplemental oxygen,2
-342,Malignant pleural effusion,2
-343,Dysphonia,2
-344,Atrial flutter,2
-345,Atherosclerosis of aorta,2
-346,Borderline personality disorder,2
-347,Automatic implantable cardiac defibrillator in situ,2
-348,Unspecified disease of pericardium,2
-349,Intermediate coronary syndrome,2
-350,Other opiates and related narcotics causing adverse effects in therapeutic use,2
-351,Attention deficit disorder with hyperactivity,2
-352,Other dysphagia,2
-353,"Altered mental status, unspecified",2
-354,"Cerebral artery occlusion, unspecified with cerebral infarction",2
-355,Secondary malignant neoplasm of bone and bone marrow,2
-356,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,2
-357,Pneumonia due to Klebsiella pneumoniae,2
-358,Solitary pulmonary nodule,2
-359,Need for prophylactic vaccination and inoculation against influenza,2
-360,Cirrhosis of liver without mention of alcohol,2
-361,Atherosclerosis of renal artery,2
-362,Monoclonal gammopathy,2
-363,Multiple myeloma not having achieved remission,2
-364,Acute alcoholic hepatitis,2
-365,Defibrination syndrome,2
-366,Alcoholic polyneuropathy,2
-367,"Urethral stricture, unspecified",2
-368,Other septicemia due to gram-negative organisms,2
-369,"Other diseases of lung, not elsewhere classified",2
-370,Rash and other nonspecific skin eruption,2
-371,Other respiratory abnormalities,2
-372,Accidents occurring in unspecified place,2
-373,"Body mass index (BMI) 32.0-32.9, adult",2
-374,"Acute alcoholic intoxication in alcoholism, continuous",2
-375,Unspecified dementia without behavioral disturbance,2
-376,Bronchiectasis without acute exacerbation,2
-377,Persistent atrial fibrillation,2
-378,"Polyneuropathy, unspecified",2
-379,"Fever, unspecified",2
-380,Other and unspecified anti-infectives causing adverse effects in therapeutic use,2
-381,"Adverse effect of diagnostic agents, initial encounter",2
-382,Other specified abnormal findings of blood chemistry,2
-383,Unspecified mental disorder due to known physiological condition,2
-384,Umbilical hernia without mention of obstruction or gangrene,2
-385,"Adverse effect of loop [high-ceiling] diuretics, initial encounter",2
-386,Morbid (severe) obesity due to excess calories,2
-387,"Multiple myeloma, without mention of having achieved remission",2
-388,"Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",2
-389,"Other and unspecified alcohol dependence, continuous",2
-390,"Bradycardia, unspecified",2
-391,Other candidiasis of other specified sites,2
-392,"Venous (peripheral) insufficiency, unspecified",2
-393,Other chest pain,2
-394,Other nonspecific abnormal serum enzyme levels,2
-395,"Body mass index (BMI) 30.0-30.9, adult",2
-396,Melena,2
-397,Closed fracture of lumbar vertebra without mention of spinal cord injury,2
-398,Dysuria,2
-399,"Family history of malignant neoplasm of trachea, bronchus, and lung",2
-400,Compression of brain,2
-401,Disruption of external operation (surgical) wound,2
-402,Personal history of Methicillin resistant Staphylococcus aureus,2
-403,"Malignant neoplasm of tongue, unspecified",2
-404,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side,2
-405,Low back pain,2
-406,"Other dependence on machines, supplemental oxygen",2
-407,"Bipolar disorder, unspecified",2
-408,"Body mass index (BMI) 19.9 or less, adult",2
-409,Other and unspecified infection due to central venous catheter,2
-410,Localized edema,2
-411,Cardiac tamponade,2
-412,Pericardial effusion (noninflammatory),2
-413,Fever presenting with conditions classified elsewhere,2
-414,"Adverse effect of other opioids, initial encounter",2
-415,"Contusion of left lower leg, initial encounter",2
-416,"Localized swelling, mass and lump, left upper limb",2
-417,"Other diseases of bronchus, not elsewhere classified",2
-418,Other late effects of cerebrovascular disease,2
-419,"Decreased white blood cell count, unspecified",2
-420,Accidental fall on or from other stairs or steps,2
-421,Traumatic pneumothorax without mention of open wound into thorax,2
-422,Injury to thoracic aorta,2
-423,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,2
-424,Dysarthria,2
-425,Unspecified convulsions,2
-426,"Surgical operation with implant of artificial internal device as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",2
-427,"Other complications due to other vascular device, implant, and graft",2
-428,Personal history of pneumonia (recurrent),2
-429,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury,2
-430,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,2
-431,Candidiasis of other urogenital sites,2
-432,Other drugs and medicinal substances causing adverse effects in therapeutic use,2
-433,Adrenal cortical steroids causing adverse effects in therapeutic use,2
-434,Other digestive system complications,2
-435,Severe sepsis without septic shock,2
-436,Other urogenital candidiasis,2
-437,Cyst and pseudocyst of pancreas,2
-438,Colostomy status,2
-439,Acute embolism and thrombosis of deep veins of left upper extremity,2
-440,Grand mal status,2
-441,Nontoxic multinodular goiter,2
-442,"Osteoporosis, unspecified",2
-443,Unspecified macular degeneration,2
-444,Peripheral vascular angioplasty status with implants and grafts,2
-445,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,2
-446,Candidiasis of skin and nails,2
-447,"Contact dermatitis and other eczema, unspecified cause",2
-448,Chronic atrial fibrillation,2
-449,Type 2 diabetes mellitus with diabetic nephropathy,2
-450,Facial weakness,2
-451,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",2
-452,Acute pulmonary edema,2
-453,Ischemic cardiomyopathy,2
-454,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",2
-455,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene,2
-456,Cellulitis of left lower limb,2
-457,"Other acute and subacute forms of ischemic heart disease, other",2
-458,Benign neoplasm of cerebral meninges,2
-459,Embolism and thrombosis of other specified artery,2
-460,"Other psychoactive substance abuse, uncomplicated",2
-461,Closed fracture of four ribs,2
-462,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]",2
-463,Barrett's esophagus,2
-464,"Body mass index (BMI) 35.0-35.9, adult",2
-465,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",2
-466,Personal history of self-harm,2
-467,Unspecified disorder of kidney and ureter,2
-468,"Fistula of intestine, excluding rectum and anus",2
-469,Postprocedural hypotension,2
-470,"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",2
-471,"Unspecified injury of head, initial encounter",2
-472,"Alcohol abuse with intoxication, unspecified",2
-473,Personal history of alcoholism,2
-474,"Epilepsy, unspecified, without mention of intractable epilepsy",2
-475,Arthrodesis status,2
-476,"Malignant neoplasm of bronchus and lung, unspecified",2
-477,"Late effects of cerebrovascular disease, cognitive deficits",2
-478,Acquired absence of intestine (large) (small),2
-479,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS),2
-480,Peritoneal abscess,2
-481,"Fall on same level, unspecified, initial encounter",2
-482,Family history of malignant neoplasm of breast,2
-483,Hip joint replacement,2
-484,Other acute postoperative pain,2
-485,"Other specified forms of effusion, except tuberculous",2
-486,"Removal of other organ (partial) (total) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",2
-487,Phlebitis and thrombophlebitis of superficial veins of upper extremities,2
-488,Presence of automatic (implantable) cardiac defibrillator,2
-489,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",2
-490,"Other postprocedural shock, initial encounter",2
-491,Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle,2
-492,Other cirrhosis of liver,2
-493,Amyotrophic lateral sclerosis,2
-494,Dermatitis due to drugs and medicines taken internally,2
-495,Hepatorenal syndrome,2
-496,Adult failure to thrive,2
-497,Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere,2
-498,Acute and subacute hepatic failure without coma,2
-499,Personal history of sudden cardiac arrest,2
-500,"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney",2
-501,Acute and subacute necrosis of liver,2
-502,"Other, mixed, or unspecified drug abuse, unspecified",2
-503,Acute and subacute hepatic failure with coma,2
-504,Nonalcoholic steatohepatitis (NASH),2
-505,Hypovolemic shock,2
-506,Postprocedural fever,2
-507,"Schizophrenia, unspecified",2
-508,"Esophagitis, unspecified",2
-509,Acute vascular insufficiency of intestine,2
-510,Personal history of urinary calculi,2
-511,Pulmonary congestion and hypostasis,2
-512,Mixed acid-base balance disorder,2
-513,Personal history of malignant neoplasm of other parts of uterus,2
-514,Diaphragmatic hernia without mention of obstruction or gangrene,2
-515,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),2
-516,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",2
-517,Unspecified sinusitis (chronic),2
-518,Other and unspecified angina pectoris,2
-519,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled",1
-520,Benign prostatic hyperplasia without lower urinary tract symptoms,1
-521,Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm,1
-522,Dizziness and giddiness,1
-523,Friedländer's bacillus infection in conditions classified elsewhere and of unspecified site,1
-524,"Swelling, mass, or lump in head and neck",1
-525,Acute cor pulmonale,1
-526,"Leukemia, unspecified not having achieved remission",1
-527,Chronic or unspecified duodenal ulcer with hemorrhage,1
-528,"Idiopathic gout, unspecified site",1
-529,Acute glomerulonephritis with unspecified pathological lesion in kidney,1
-530,Calculus of gallbladder without cholecystitis without obstruction,1
-531,Metabolic syndrome,1
-532,Hemoglobinuria,1
-533,Other and unspecified mycoses,1
-534,Other specified diseases of pancreas,1
-535,"Myelodysplastic disease, not classified",1
-536,"Primary osteoarthritis, left ankle and foot",1
-537,"Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding",1
-538,Acute and chronic respiratory failure with hypercapnia,1
-539,"Cocaine abuse, uncomplicated",1
-540,Other acute pain,1
-541,Other specified diseases of upper respiratory tract,1
-542,Other Staphylococcus pneumonia,1
-543,Abdominal aneurysm without mention of rupture,1
-544,"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",1
-545,Neurogenic bladder NOS,1
-546,Other and unspecified noninfectious gastroenteritis and colitis,1
-547,"Abdominal pain, other specified site",1
-548,Malignant neoplasm of thyroid gland,1
-549,"Neuromuscular dysfunction of bladder, unspecified",1
-550,Acquired absence of both cervix and uterus,1
-551,Mitral stenosis,1
-552,Chronic combined systolic (congestive) and diastolic (congestive) heart failure,1
-553,Presence of xenogenic heart valve,1
-554,Adjustment disorder with other symptoms,1
-555,Congenital stricture of urethra,1
-556,Family history of malignant neoplasm of other genital organs,1
-557,Personal history of irradiation,1
-558,Postmenopausal atrophic vaginitis,1
-559,Other malaise,1
-560,"Body Mass Index 25.0-25.9, adult",1
-561,Unspecified hearing loss,1
-562,Infarction of spleen,1
-563,Other overlap syndromes,1
-564,Other emphysema,1
-565,Other and unspecified ovarian cyst,1
-566,Other chronic pancreatitis,1
-567,"Pulmonary hypertension, unspecified",1
-568,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,1
-569,Secondary esophageal varices with bleeding,1
-570,Other myelodysplastic syndromes,1
-571,"Car occupant (driver) (passenger) injured in unspecified traffic accident, initial encounter",1
-572,"Cyst of kidney, acquired",1
-573,"Ulceration of vulva, unspecified",1
-574,"Acquired hemolytic anemia, unspecified",1
-575,Other specified septicemias,1
-576,Malignant neoplasm of unspecified part of unspecified bronchus or lung,1
-577,Mononeuritis of unspecified site,1
-578,Heartburn,1
-579,"Manic episode, unspecified",1
-580,Alcohol induced acute pancreatitis without necrosis or infection,1
-581,Other musculoskeletal symptoms referable to limbs,1
-582,"Cocaine abuse, unspecified",1
-583,Hepatopulmonary syndrome,1
-584,Facial weakness following cerebral infarction,1
-585,Panic disorder without agoraphobia,1
-586,"Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",1
-587,Hesitancy of micturition,1
-588,Chronic glomerulonephritis with unspecified pathological lesion in kidney,1
-589,Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere,1
-590,Sebaceous cyst,1
-591,Other drug-induced agranulocytosis,1
-592,Aneurysm of artery of lower extremity,1
-593,"Adverse effect of sulfonamides, initial encounter",1
-594,"Nutritional anemia, unspecified",1
-595,Benign prostatic hyperplasia with lower urinary tract symptoms,1
-596,Personal history of other diseases of digestive system,1
-597,Intestinal bypass and anastomosis status,1
-598,"Complication of other artery following a procedure, not elsewhere classified, initial encounter",1
-599,"Splenomegaly, not elsewhere classified",1
-600,Chronic pancreatitis,1
-601,Acute venous embolism and thrombosis of subclavian veins,1
-602,Chronic or unspecified gastrojejunal ulcer with hemorrhage,1
-603,Resistance to penicillins,1
-604,"Radiological procedure and radiotherapy as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",1
-605,"Herpesviral infection, unspecified",1
-606,Other specified disorders of biliary tract,1
-607,Septicemia due to anaerobes,1
-608,Coalworker's pneumoconiosis,1
-609,"Myelodysplastic syndrome, unspecified",1
-610,Septicemia due to pseudomonas,1
-611,Unspecified abdominal pain,1
-612,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere,1
-613,"Traumatic hemothorax, initial encounter",1
-614,"Cannabis use, unspecified, uncomplicated",1
-615,Acute bronchitis,1
-616,"Infective otitis externa, unspecified",1
-617,"Urinary obstruction, not elsewhere classified",1
-618,Essential thrombocythemia,1
-619,Bone marrow replaced by transplant,1
-620,Shortness of breath,1
-621,"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",1
-622,Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site,1
-623,"Fracture of one rib, left side, initial encounter for closed fracture",1
-624,Estrogen receptor positive status [ER+],1
-625,"Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",1
-626,"Other fracture of T7-T8 thoracic vertebra, initial encounter for closed fracture",1
-627,"Concussion and edema of thoracic spinal cord, initial encounter",1
-628,"Drug induced headache, not elsewhere classified",1
-629,Lump or mass in breast,1
-630,Bloodstream infection due to central venous catheter,1
-631,Left upper quadrant pain,1
-632,"Hepatitis, unspecified",1
-633,"Unspecified fracture of second lumbar vertebra, initial encounter for closed fracture",1
-634,Other agents affecting blood constituents causing adverse effects in therapeutic use,1
-635,Neutropenia due to infection,1
-636,"Viral pneumonia, unspecified",1
-637,Family history of malignant neoplasm of gastrointestinal tract,1
-638,Candidiasis of vulva and vagina,1
-639,Influenza with pneumonia,1
-640,"Unspecified injury of left shoulder and upper arm, initial encounter",1
-641,"Personal history, urinary (tract) infection",1
-642,Accidental poisoning by hormones and synthetic substitutes,1
-643,Hypothermia not associated with low environmental temperature,1
-644,"Other anomalies of cervix, vagina, and external female genitalia",1
-645,"Unspecified kyphosis, site unspecified",1
-646,"Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",1
-647,Poisoning by insulins and antidiabetic agents,1
-648,Other myeloid leukemia not having achieved remission,1
-649,"Graft-versus-host disease, unspecified",1
-650,Acquired absence of left breast and nipple,1
-651,Unspecified bacterial pneumonia,1
-652,"Neutropenia, unspecified",1
-653,"Sicca syndrome, unspecified",1
-654,Hemoptysis,1
-655,Stem cells transplant status,1
-656,"Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",1
-657,"Conjunctival hemorrhage, bilateral",1
-658,"Cellulitis and abscess of hand, except fingers and thumb",1
-659,Pneumocystosis,1
-660,Cholesteatoma of attic,1
-661,"Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident, initial encounter",1
-662,Other pulmonary aspergillosis,1
-663,Lack of coordination,1
-664,"Adverse effect of cephalosporins and other beta-lactam antibiotics, initial encounter",1
-665,Adhesive capsulitis of shoulder,1
-666,History of fall,1
-667,Other specified hypoglycemia,1
-668,Contact with and (suspected) exposure to other potentially hazardous substances,1
-669,Unspecified acute appendicitis,1
-670,Sprains and strains of unspecified site of knee and leg,1
-671,Unspecified accident,1
-672,Unspecified psychosis not due to a substance or known physiological condition,1
-673,"Family history of malignant neoplasm of trachea, bronchus and lung",1
-674,Vaccination not carried out because of chronic illness or condition,1
-675,Other specified alveolar and parietoalveolar pneumonopathies,1
-676,"Other and unspecified superficial injury of hip, thigh, leg, and ankle, without mention of infection",1
-677,"Accidental cut, puncture, perforation or hemorrhage during heart catheterization",1
-678,Postinflammatory pulmonary fibrosis,1
-679,Dysthymic disorder,1
-680,Nausea alone,1
-681,Personal history of allergy to other antibiotic agent,1
-682,Intravenous anesthetics causing adverse effects in therapeutic use,1
-683,Antineoplastic chemotherapy induced pancytopenia,1
-684,Anorexia,1
-685,"Opioid abuse, uncomplicated",1
-686,Family history of unspecified malignant neoplasm,1
-687,"Body Mass Index 45.0-49.9, adult",1
-688,"Acute myeloid leukemia, without mention of having achieved remission",1
-689,Aspergillosis,1
-690,Pneumonia in aspergillosis,1
-691,Local infection due to central venous catheter,1
-692,Carcinoma in situ of breast,1
-693,Nontoxic single thyroid nodule,1
-694,Malignant neoplasm of other and unspecified sites of male breast,1
-695,"Acute myeloid leukemia, in remission",1
-696,Other paved roadways as the place of occurrence of the external cause,1
-697,"Acute myeloblastic leukemia, in relapse",1
-698,Toxic gastroenteritis and colitis,1
-699,Long term (current) use of antibiotics,1
-700,Contact with and (suspected) exposure to other viral communicable diseases,1
-701,"Tension-type headache, unspecified, not intractable",1
-702,Abnormal weight loss,1
-703,Contusion of toe,1
-704,"Driver of other special all-terrain or other off-road motor vehicle injured in traffic accident, sequela",1
-705,Pain in right shoulder,1
-706,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified",1
-707,"Body mass index (BMI) 26.0-26.9, adult",1
-708,Long term (current) use of selective estrogen receptor modulators (SERMs),1
-709,"Gastrointestinal hemorrhage, unspecified",1
-710,"Hemiplegia, unspecified, affecting unspecified side",1
-711,Chronic hepatitis C with hepatic coma,1
-712,"Other myeloid leukemia, in relapse",1
-713,Dysarthria following cerebral infarction,1
-714,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side,1
-715,Pilonidal cyst without abscess,1
-716,Malignant neoplasm of central portion of female breast,1
-717,"Chronic ischemic heart disease, unspecified",1
-718,Periapical abscess without sinus,1
-719,Rheumatic disorders of both aortic and tricuspid valves,1
-720,"Anorexia nervosa, restricting type",1
-721,Other specified hypothyroidism,1
-722,Non-pressure chronic ulcer of other part of left foot with necrosis of muscle,1
-723,Sleep terrors [night terrors],1
-724,Non-pressure chronic ulcer of right heel and midfoot with unspecified severity,1
-725,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus",1
-726,Type 2 diabetes mellitus with other skin complications,1
-727,Type 2 diabetes mellitus with other skin ulcer,1
-728,"Atherosclerosis of native arteries of extremities with gangrene, left leg",1
-729,Non-pressure chronic ulcer of left calf with unspecified severity,1
-730,Non-pressure chronic ulcer of left heel and midfoot with unspecified severity,1
-731,"Diastolic heart failure, unspecified",1
-732,Hyperplasia of renal artery,1
-733,"Blindness, both eyes",1
-734,"Food in respiratory tract, part unspecified causing asphyxiation, initial encounter",1
-735,"Adverse effect of unspecified antiepileptic and sedative-hypnotic drugs, initial encounter",1
-736,Long QT syndrome,1
-737,Pleural effusion in other conditions classified elsewhere,1
-738,"Legal blindness, as defined in USA",1
-739,"Cannabis dependence, uncomplicated",1
-740,"Urinary obstruction, unspecified",1
-741,"Unspecified polyarthropathy or polyarthritis, site unspecified",1
-742,Patient's other noncompliance with medication regimen,1
-743,Unspecified sleep apnea,1
-744,Bite of other animal except arthropod,1
-745,Contusion of hand(s),1
-746,Difficulty in walking,1
-747,Human immunodeficiency virus [HIV] disease,1
-748,Nonrheumatic tricuspid (valve) insufficiency,1
-749,Other disorders of bilirubin metabolism,1
-750,Diseases of tricuspid valve,1
-751,"Body Mass Index 27.0-27.9, adult",1
-752,Dysphagia following cerebral infarction,1
-753,Fitting and adjustment of cardiac pacemaker,1
-754,Renal agenesis and dysgenesis,1
-755,Regional enteritis of unspecified site,1
-756,Infection with microorganisms resistant to penicillins,1
-757,"Late effects of cerebrovascular disease, aphasia",1
-758,Closed fracture of intertrochanteric section of neck of femur,1
-759,"Hypoglycemia, unspecified",1
-760,Other symbolic dysfunction,1
-761,Occlusion and stenosis of carotid artery without mention of cerebral infarction,1
-762,Unemployment,1
-763,"Enterocolitis due to Clostridium difficile, not specified as recurrent",1
-764,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure,1
-765,Other psychotic disorder not due to a substance or known physiological condition,1
-766,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",1
-767,Eosinophilia,1
-768,Encounter for attention to tracheostomy,1
-769,Other frontotemporal dementia,1
-770,Encounter for fitting and adjustment of other specified devices,1
-771,Encounter for attention to other artificial openings of digestive tract,1
-772,Tracheostomy status,1
-773,"Adverse effect of other antihypertensive drugs, initial encounter",1
-774,"Retinal vascular occlusion, unspecified",1
-775,"Pain in joint, site unspecified",1
-776,Occlusion and stenosis of right carotid artery,1
-777,Contact with or exposure to other viral diseases,1
-778,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled",1
-779,"Displaced comminuted fracture of shaft of right tibia, initial encounter for closed fracture",1
-780,Other specified disorders of arteries and arterioles,1
-781,"Contusion of left foot, initial encounter",1
-782,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding",1
-783,Personal history of Hodgkin lymphoma,1
-784,Multiple involvement of mitral and aortic valves,1
-785,Personal history of hodgkin's disease,1
-786,Other acquired absence of organ,1
-787,Personal history of other lymphatic and hematopoietic neoplasms,1
-788,Presence of prosthetic heart valve,1
-789,Occlusion and stenosis of left carotid artery,1
-790,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites",1
-791,Heart valve replaced by transplant,1
-792,Aortocoronary bypass status,1
-793,"Body Mass Index 37.0-37.9, adult",1
-794,Resistance to other specified antimicrobial drug,1
-795,Saddle embolus of pulmonary artery with acute cor pulmonale,1
-796,Unspecified place in other specified residential institution as the place of occurrence of the external cause,1
-797,"Other cause of strike by thrown, projected or falling object, initial encounter",1
-798,"Fall on same level, unspecified, subsequent encounter",1
-799,Family history of malignant neoplasm of digestive organs,1
-800,Chronic obstructive pulmonary disease with (acute) exacerbation,1
-801,Other specified disorders of adrenal gland,1
-802,"Allergic rhinitis, unspecified",1
-803,Palmar fascial fibromatosis [Dupuytren],1
-804,"Migraine with aura, not intractable, without status migrainosus",1
-805,"Retinal artery branch occlusion, unspecified eye",1
-806,"Adverse effect of penicillins, initial encounter",1
-807,Drug induced constipation,1
-808,Resistance to vancomycin,1
-809,Resistance to quinolones and fluoroquinolones,1
-810,Full incontinence of feces,1
-811,Non-pressure chronic ulcer of other part of left foot with unspecified severity,1
-812,"Pressure ulcer of other site, unspecified stage",1
-813,Actinic keratosis,1
-814,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia",1
-815,"Body Mass Index 36.0-36.9, adult",1
-816,Cellulitis and abscess of face,1
-817,"Cannabis abuse, continuous",1
-818,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,1
-819,Acute pyelonephritis,1
-820,Enterococcus as the cause of diseases classified elsewhere,1
-821,Other malaise and fatigue,1
-822,Other ureteric obstruction,1
-823,Drug-induced delirium,1
-824,Anticoagulants causing adverse effects in therapeutic use,1
-825,Anal or rectal pain,1
-826,Other artificial opening of urinary tract status,1
-827,Personal history of pathologic fracture,1
-828,Malignant neoplasm of rectum,1
-829,Calculus of ureter,1
-830,Other specified analgesics and antipyretics causing adverse effects in therapeutic use,1
-831,"Dependence on respirator, status",1
-832,"Tubulo-interstitial nephritis, not specified as acute or chronic",1
-833,Dyskinesia of esophagus,1
-834,Unspecified intestinal obstruction,1
-835,Congenital hydronephrosis,1
-836,"Other antipsychotics, neuroleptics, and major tranquilizers causing adverse effects in therapeutic use",1
-837,"Unspecified injury of left hip, initial encounter",1
-838,Suicidal ideation,1
-839,Secondary malignant neoplasm of retroperitoneum and peritoneum,1
-840,Encounter for attention to colostomy,1
-841,Secondary malignant neoplasm of other digestive organs,1
-842,Lack of housing,1
-843,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system, initial encounter",1
-844,"Other disorders of plasma-protein metabolism, not elsewhere classified",1
-845,Adult hypertrophic pyloric stenosis,1
-846,"Osteoarthritis of knee, unspecified",1
-847,Sicca syndrome,1
-848,"Hemiplegia, unspecified affecting right dominant side",1
-849,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site,1
-850,Unsteadiness on feet,1
-851,Ataxia following other cerebrovascular disease,1
-852,Cerebral infarction due to embolism of unspecified cerebral artery,1
-853,Localized skin eruption due to drugs and medicaments taken internally,1
-854,Empyema without mention of fistula,1
-855,Chronic myeloproliferative disease,1
-856,"Adverse effect of drugs affecting uric acid metabolism, initial encounter",1
-857,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",1
-858,"Malignant neoplasm of liver, secondary",1
-859,Stricture of artery,1
-860,"Malignant neoplasm of anus, unspecified site",1
-861,Varices of other sites,1
-862,Other specified disorders of peritoneum,1
-863,Malignant neoplasm of body of pancreas,1
-864,Malignant neoplasm of right main bronchus,1
-865,"Candidiasis, unspecified",1
-866,"Sciatica, unspecified side",1
-867,"Personal history of surgery to heart and great vessels, presenting hazards to health",1
-868,Malignant neoplasm of left main bronchus,1
-869,Esophageal obstruction,1
-870,Fibromyalgia,1
-871,Candidal stomatitis,1
-872,Other adrenal hypofunction,1
-873,"Osteoarthrosis, unspecified whether generalized or localized, lower leg",1
-874,Early satiety,1
-875,"Nystagmus, unspecified",1
-876,"Nausea with vomiting, unspecified",1
-877,"Psoriasis, unspecified",1
-878,Age-related osteoporosis without current pathological fracture,1
-879,Alcoholic hepatitis with ascites,1
-880,Encounter for adjustment and management of automatic implantable cardiac defibrillator,1
-881,"Other complications following infusion, transfusion and therapeutic injection, initial encounter",1
-882,Dilated cardiomyopathy,1
-883,Postprocedural pneumothorax,1
-884,Rheumatic tricuspid insufficiency,1
-885,Acquired absence of kidney,1
-886,Unspecified cataract,1
-887,Malignant neoplasm of anal canal,1
-888,"Anoxic brain damage, not elsewhere classified",1
-889,Paranoid schizophrenia,1
-890,Cardiomyopathy due to drug and external agent,1
-891,Personal history of other malignant neoplasm of kidney,1
-892,"Adverse effect of unspecified antipsychotics and neuroleptics, sequela",1
-893,Undiagnosed cardiac murmurs,1
-894,"Paranoid type schizophrenia, unspecified",1
-895,Personal history of malignant neoplasm of kidney,1
-896,"Other displaced fracture of upper end of right humerus, subsequent encounter for fracture with routine healing",1
-897,Acute embolism and thrombosis of deep veins of right upper extremity,1
-898,Cervicalgia,1
-899,Suicidal ideations,1
-900,"Secondary cardiomyopathy, unspecified",1
-901,"Impacted cerumen, unspecified ear",1
-902,Microscopic hematuria,1
-903,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",1
-904,"Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus",1
-905,Other drug-induced pancytopenia,1
-906,Hallucinations,1
-907,"Mechanical complication of other vascular device, implant, and graft",1
-908,"Paranoid type schizophrenia, chronic",1
-909,"Alcohol use, unspecified with unspecified alcohol-induced disorder",1
-910,Other specified misadventures during medical care,1
-911,Other left bundle branch block,1
-912,"Cocaine use, unspecified, uncomplicated",1
-913,Accidents occurring in other specified places,1
-914,"Opioid abuse, in remission",1
-915,Mechanical complication of automatic implantable cardiac defibrillator,1
-916,"Ventral, unspecified, hernia without mention of obstruction or gangrene",1
-917,Drug-induced mood disorder,1
-918,"Acute venous embolism and thrombosis of upper extremity, unspecified",1
-919,Other specified intestinal obstruction,1
-920,Systemic inflammatory response syndrome due to noninfectious process with acute organ dysfunction,1
-921,"Body Mass Index 33.0-33.9, adult",1
-922,Dysmenorrhea,1
-923,"Postoperative shock, other",1
-924,"Fracture, cause unspecified",1
-925,Laparoscopic surgical procedure converted to open procedure,1
-926,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",1
-927,"Closed fracture of phalanx or phalanges of hand, unspecified",1
-928,"Other psychoactive substance use, unspecified with psychoactive substance-induced mood disorder",1
-929,Spontaneous bacterial peritonitis,1
-930,Tachypnea,1
-931,Natural blood and blood products causing adverse effects in therapeutic use,1
-932,Other specified disorders of stomach and duodenum,1
-933,Esophageal varices without mention of bleeding,1
-934,Other pulmonary embolism without acute cor pulmonale,1
-935,Ventricular tachycardia,1
-936,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh",1
-937,Unarmed fight or brawl,1
-938,Closed fracture of nasal bones,1
-939,Personal history of malignant neoplasm of large intestine,1
-940,Glucocorticoid deficiency,1
-941,Oliguria and anuria,1
-942,Personal history of other diseases of the digestive system,1
-943,Type 1 diabetes mellitus with ketoacidosis without coma,1
-944,"Underdosing of insulin and oral hypoglycemic [antidiabetic] drugs, initial encounter",1
-945,Pneumonia due to Methicillin susceptible Staphylococcus aureus,1
-946,"Other mechanical complication of insulin pump, initial encounter",1
-947,"Sarcoidosis, unspecified",1
-948,Other forms of acute pericarditis,1
-949,Other specified disorders of circulatory system,1
-950,Hepatic encephalopathy,1
-951,"Esophageal varices in diseases classified elsewhere, with bleeding",1
-952,Acetonuria,1
-953,Mechanical complication due to insulin pump,1
-954,Methicillin resistant pneumonia due to Staphylococcus aureus,1
-955,"Chronic osteomyelitis, site unspecified",1
-956,Transfusion related acute lung injury (TRALI),1
-957,Encounter for removal of sutures,1
-958,Attention to ileostomy,1
-959,Renal dialysis status,1
-960,Noncompliance with renal dialysis,1
-961,"Renal sclerosis, unspecified",1
-962,"Abdominal pain, unspecified site",1
-963,Personal history of malignant neoplasm of cervix uteri,1
-964,Other anaphylactic reaction,1
-965,Other specified retention of urine,1
-966,"Vaginal enterocele, congenital or acquired",1
-967,Prolapse of vaginal vault after hysterectomy,1
-968,"Myalgia and myositis, unspecified",1
-969,"Allergic rhinitis, cause unspecified",1
-970,Acquired hypertrophic pyloric stenosis,1
-971,"Alcohol abuse, continuous",1
-972,"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus",1
-973,Long-term (current) use of antiplatelet/antithrombotic,1
-974,Other malignant neuroendocrine tumors,1
-975,"Personal history of other malignant neoplasm of rectum, rectosigmoid junction, and anus",1
-976,Other secondary neuroendocrine tumors,1
-977,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere,1
-978,Other gastritis without bleeding,1
-979,"Unspecified injury of urethra, initial encounter",1
-980,Type 2 diabetes mellitus with unspecified complications,1
-981,"Exposure to other specified factors, initial encounter",1
-982,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified",1
-983,"Other disorders of muscle, ligament, and fascia",1
-984,Other specified pre-operative examination,1
-985,Diplopia,1
-986,Hypercalcemia,1
-987,Personal history of malignant neoplasm of bronchus and lung,1
-988,Dementia in conditions classified elsewhere with behavioral disturbance,1
-989,Alzheimer's disease,1
-990,Other hypotension,1
-991,Personal history of (healed) traumatic fracture,1
-992,Discoid lupus erythematosus,1
-993,Iatrogenic cerebrovascular infarction or hemorrhage,1
-994,Coronary atherosclerosis of autologous vein bypass graft,1
-995,Degeneration of lumbar or lumbosacral intervertebral disc,1
-996,Awaiting organ transplant status,1
-997,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, initial encounter",1
-998,Acute embolism and thrombosis of superficial veins of left upper extremity,1
-999,Malignant neoplasm of rectosigmoid junction,1
-1000,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",1
-1001,Procedure not carried out for other reasons,1
-1002,Pernicious anemia,1
-1003,Unspecified coma,1
-1004,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",1
-1005,Cardiac arrest due to underlying cardiac condition,1
-1006,"Multiple fractures of ribs, bilateral, initial encounter for closed fracture",1
-1007,"Left bundle-branch block, unspecified",1
-1008,Closed fracture of seven ribs,1
-1009,Hemangioma of intracranial structures,1
-1010,Personal history of malignant neoplasm of thyroid,1
-1011,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with loss of consciousness of unspecified duration",1
-1012,Personal history of malignant melanoma of skin,1
-1013,"Epilepsy, unspecified, not intractable, with status epilepticus",1
-1014,"Mycosis fungoides, unspecified site, extranodal and solid organ sites",1
-1015,Hypospadias,1
-1016,Abnormal involuntary movements,1
-1017,Unspecified condition of brain,1
-1018,Other malignant neoplasm without specification of site,1
-1019,Painful respiration,1
-1020,Secondary malignant neoplasm of kidney,1
-1021,Acute laryngitis without mention of obstruction,1
-1022,"Pressure ulcer, stage III",1
-1023,Antineoplastic chemotherapy induced anemia,1
-1024,Secondary malignant neoplasm of brain and spinal cord,1
-1025,"Pressure ulcer, stage II",1
-1026,"Pressure ulcer, lower back",1
-1027,Impaired glucose tolerance test (oral),1
-1028,Secondary malignant neoplasm of adrenal gland,1
-1029,Secondary malignant neoplasm of lung,1
-1030,Subarachnoid hemorrhage,1
-1031,Degeneration of cervical intervertebral disc,1
-1032,Cerebral atherosclerosis,1
-1033,Lumbosacral spondylosis without myelopathy,1
-1034,"Malignant neoplasm of lower lobe, bronchus or lung",1
-1035,"Osteoarthrosis, unspecified whether generalized or localized, hand",1
-1036,Cervical spondylosis without myelopathy,1
-1037,Mobitz (type) II atrioventricular block,1
-1038,"Cardiac catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",1
-1039,Gas pain,1
-1040,Acute embolism and thrombosis of left popliteal vein,1
-1041,"Personal history of other endocrine, nutritional and metabolic disease",1
-1042,Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites,1
-1043,"Atrioventricular block, complete",1
-1044,Other specified hypotension,1
-1045,"Alcohol dependence with intoxication, unspecified",1
-1046,Open fracture of shaft of femur,1
-1047,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes",1
-1048,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group B",1
-1049,Unspecified infectious and parasitic diseases,1
-1050,Other disorders of neurohypophysis,1
-1051,"Unspecified infection due to central venous catheter, initial encounter",1
-1052,Postprocedural hemorrhage of a circulatory system organ or structure following a cardiac catheterization,1
-1053,Hemoperitoneum,1
-1054,Sepsis due to Escherichia coli [E. coli],1
-1055,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery,1
-1056,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction",1
-1057,Other cysts of jaws,1
-1058,Cardiomegaly,1
-1059,Unspecified hemorrhoids,1
-1060,"Macular degeneration (senile), unspecified",1
-1061,Lens replaced by other means,1
-1062,Cataract extraction status,1
-1063,Spondylolisthesis,1
-1064,"Scoliosis [and kyphoscoliosis], idiopathic",1
-1065,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system,1
-1066,Obstructive hydrocephalus,1
-1067,"Pain in joint, shoulder region",1
-1068,Accidental fall from bed,1
-1069,"Ileus, unspecified",1
-1070,Unspecified hemorrhoids with other complication,1
-1071,"Cannabis abuse, uncomplicated",1
-1072,Family history of malignant neoplasm of prostate,1
-1073,"Bacterial pneumonia, unspecified",1
-1074,"Migraine, unspecified, not intractable, without status migrainosus",1
-1075,"Collapsed vertebra, not elsewhere classified, lumbar region, initial encounter for fracture",1
-1076,Unspecified disturbance of conduct,1
-1077,"Visual discomfort, bilateral",1
-1078,"Other cervical disc degeneration, unspecified cervical region",1
-1079,"Nontoxic goiter, unspecified",1
-1080,Unspecified place in nursing home as the place of occurrence of the external cause,1
-1081,Presence of intraocular lens,1
-1082,Dry eye syndrome of bilateral lacrimal glands,1
-1083,Acute on chronic combined systolic and diastolic heart failure,1
-1084,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure,1
-1085,"Fall from other slipping, tripping, or stumbling",1
-1086,Unspecified disorder of thyroid,1
-1087,"Flatulence, eructation, and gas pain",1
-1088,Iatrogenic pneumothorax,1
-1089,Pleurisy without mention of effusion or current tuberculosis,1
-1090,"Arthropathy, unspecified, lower leg",1
-1091,"Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture",1
-1092,Malignant neoplasm of main bronchus,1
-1093,"Spinal stenosis, lumbar region, with neurogenic claudication",1
-1094,Personal history of poliomyelitis,1
-1095,"Spinal stenosis, lumbar region, without neurogenic claudication",1
-1096,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris,1
-1097,Acute embolism and thrombosis of left iliac vein,1
-1098,Operating room of hospital as the place of occurrence of the external cause,1
-1099,Other closed transcervical fracture of neck of femur,1
-1100,Hemothorax,1
-1101,Accidental puncture and laceration of a circulatory system organ or structure during other procedure,1
-1102,Postprocedural heart failure following other surgery,1
-1103,Obstructive chronic bronchitis with (acute) exacerbation,1
-1104,Fall resulting in striking against other object,1
-1105,Closed fracture of two ribs,1
-1106,Secondary malignant neoplasm of mediastinum,1
-1107,Acute esophagitis,1
-1108,"Disruption of wound, unspecified",1
-1109,Chronic combined systolic and diastolic heart failure,1
-1110,Persistent postoperative fistula,1
-1111,Other premature beats,1
-1112,"Multiple fractures of ribs, left side, initial encounter for closed fracture",1
-1113,Acquired coagulation factor deficiency,1
-1114,"Supermarket, store or market as the place of occurrence of the external cause",1
-1115,Unspecified deficiency anemia,1
-1116,Other closed fractures of distal end of radius (alone),1
-1117,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",1
-1118,Other specified forms of hearing loss,1
-1119,Overflow incontinence,1
-1120,Other ventral hernia without mention of obstruction or gangrene,1
-1121,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",1
-1122,"Dissection of aorta, abdominal",1
-1123,Salicylates causing adverse effects in therapeutic use,1
-1124,Electrolyte and fluid disorders not elsewhere classified,1
-1125,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,1
-1126,Personal history of malignant neoplasm of other gastrointestinal tract,1
-1127,"Accidental cut, puncture, perforation or hemorrhage during surgical operation",1
-1128,"Collapsed vertebra, not elsewhere classified, thoracic region, initial encounter for fracture",1
-1129,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris,1
-1130,"Peritonitis, unspecified",1
-1131,Other abnormal glucose,1
-1132,Acute systolic heart failure,1
-1133,Other abnormal blood chemistry,1
-1134,Cholangitis,1
-1135,"Autistic disorder, current or active state",1
-1136,"Other anomalies of gallbladder, bile ducts, and liver",1
-1137,Secondary malignant neoplasm of other digestive organs and spleen,1
-1138,Malignant neoplasm of gallbladder,1
-1139,"Body Mass Index 35.0-35.9, adult",1
-1140,Acute and chronic cholecystitis,1
-1141,Other pulmonary embolism and infarction,1
-1142,Acute diastolic (congestive) heart failure,1
-1143,Other specified diseases of pericardium,1
-1144,Late effects of motor vehicle accident,1
-1145,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",1
-1146,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta,1
-1147,Late effect of certain complications of trauma,1
-1148,Other lymphedema,1
-1149,Essential and other specified forms of tremor,1
-1150,Surgical or other procedure not carried out because of contraindication,1
-1151,Ankylosing spondylitis,1
-1152,"Duodenitis, without mention of hemorrhage",1
-1153,Malignant neoplasm of lower third of esophagus,1
-1154,Dissection of abdominal aorta,1
-1155,"Other reconstructive surgery as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",1
-1156,Postprocedural hemorrhage of a circulatory system organ or structure following other circulatory system procedure,1
-1157,Pain in limb,1
-1158,"Major depressive disorder, single episode, severe with psychotic features",1
-1159,"Primary osteoarthritis, unspecified shoulder",1
-1160,Acquired absence of other specified parts of digestive tract,1
-1161,"Ulcerative colitis, unspecified, without complications",1
-1162,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled",1
-1163,Background diabetic retinopathy,1
-1164,"Dissociative and conversion disorder, unspecified",1
-1165,"Localized swelling, mass and lump, unspecified lower limb",1
-1166,"Benign paroxysmal vertigo, unspecified ear",1
-1167,"Homonymous bilateral field defects, left side",1
-1168,"Pruritus, unspecified",1
-1169,Conversion disorder with mixed symptom presentation,1
-1170,Sick sinus syndrome,1
-1171,Acute appendicitis with generalized peritonitis,1
-1172,"Major depressive disorder, single episode, in full remission",1
-1173,Long term (current) use of oral hypoglycemic drugs,1
-1174,"Acute pericarditis, unspecified",1
-1175,"Other fall on same level, initial encounter",1
-1176,Epigastric pain,1
-1177,Other symptoms and signs concerning food and fluid intake,1
-1178,Other complications of other bariatric procedure,1
-1179,Other fatigue,1
-1180,"Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",1
-1181,Xerosis cutis,1
-1182,Bilateral primary osteoarthritis of hip,1
-1183,"Primary osteoarthritis, left shoulder",1
-1184,Pure hyperglyceridemia,1
-1185,Monoplegia of lower limb following cerebral infarction affecting left non-dominant side,1
-1186,Dissection of other artery,1
-1187,Malignant neoplasm of intrahepatic bile ducts,1
-1188,Nontoxic uninodular goiter,1
-1189,"Accidental cut, puncture, perforation or hemorrhage during other specified medical care",1
-1190,Impaired fasting glucose,1
-1191,"Contusion of other intra-abdominal organs, initial encounter",1
-1192,"Assault by unarmed brawl or fight, initial encounter",1
-1193,"Fracture of subcondylar process of mandible, initial encounter for closed fracture",1
-1194,Closed fracture of surgical neck of humerus,1
-1195,Other psoriasis,1
-1196,"Other postprocedural complications and disorders of the circulatory system, not elsewhere classified",1
-1197,"Schizoaffective disorder, chronic with acute exacerbation",1
-1198,Other alteration of consciousness,1
-1199,Chronic lymphocytic leukemia of B-cell type in remission,1
-1200,Malignant neoplasm of descended left testis,1
-1201,Other sequelae of cerebral infarction,1
-1202,Syndrome of inappropriate secretion of antidiuretic hormone,1
-1203,Acute bronchitis due to other specified organisms,1
-1204,"Body mass index (BMI) 36.0-36.9, adult",1
-1205,"Body mass index (BMI) 37.0-37.9, adult",1
-1206,Type 2 diabetes mellitus with diabetic cataract,1
-1207,Other viral infections of unspecified site,1
-1208,Chronic lymphocytic leukemia of B-cell type not having achieved remission,1
-1209,"Body mass index (BMI) 34.0-34.9, adult",1
-1210,Generalized hyperhidrosis,1
-1211,Personal history of malignant neoplasm of testis,1
-1212,"Sacrococcygeal disorders, not elsewhere classified",1
-1213,"Poisoning by insulin and oral hypoglycemic [antidiabetic] drugs, accidental (unintentional), initial encounter",1
-1214,Foreign body in larynx,1
-1215,Diverticulosis of large intestine without perforation or abscess without bleeding,1
-1216,Alcoholic cirrhosis of liver without ascites,1
-1217,Benign neoplasm of descending colon,1
-1218,Acute systolic (congestive) heart failure,1
-1219,Acute embolism and thrombosis of unspecified deep veins of right lower extremity,1
-1220,Dietary selenium deficiency,1
-1221,Other medical devices associated with adverse incidents,1
-1222,"Underdosing of saline and osmotic laxatives, initial encounter",1
-1223,Alcohol abuse with unspecified alcohol-induced disorder,1
-1224,Patient's intentional underdosing of medication regimen for other reason,1
-1225,Other place in single-family (private) house as the place of occurrence of the external cause,1
-1226,Alcohol dependence with alcohol-induced psychotic disorder with hallucinations,1
-1227,"Contusion of right lower leg, initial encounter",1
-1228,Ventricular premature depolarization,1
-1229,"Contusion of right upper arm, initial encounter",1
-1230,"Contusion of left back wall of thorax, initial encounter",1
-1231,"Contusion of left upper arm, initial encounter",1
-1232,Acute post-thoracotomy pain,1
-1233,"Laceration of intercostal blood vessels, left side, initial encounter",1
-1234,"Dislocation of jaw, initial encounter",1
-1235,Multiple sclerosis,1
-1236,Intracranial abscess,1
-1237,Family history of other specified malignant neoplasm,1
-1238,"Contusion of right back wall of thorax, initial encounter",1
-1239,"Fall (on) (from) other stairs and steps, initial encounter",1
-1240,"Contusion of scalp, initial encounter",1
-1241,Unspecified viral hepatitis C with hepatic coma,1
-1242,Alcohol-induced chronic pancreatitis,1
-1243,Alcoholic hepatic failure without coma,1
-1244,"Malignant neoplasm of unspecified testis, unspecified whether descended or undescended",1
-1245,Diabetes mellitus due to underlying condition with hyperglycemia,1
-1246,Pain in unspecified shoulder,1
-1247,Other specified diseases of intestine,1
-1248,"Dorsalgia, unspecified",1
-1249,Other hemorrhoids,1
-1250,Hemorrhage of anus and rectum,1
-1251,Polyp of colon,1
-1252,"Other bursitis of hip, right hip",1
-1253,"Major depressive disorder, recurrent, in remission, unspecified",1
-1254,"Primary osteoarthritis, right shoulder",1
-1255,Fistula of stomach and duodenum,1
-1256,"Displacement of vascular dialysis catheter, initial encounter",1
-1257,Takotsubo syndrome,1
-1258,Wet beriberi,1
-1259,Alcoholic hepatitis without ascites,1
-1260,"Acute pancreatitis, unspecified",1
-1261,Other specified sepsis,1
-1262,"Alcohol dependence, uncomplicated",1
-1263,Chondrocostal junction syndrome [Tietze],1
-1264,"Mild cognitive impairment, so stated",1
-1265,"Bursopathy, unspecified",1
-1266,"Unspecified osteoarthritis, unspecified site",1
-1267,"Lower abdominal pain, unspecified",1
-1268,"Hemiplegia, unspecified affecting left nondominant side",1
-1269,Other and unspecified manifestations of thiamine deficiency,1
-1270,Dietary zinc deficiency,1
-1271,"Hypothermia, not associated with low environmental temperature",1
-1272,Unspecified cirrhosis of liver,1
-1273,"Partial intestinal obstruction, unspecified as to cause",1
-1274,"Spondylosis without myelopathy or radiculopathy, sacral and sacrococcygeal region",1
-1275,Generalized abdominal pain,1
-1276,"Body mass index (BMI) 20.0-20.9, adult",1
-1277,Traumatic anuria,1
-1278,Other chronic nonalcoholic liver disease,1
-1279,Methicillin susceptible pneumonia due to Staphylococcus aureus,1
-1280,Edema of male genital organs,1
-1281,Contact dermatitis and other eczema due to plants [except food],1
-1282,Traumatic hemothorax without mention of open wound into thorax,1
-1283,"Closed dislocation, multiple cervical vertebrae",1
-1284,Unspecified injury of heart without mention of open wound into thorax,1
-1285,Closed fracture of sixth cervical vertebra,1
-1286,"Alopecia, unspecified",1
-1287,"Injury to other intra-abdominal organs without mention of open wound into cavity, adrenal gland",1
-1288,"Injury to liver without mention of open wound into cavity, hematoma and contusion",1
-1289,"Injury to liver without mention of open wound into cavity laceration, unspecified",1
-1290,Right bundle branch block,1
-1291,"Other acute osteomyelitis, right ankle and foot",1
-1292,Bacteroides fragilis [B. fragilis] as the cause of diseases classified elsewhere,1
-1293,Other symbolic dysfunctions,1
-1294,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified",1
-1295,Chronic viral hepatitis B without delta-agent,1
-1296,Non-pressure chronic ulcer of other part of right foot with necrosis of bone,1
-1297,"Benign neoplasm of meninges, unspecified",1
-1298,Obstruction of bile duct,1
-1299,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",1
-1300,Rhabdomyolysis,1
-1301,Long term (current) use of opiate analgesic,1
-1302,Other dorsalgia,1
-1303,Portal vein thrombosis,1
-1304,"Viral intestinal infection, unspecified",1
-1305,"Body mass index (BMI) 23.0-23.9, adult",1
-1306,Acute pulmonary insufficiency following nonthoracic surgery,1
-1307,Cellulitis of abdominal wall,1
-1308,Postprocedural hemorrhage of a musculoskeletal structure following other procedure,1
-1309,"Spondylosis without myelopathy or radiculopathy, lumbosacral region",1
-1310,Intestinal adhesions [bands] with obstruction (postinfection),1
-1311,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",1
-1312,Other specified places as the place of occurrence of the external cause,1
-1313,Rheumatic disorders of both mitral and aortic valves,1
-1314,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms",1
-1315,Chronic or unspecified gastric ulcer with perforation,1
-1316,Chronic or unspecified duodenal ulcer with perforation,1
-1317,Chronic viral hepatitis C,1
-1318,Peritoneal adhesions (postprocedural) (postinfection),1
-1319,Other specified peritonitis,1
-1320,Personal history of allergy to penicillin,1
-1321,Accidental poisoning from other specified plants,1
-1322,"Injury to other gastrointestinal sites, without mention of open wound into cavity",1
-1323,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus",1
-1324,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",1
-1325,Abscess of liver,1
-1326,Other specified disorders of intestine,1
-1327,Personal history of traumatic fracture,1
-1328,Intestinal bypass or anastomosis status,1
-1329,Other diseases of stomach and duodenum,1
-1330,Other toe(s) amputation status,1
-1331,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled",1
-1332,"Surgical instruments, materials and cardiovascular devices (including sutures) associated with adverse incidents",1
-1333,"Thrombosis due to vascular prosthetic devices, implants and grafts, initial encounter",1
-1334,Other streptococcal sepsis,1
-1335,Febrile nonhemolytic transfusion reaction,1
-1336,Tinea cruris,1
-1337,Sepsis due to Methicillin resistant Staphylococcus aureus,1
-1338,Acquired keratosis [keratoderma] palmaris et plantaris,1
-1339,"Fluid overload, unspecified",1
-1340,Acute and subacute infective endocarditis,1
-1341,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter",1
-1342,"Cellulitis and abscess of leg, except foot",1
-1343,"Chronic kidney disease, Stage V",1
-1344,Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation,1
-1345,"Cystic kidney disease, unspecified",1
-1346,"Bipolar I disorder, most recent episode (or current) mixed, unspecified",1
-1347,Splenomegaly,1
-1348,"Calculus of bile duct without mention of cholecystitis, without mention of obstruction",1
-1349,Non-pressure chronic ulcer of other part of right foot limited to breakdown of skin,1
-1350,Prurigo nodularis,1
-1351,Acquired absence of right foot,1
-1352,Cellulitis of left upper limb,1
-1353,Presence of cardiac pacemaker,1
-1354,Other specified soft tissue disorders,1
-1355,Anemia due to antineoplastic chemotherapy,1
-1356,"Malignant neoplasm of left testis, unspecified whether descended or undescended",1
-1357,"Body Mass Index 40.0-44.9, adult",1
-1358,"Catatonic type schizophrenia, unspecified",1
-1359,"Unilateral primary osteoarthritis, left knee",1
-1360,Presence of right artificial knee joint,1
-1361,"Mechanical complication of nervous system device, implant, and graft",1
-1362,Acute respiratory failure following trauma and surgery,1
-1363,Traumatic shock,1
-1364,"Injury to other intra-abdominal organs without mention of open wound into cavity, peritoneum",1
-1365,Contusion of lung without mention of open wound into thorax,1
-1366,Ulcer of other part of foot,1
-1367,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled",1
-1368,Polyneuropathy in diabetes,1
-1369,Anesthesia of skin,1
-1370,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,1
-1371,"Other complication of vascular dialysis catheter, initial encounter",1
-1372,Non-pressure chronic ulcer of other part of right foot with unspecified severity,1
-1373,Type 2 diabetes mellitus with other specified complication,1
-1374,Acquired absence of other right toe(s),1
-1375,"Cellulitis and abscess of foot, except toes",1
-1376,Bathroom in nursing home as the place of occurrence of the external cause,1
-1377,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",1
-1378,"Nondisplaced intertrochanteric fracture of left femur, initial encounter for closed fracture",1
-1379,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site,1
-1380,Family history of diabetes mellitus,1
-1381,Streptococcal septicemia,1
-1382,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",1
-1383,Other bone involvement in diseases classified elsewhere,1
-1384,"Unspecified osteomyelitis, ankle and foot",1
-1385,Unspecified hemorrhoids without mention of complication,1
-1386,Benign neoplasm of heart,1
-1387,Necrotizing fasciitis,1
+,Diagnoses,Count,UTI
+0,Unspecified essential hypertension,41,
+1,Other and unspecified hyperlipidemia,34,
+2,"Acute kidney failure, unspecified",30,
+3,"Anemia, unspecified",28,
+4,"Urinary tract infection, site not specified",25,True
+5,"Obesity, unspecified",23,
+6,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",21,
+7,"Hyperlipidemia, unspecified",21,
+8,Personal history of tobacco use,20,
+9,"Thrombocytopenia, unspecified",20,
+10,Coronary atherosclerosis of native coronary artery,19,
+11,Acidosis,19,
+12,Acute posthemorrhagic anemia,19,
+13,Tobacco use disorder,18,
+14,Atrial fibrillation,18,
+15,"Chronic kidney disease, unspecified",17,
+16,Essential (primary) hypertension,17,
+17,"Depressive disorder, not elsewhere classified",16,
+18,Esophageal reflux,15,
+19,Personal history of nicotine dependence,15,
+20,"Hypotension, unspecified",15,
+21,Pure hypercholesterolemia,15,
+22,Long-term (current) use of anticoagulants,14,
+23,"Gout, unspecified",14,
+24,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",14,
+25,Accidents occurring in residential institution,13,
+26,Unspecified atrial fibrillation,13,
+27,"Congestive heart failure, unspecified",13,
+28,Gastro-esophageal reflux disease without esophagitis,13,
+29,Atherosclerotic heart disease of native coronary artery without angina pectoris,13,
+30,"Retention of urine, unspecified",13,
+31,Encounter for palliative care,13,
+32,"Anxiety disorder, unspecified",12,
+33,Do not resuscitate,12,
+34,Long-term (current) use of insulin,12,
+35,Acute respiratory failure,12,
+36,Long-term (current) use of aspirin,12,
+37,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",11,
+38,Long term (current) use of insulin,11,
+39,Long term (current) use of antithrombotics/antiplatelets,11,
+40,"Encephalopathy, unspecified",11,
+41,Hypoxemia,11,
+42,Other chronic pain,11,
+43,"Chronic obstructive pulmonary disease, unspecified",10,
+44,Patient room in hospital as the place of occurrence of the external cause,10,
+45,Hyposmolality and/or hyponatremia,10,
+46,Do not resuscitate status,10,
+47,"Hypothyroidism, unspecified",10,
+48,"Chronic kidney disease, stage 3 (moderate)",10,
+49,Type 2 diabetes mellitus without complications,10,
+50,"Insomnia, unspecified",10,
+51,Old myocardial infarction,9,
+52,Other ascites,9,
+53,Long term (current) use of anticoagulants,9,
+54,"Iron deficiency anemia, unspecified",9,
+55,"Major depressive disorder, single episode, unspecified",9,
+56,"Nicotine dependence, cigarettes, uncomplicated",9,
+57,"Asthma, unspecified type, unspecified",9,
+58,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",9,
+59,Unspecified acquired hypothyroidism,9,
+60,Hypo-osmolality and hyponatremia,9,
+61,"Pneumonia, organism unspecified",8,
+62,Unspecified protein-calorie malnutrition,8,
+63,Hyperosmolality and/or hypernatremia,8,
+64,Dehydration,8,
+65,"Chronic kidney disease, Stage III (moderate)",8,
+66,Acute respiratory failure with hypoxia,8,
+67,Non-ST elevation (NSTEMI) myocardial infarction,8,
+68,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",8,
+69,Severe sepsis,8,
+70,Personal history of malignant neoplasm of breast,8,
+71,Other secondary pulmonary hypertension,8,
+72,Acute kidney failure with lesion of tubular necrosis,8,
+73,Percutaneous transluminal coronary angioplasty status,8,
+74,"Other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",7,
+75,"Pneumonia, unspecified organism",7,
+76,Hyperpotassemia,7,
+77,Pulmonary collapse,7,
+78,Ventilator associated pneumonia,7,
+79,"Leukocytosis, unspecified",7,
+80,Hypopotassemia,7,
+81,"Constipation, unspecified",7,
+82,Unspecified place in hospital as the place of occurrence of the external cause,7,
+83,Presence of coronary angioplasty implant and graft,7,
+84,"Tachycardia, unspecified",7,
+85,"Dysphagia, unspecified",7,
+86,Personal history of antineoplastic chemotherapy,7,
+87,Hyperkalemia,7,
+88,Home accidents,7,
+89,Examination of participant in clinical trial,7,
+90,Abnormal coagulation profile,7,
+91,Physical restraint status,7,
+92,Mitral valve disorders,6,
+93,"Sepsis, unspecified organism",6,
+94,Nonrheumatic mitral (valve) insufficiency,6,
+95,"Alcohol abuse, unspecified",6,
+96,Anemia in chronic kidney disease,6,
+97,Acute kidney failure with tubular necrosis,6,
+98,Obstructive sleep apnea (adult) (pediatric),6,
+99,Unspecified place or not applicable,6,
+100,Unspecified fall,6,
+101,Neoplasm related pain (acute) (chronic),6,
+102,Severe sepsis with septic shock,6,
+103,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],6,
+104,Cardiogenic shock,6,
+105,"Chronic airway obstruction, not elsewhere classified",6,
+106,"Anxiety state, unspecified",6,
+107,Other secondary thrombocytopenia,6,
+108,Personal history of other malignant neoplasm of skin,6,
+109,Portal hypertension,6,
+110,"Unspecified asthma, uncomplicated",6,
+111,"Hematuria, unspecified",5,
+112,Unspecified severe protein-calorie malnutrition,5,
+113,Anemia in other chronic diseases classified elsewhere,5,
+114,Other specified bacterial agents as the cause of diseases classified elsewhere,5,
+115,Unspecified viral hepatitis C without hepatic coma,5,
+116,Delirium due to conditions classified elsewhere,5,
+117,Septic shock,5,
+118,Long term (current) use of aspirin,5,
+119,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere,5,
+120,Acute on chronic systolic (congestive) heart failure,5,
+121,Type 2 diabetes mellitus with diabetic chronic kidney disease,5,
+122,"Peripheral vascular disease, unspecified",5,
+123,Alkalosis,5,
+124,Personal history of other venous thrombosis and embolism,5,
+125,"Heart failure, unspecified",5,
+126,Family history of ischemic heart disease and other diseases of the circulatory system,5,
+127,Encounter for immunization,5,
+128,Pneumonitis due to inhalation of food or vomitus,5,
+129,Intestinal infection due to Clostridium difficile,5,
+130,Diarrhea,5,
+131,Physical restraints status,5,
+132,Pneumonitis due to inhalation of food and vomit,5,
+133,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",5,
+134,"Coagulation defect, unspecified",5,
+135,Toxic encephalopathy,5,
+136,"Pleural effusion, not elsewhere classified",5,
+137,Chronic systolic (congestive) heart failure,5,
+138,Paroxysmal atrial fibrillation,5,
+139,"Personal history of noncompliance with medical treatment, presenting hazards to health",5,
+140,Paralytic ileus,5,
+141,Diverticulosis of colon (without mention of hemorrhage),5,
+142,Unspecified pleural effusion,5,
+143,Atelectasis,5,
+144,Loss of weight,4,
+145,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",4,
+146,"Body Mass Index 32.0-32.9, adult",4,
+147,Other disorders of phosphorus metabolism,4,
+148,Obstructive sleep apnea (adult)(pediatric),4,
+149,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled",4,
+150,"Epilepsy, unspecified, not intractable, without status epilepticus",4,
+151,"Body mass index (BMI) 40.0-44.9, adult",4,
+152,"Cerebral aneurysm, nonruptured",4,
+153,Other iatrogenic hypotension,4,
+154,Paroxysmal ventricular tachycardia,4,
+155,Acute on chronic diastolic (congestive) heart failure,4,
+156,Bacteremia,4,
+157,Tobacco use,4,
+158,Aphasia,4,
+159,Anemia of other chronic disease,4,
+160,Palpitations,4,
+161,Other fluid overload,4,
+162,Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH],4,
+163,Cellulitis and abscess of trunk,4,
+164,Other postoperative infection,4,
+165,"Alcohol abuse, in remission",4,
+166,Type 2 diabetes mellitus with hypoglycemia without coma,4,
+167,"Pure hypercholesterolemia, unspecified",4,
+168,Cachexia,4,
+169,"Coronary atherosclerosis of unspecified type of vessel, native or graft",4,
+170,End stage renal disease,4,
+171,Hypokalemia,4,
+172,Other specified cardiac dysrhythmias,4,
+173,Bariatric surgery status,4,
+174,Personal history of peptic ulcer disease,4,
+175,Other and unspecified Escherichia coli [E. coli],4,
+176,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia",4,
+177,Aortic valve disorders,4,
+178,Unspecified mood [affective] disorder,4,
+179,"Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus",4,
+180,Cerebral edema,4,
+181,Other primary cardiomyopathies,4,
+182,"Backache, unspecified",4,
+183,Chronic diastolic (congestive) heart failure,4,
+184,"Other and unspecified alcohol dependence, unspecified",4,
+185,Hypertensive heart disease with heart failure,4,
+186,Personal history of malignant neoplasm of prostate,4,
+187,Type 2 diabetes mellitus with hyperglycemia,4,
+188,"Adverse effect of anticoagulants, initial encounter",4,
+189,"Disorientation, unspecified",4,
+190,Gastrostomy status,4,
+191,Other chronic pulmonary heart diseases,4,
+192,Presence of aortocoronary bypass graft,4,
+193,History of falling,4,
+194,Personal history of colonic polyps,3,
+195,Cardiac pacemaker in situ,3,
+196,Hyperosmolality and hypernatremia,3,
+197,Family history of ischemic heart disease,3,
+198,Alcohol withdrawal,3,
+199,"Body mass index (BMI) 33.0-33.9, adult",3,
+200,"Body mass index (BMI) 29.0-29.9, adult",3,
+201,Personal history of traumatic brain injury,3,
+202,Chronic passive congestion of liver,3,
+203,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",3,
+204,Dependence on renal dialysis,3,
+205,"Urinary incontinence, unspecified",3,
+206,Hypovolemia,3,
+207,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side",3,
+208,"Unspecified fall, initial encounter",3,
+209,"Schizoaffective disorder, unspecified",3,
+210,"Diarrhea, unspecified",3,
+211,Headache,3,
+212,Altered mental status,3,
+213,Homelessness,3,
+214,Candidiasis of mouth,3,
+215,"Infection following a procedure, initial encounter",3,
+216,Chronic hepatitis C without mention of hepatic coma,3,
+217,Chronic pulmonary edema,3,
+218,Other postprocedural status,3,
+219,Acquired absence of breast and nipple,3,
+220,Compression of vein,3,
+221,Other forms of acute ischemic heart disease,3,
+222,Sepsis,3,
+223,Nausea with vomiting,3,
+224,Type 2 diabetes mellitus with diabetic polyneuropathy,3,
+225,Type 2 diabetes mellitus with foot ulcer,3,
+226,Knee joint replacement,3,
+227,Acute pancreatitis,3,
+228,Other streptococcus as the cause of diseases classified elsewhere,3,
+229,Peritoneal adhesions (postoperative) (postinfection),3,
+230,Metabolic encephalopathy,3,
+231,"Accidental puncture or laceration during a procedure, not elsewhere classified",3,
+232,Other encephalopathy,3,
+233,Iron deficiency anemia secondary to blood loss (chronic),3,
+234,Blood in stool,3,
+235,Chronic systolic heart failure,3,
+236,Syncope and collapse,3,
+237,"Other and unspecified alcohol dependence, in remission",3,
+238,"Post-traumatic stress disorder, unspecified",3,
+239,Acute and chronic respiratory failure with hypoxia,3,
+240,"Personal history of irradiation, presenting hazards to health",3,
+241,Personal history of malignant neoplasm of tongue,3,
+242,Encounter for examination for normal comparison and control in clinical research program,3,
+243,Other convulsions,3,
+244,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled",3,
+245,"Intestinal infection due to other organism, not elsewhere classified",3,
+246,"Nicotine dependence, unspecified, uncomplicated",3,
+247,"Subendocardial infarction, initial episode of care",3,
+248,Disorders of phosphorus metabolism,3,
+249,"Hemorrhage of gastrointestinal tract, unspecified",3,
+250,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,3,
+251,Orthostatic hypotension,3,
+252,Disorders of magnesium metabolism,3,
+253,Unspecified hereditary and idiopathic peripheral neuropathy,3,
+254,Personal history of pulmonary embolism,3,
+255,"Disease of pericardium, unspecified",3,
+256,"Dysphagia, oropharyngeal phase",3,
+257,Alcoholic cirrhosis of liver,3,
+258,Anemia in neoplastic disease,3,
+259,"Alcohol dependence, in remission",3,
+260,"Alcohol abuse, uncomplicated",3,
+261,Tumor lysis syndrome,3,
+262,Septicemia due to escherichia coli [E. coli],3,
+263,Unspecified atrial flutter,3,
+264,Posttraumatic stress disorder,3,
+265,"Chest pain, unspecified",3,
+266,"Dementia, unspecified, without behavioral disturbance",3,
+267,Unspecified vascular insufficiency of intestine,3,
+268,Acute on chronic diastolic heart failure,3,
+269,Irritable bowel syndrome,3,
+270,Encounter for antineoplastic chemotherapy,3,
+271,Other place in hospital as the place of occurrence of the external cause,3,
+272,"Nephropathy induced by other drugs, medicaments and biological substances",3,
+273,Abnormal levels of other serum enzymes,3,
+274,"Adverse effect of antineoplastic and immunosuppressive drugs, initial encounter",3,
+275,Hemorrhage complicating a procedure,3,
+276,Chronic total occlusion of coronary artery,3,
+277,Street and highway accidents,3,
+278,Asymptomatic human immunodeficiency virus [HIV] infection status,3,
+279,Unspecified psychosis,3,
+280,Other nonspecific findings on examination of urine,3,
+281,"Chronic kidney disease, stage 4 (severe)",3,
+282,Intracerebral hemorrhage,3,
+283,"Cardiac complications, not elsewhere classified",3,
+284,"Arthropathy, unspecified, site unspecified",3,
+285,Other constipation,3,
+286,Unspecified septicemia,3,
+287,Delirium due to known physiological condition,3,
+288,"Respiratory failure, unspecified with hypoxia",3,
+289,Other pancytopenia,3,
+290,Anuria and oliguria,3,
+291,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",3,
+292,"Acute edema of lung, unspecified",3,
+293,"Alcohol dependence with withdrawal, unspecified",3,
+294,"Abdominal aortic aneurysm, without rupture",2,
+295,Unspecified place in unspecified non-institutional (private) residence as the place of occurrence of the external cause,2,
+296,Mixed disorder of acid-base balance,2,
+297,Other B-complex deficiencies,2,
+298,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation",2,
+299,Rheumatic disorders of both mitral and tricuspid valves,2,
+300,Pseudomonas infection in conditions classified elsewhere and of unspecified site,2,
+301,Calculus of kidney,2,
+302,Hemorrhage of rectum and anus,2,
+303,Other nonspecific abnormal finding of lung field,2,
+304,Acute on chronic systolic heart failure,2,
+305,Other specified forms of chronic ischemic heart disease,2,
+306,Dependence on respirator [ventilator] status,2,
+307,"Body mass index (BMI) 38.0-38.9, adult",2,
+308,Acute embolism and thrombosis of left femoral vein,2,
+309,Edema,2,
+310,"Body Mass Index between 19-24, adult",2,
+311,Other cardiomyopathies,2,
+312,Unspecified glaucoma,2,
+313,Other diuretics causing adverse effects in therapeutic use,2,
+314,Other specified coagulation defects,2,
+315,Diaphragmatic hernia without obstruction or gangrene,2,
+316,Procedure and treatment not carried out because of other contraindication,2,
+317,Secondary esophageal varices without bleeding,2,
+318,Supraventricular tachycardia,2,
+319,"Body mass index (BMI) 24.0-24.9, adult",2,
+320,"Other foreign object in respiratory tract, part unspecified in causing asphyxiation, initial encounter",2,
+321,Alcoholic cirrhosis of liver with ascites,2,
+322,Chronic diastolic heart failure,2,
+323,Barrett's esophagus without dysplasia,2,
+324,Pain in left shoulder,2,
+325,Nonrheumatic aortic (valve) stenosis,2,
+326,"Acquired absence of organ, genital organs",2,
+327,Alcohol withdrawal delirium,2,
+328,Encounter for adjustment and management of other part of cardiac pacemaker,2,
+329,Nontraumatic hematoma of soft tissue,2,
+330,Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility,2,
+331,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",2,
+332,"Disruption of external operation (surgical) wound, not elsewhere classified, initial encounter",2,
+333,"Hepatic failure, unspecified without coma",2,
+334,"Jaundice, unspecified, not of newborn",2,
+335,Other and unspecified coagulation defects,2,
+336,"Body Mass Index 31.0-31.9, adult",2,
+337,Epistaxis,2,
+338,Gross hematuria,2,
+339,Enterocolitis due to Clostridium difficile,2,
+340,Other shock,2,
+341,Dependence on supplemental oxygen,2,
+342,Malignant pleural effusion,2,
+343,Dysphonia,2,
+344,Atrial flutter,2,
+345,Atherosclerosis of aorta,2,
+346,Borderline personality disorder,2,
+347,Automatic implantable cardiac defibrillator in situ,2,
+348,Unspecified disease of pericardium,2,
+349,Intermediate coronary syndrome,2,
+350,Other opiates and related narcotics causing adverse effects in therapeutic use,2,
+351,Attention deficit disorder with hyperactivity,2,
+352,Other dysphagia,2,
+353,"Altered mental status, unspecified",2,
+354,"Cerebral artery occlusion, unspecified with cerebral infarction",2,
+355,Secondary malignant neoplasm of bone and bone marrow,2,
+356,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,2,
+357,Pneumonia due to Klebsiella pneumoniae,2,
+358,Solitary pulmonary nodule,2,
+359,Need for prophylactic vaccination and inoculation against influenza,2,
+360,Cirrhosis of liver without mention of alcohol,2,
+361,Atherosclerosis of renal artery,2,
+362,Monoclonal gammopathy,2,
+363,Multiple myeloma not having achieved remission,2,
+364,Acute alcoholic hepatitis,2,
+365,Defibrination syndrome,2,
+366,Alcoholic polyneuropathy,2,
+367,"Urethral stricture, unspecified",2,
+368,Other septicemia due to gram-negative organisms,2,
+369,"Other diseases of lung, not elsewhere classified",2,
+370,Rash and other nonspecific skin eruption,2,
+371,Other respiratory abnormalities,2,
+372,Accidents occurring in unspecified place,2,
+373,"Body mass index (BMI) 32.0-32.9, adult",2,
+374,"Acute alcoholic intoxication in alcoholism, continuous",2,
+375,Unspecified dementia without behavioral disturbance,2,
+376,Bronchiectasis without acute exacerbation,2,
+377,Persistent atrial fibrillation,2,
+378,"Polyneuropathy, unspecified",2,
+379,"Fever, unspecified",2,
+380,Other and unspecified anti-infectives causing adverse effects in therapeutic use,2,
+381,"Adverse effect of diagnostic agents, initial encounter",2,
+382,Other specified abnormal findings of blood chemistry,2,
+383,Unspecified mental disorder due to known physiological condition,2,
+384,Umbilical hernia without mention of obstruction or gangrene,2,
+385,"Adverse effect of loop [high-ceiling] diuretics, initial encounter",2,
+386,Morbid (severe) obesity due to excess calories,2,
+387,"Multiple myeloma, without mention of having achieved remission",2,
+388,"Surgical operation with anastomosis, bypass or graft as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",2,
+389,"Other and unspecified alcohol dependence, continuous",2,
+390,"Bradycardia, unspecified",2,
+391,Other candidiasis of other specified sites,2,
+392,"Venous (peripheral) insufficiency, unspecified",2,
+393,Other chest pain,2,
+394,Other nonspecific abnormal serum enzyme levels,2,
+395,"Body mass index (BMI) 30.0-30.9, adult",2,
+396,Melena,2,
+397,Closed fracture of lumbar vertebra without mention of spinal cord injury,2,
+398,Dysuria,2,
+399,"Family history of malignant neoplasm of trachea, bronchus, and lung",2,
+400,Compression of brain,2,
+401,Disruption of external operation (surgical) wound,2,
+402,Personal history of Methicillin resistant Staphylococcus aureus,2,
+403,"Malignant neoplasm of tongue, unspecified",2,
+404,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side,2,
+405,Low back pain,2,
+406,"Other dependence on machines, supplemental oxygen",2,
+407,"Bipolar disorder, unspecified",2,
+408,"Body mass index (BMI) 19.9 or less, adult",2,
+409,Other and unspecified infection due to central venous catheter,2,
+410,Localized edema,2,
+411,Cardiac tamponade,2,
+412,Pericardial effusion (noninflammatory),2,
+413,Fever presenting with conditions classified elsewhere,2,
+414,"Adverse effect of other opioids, initial encounter",2,
+415,"Contusion of left lower leg, initial encounter",2,
+416,"Localized swelling, mass and lump, left upper limb",2,
+417,"Other diseases of bronchus, not elsewhere classified",2,
+418,Other late effects of cerebrovascular disease,2,
+419,"Decreased white blood cell count, unspecified",2,
+420,Accidental fall on or from other stairs or steps,2,
+421,Traumatic pneumothorax without mention of open wound into thorax,2,
+422,Injury to thoracic aorta,2,
+423,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,2,
+424,Dysarthria,2,
+425,Unspecified convulsions,2,
+426,"Surgical operation with implant of artificial internal device as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",2,
+427,"Other complications due to other vascular device, implant, and graft",2,
+428,Personal history of pneumonia (recurrent),2,
+429,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury,2,
+430,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,2,
+431,Candidiasis of other urogenital sites,2,
+432,Other drugs and medicinal substances causing adverse effects in therapeutic use,2,
+433,Adrenal cortical steroids causing adverse effects in therapeutic use,2,
+434,Other digestive system complications,2,
+435,Severe sepsis without septic shock,2,
+436,Other urogenital candidiasis,2,
+437,Cyst and pseudocyst of pancreas,2,
+438,Colostomy status,2,
+439,Acute embolism and thrombosis of deep veins of left upper extremity,2,
+440,Grand mal status,2,
+441,Nontoxic multinodular goiter,2,
+442,"Osteoporosis, unspecified",2,
+443,Unspecified macular degeneration,2,
+444,Peripheral vascular angioplasty status with implants and grafts,2,
+445,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,2,
+446,Candidiasis of skin and nails,2,
+447,"Contact dermatitis and other eczema, unspecified cause",2,
+448,Chronic atrial fibrillation,2,
+449,Type 2 diabetes mellitus with diabetic nephropathy,2,
+450,Facial weakness,2,
+451,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",2,
+452,Acute pulmonary edema,2,
+453,Ischemic cardiomyopathy,2,
+454,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",2,
+455,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene,2,
+456,Cellulitis of left lower limb,2,
+457,"Other acute and subacute forms of ischemic heart disease, other",2,
+458,Benign neoplasm of cerebral meninges,2,
+459,Embolism and thrombosis of other specified artery,2,
+460,"Other psychoactive substance abuse, uncomplicated",2,
+461,Closed fracture of four ribs,2,
+462,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]",2,
+463,Barrett's esophagus,2,
+464,"Body mass index (BMI) 35.0-35.9, adult",2,
+465,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",2,
+466,Personal history of self-harm,2,
+467,Unspecified disorder of kidney and ureter,2,
+468,"Fistula of intestine, excluding rectum and anus",2,
+469,Postprocedural hypotension,2,
+470,"Other surgical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",2,
+471,"Unspecified injury of head, initial encounter",2,
+472,"Alcohol abuse with intoxication, unspecified",2,
+473,Personal history of alcoholism,2,
+474,"Epilepsy, unspecified, without mention of intractable epilepsy",2,
+475,Arthrodesis status,2,
+476,"Malignant neoplasm of bronchus and lung, unspecified",2,
+477,"Late effects of cerebrovascular disease, cognitive deficits",2,
+478,Acquired absence of intestine (large) (small),2,
+479,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS),2,
+480,Peritoneal abscess,2,
+481,"Fall on same level, unspecified, initial encounter",2,
+482,Family history of malignant neoplasm of breast,2,
+483,Hip joint replacement,2,
+484,Other acute postoperative pain,2,
+485,"Other specified forms of effusion, except tuberculous",2,
+486,"Removal of other organ (partial) (total) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",2,
+487,Phlebitis and thrombophlebitis of superficial veins of upper extremities,2,
+488,Presence of automatic (implantable) cardiac defibrillator,2,
+489,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",2,
+490,"Other postprocedural shock, initial encounter",2,
+491,Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle,2,
+492,Other cirrhosis of liver,2,
+493,Amyotrophic lateral sclerosis,2,
+494,Dermatitis due to drugs and medicines taken internally,2,
+495,Hepatorenal syndrome,2,
+496,Adult failure to thrive,2,
+497,Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere,2,
+498,Acute and subacute hepatic failure without coma,2,
+499,Personal history of sudden cardiac arrest,2,
+500,"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney",2,
+501,Acute and subacute necrosis of liver,2,
+502,"Other, mixed, or unspecified drug abuse, unspecified",2,
+503,Acute and subacute hepatic failure with coma,2,
+504,Nonalcoholic steatohepatitis (NASH),2,
+505,Hypovolemic shock,2,
+506,Postprocedural fever,2,
+507,"Schizophrenia, unspecified",2,
+508,"Esophagitis, unspecified",2,
+509,Acute vascular insufficiency of intestine,2,
+510,Personal history of urinary calculi,2,
+511,Pulmonary congestion and hypostasis,2,
+512,Mixed acid-base balance disorder,2,
+513,Personal history of malignant neoplasm of other parts of uterus,2,
+514,Diaphragmatic hernia without mention of obstruction or gangrene,2,
+515,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),2,
+516,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",2,
+517,Unspecified sinusitis (chronic),2,
+518,Other and unspecified angina pectoris,2,
+519,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled",1,
+520,Benign prostatic hyperplasia without lower urinary tract symptoms,1,
+521,Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm,1,
+522,Dizziness and giddiness,1,
+523,Friedländer's bacillus infection in conditions classified elsewhere and of unspecified site,1,
+524,"Swelling, mass, or lump in head and neck",1,
+525,Acute cor pulmonale,1,
+526,"Leukemia, unspecified not having achieved remission",1,
+527,Chronic or unspecified duodenal ulcer with hemorrhage,1,
+528,"Idiopathic gout, unspecified site",1,
+529,Acute glomerulonephritis with unspecified pathological lesion in kidney,1,
+530,Calculus of gallbladder without cholecystitis without obstruction,1,
+531,Metabolic syndrome,1,
+532,Hemoglobinuria,1,
+533,Other and unspecified mycoses,1,
+534,Other specified diseases of pancreas,1,
+535,"Myelodysplastic disease, not classified",1,
+536,"Primary osteoarthritis, left ankle and foot",1,
+537,"Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding",1,
+538,Acute and chronic respiratory failure with hypercapnia,1,
+539,"Cocaine abuse, uncomplicated",1,
+540,Other acute pain,1,
+541,Other specified diseases of upper respiratory tract,1,
+542,Other Staphylococcus pneumonia,1,
+543,Abdominal aneurysm without mention of rupture,1,
+544,"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified",1,
+545,Neurogenic bladder NOS,1,
+546,Other and unspecified noninfectious gastroenteritis and colitis,1,
+547,"Abdominal pain, other specified site",1,
+548,Malignant neoplasm of thyroid gland,1,
+549,"Neuromuscular dysfunction of bladder, unspecified",1,
+550,Acquired absence of both cervix and uterus,1,
+551,Mitral stenosis,1,
+552,Chronic combined systolic (congestive) and diastolic (congestive) heart failure,1,
+553,Presence of xenogenic heart valve,1,
+554,Adjustment disorder with other symptoms,1,
+555,Congenital stricture of urethra,1,
+556,Family history of malignant neoplasm of other genital organs,1,
+557,Personal history of irradiation,1,
+558,Postmenopausal atrophic vaginitis,1,
+559,Other malaise,1,
+560,"Body Mass Index 25.0-25.9, adult",1,
+561,Unspecified hearing loss,1,
+562,Infarction of spleen,1,
+563,Other overlap syndromes,1,
+564,Other emphysema,1,
+565,Other and unspecified ovarian cyst,1,
+566,Other chronic pancreatitis,1,
+567,"Pulmonary hypertension, unspecified",1,
+568,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,1,
+569,Secondary esophageal varices with bleeding,1,
+570,Other myelodysplastic syndromes,1,
+571,"Car occupant (driver) (passenger) injured in unspecified traffic accident, initial encounter",1,
+572,"Cyst of kidney, acquired",1,
+573,"Ulceration of vulva, unspecified",1,
+574,"Acquired hemolytic anemia, unspecified",1,
+575,Other specified septicemias,1,
+576,Malignant neoplasm of unspecified part of unspecified bronchus or lung,1,
+577,Mononeuritis of unspecified site,1,
+578,Heartburn,1,
+579,"Manic episode, unspecified",1,
+580,Alcohol induced acute pancreatitis without necrosis or infection,1,
+581,Other musculoskeletal symptoms referable to limbs,1,
+582,"Cocaine abuse, unspecified",1,
+583,Hepatopulmonary syndrome,1,
+584,Facial weakness following cerebral infarction,1,
+585,Panic disorder without agoraphobia,1,
+586,"Unspecified fracture of T7-T8 vertebra, initial encounter for closed fracture",1,
+587,Hesitancy of micturition,1,
+588,Chronic glomerulonephritis with unspecified pathological lesion in kidney,1,
+589,Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere,1,
+590,Sebaceous cyst,1,
+591,Other drug-induced agranulocytosis,1,
+592,Aneurysm of artery of lower extremity,1,
+593,"Adverse effect of sulfonamides, initial encounter",1,
+594,"Nutritional anemia, unspecified",1,
+595,Benign prostatic hyperplasia with lower urinary tract symptoms,1,
+596,Personal history of other diseases of digestive system,1,
+597,Intestinal bypass and anastomosis status,1,
+598,"Complication of other artery following a procedure, not elsewhere classified, initial encounter",1,
+599,"Splenomegaly, not elsewhere classified",1,
+600,Chronic pancreatitis,1,
+601,Acute venous embolism and thrombosis of subclavian veins,1,
+602,Chronic or unspecified gastrojejunal ulcer with hemorrhage,1,
+603,Resistance to penicillins,1,
+604,"Radiological procedure and radiotherapy as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",1,
+605,"Herpesviral infection, unspecified",1,
+606,Other specified disorders of biliary tract,1,
+607,Septicemia due to anaerobes,1,
+608,Coalworker's pneumoconiosis,1,
+609,"Myelodysplastic syndrome, unspecified",1,
+610,Septicemia due to pseudomonas,1,
+611,Unspecified abdominal pain,1,
+612,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere,1,
+613,"Traumatic hemothorax, initial encounter",1,
+614,"Cannabis use, unspecified, uncomplicated",1,
+615,Acute bronchitis,1,
+616,"Infective otitis externa, unspecified",1,
+617,"Urinary obstruction, not elsewhere classified",1,
+618,Essential thrombocythemia,1,
+619,Bone marrow replaced by transplant,1,
+620,Shortness of breath,1,
+621,"Traumatic subarachnoid hemorrhage without loss of consciousness, initial encounter",1,
+622,Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site,1,
+623,"Fracture of one rib, left side, initial encounter for closed fracture",1,
+624,Estrogen receptor positive status [ER+],1,
+625,"Unspecified displaced fracture of seventh cervical vertebra, initial encounter for closed fracture",1,
+626,"Other fracture of T7-T8 thoracic vertebra, initial encounter for closed fracture",1,
+627,"Concussion and edema of thoracic spinal cord, initial encounter",1,
+628,"Drug induced headache, not elsewhere classified",1,
+629,Lump or mass in breast,1,
+630,Bloodstream infection due to central venous catheter,1,
+631,Left upper quadrant pain,1,
+632,"Hepatitis, unspecified",1,
+633,"Unspecified fracture of second lumbar vertebra, initial encounter for closed fracture",1,
+634,Other agents affecting blood constituents causing adverse effects in therapeutic use,1,
+635,Neutropenia due to infection,1,
+636,"Viral pneumonia, unspecified",1,
+637,Family history of malignant neoplasm of gastrointestinal tract,1,
+638,Candidiasis of vulva and vagina,1,
+639,Influenza with pneumonia,1,
+640,"Unspecified injury of left shoulder and upper arm, initial encounter",1,
+641,"Personal history, urinary (tract) infection",1,
+642,Accidental poisoning by hormones and synthetic substitutes,1,
+643,Hypothermia not associated with low environmental temperature,1,
+644,"Other anomalies of cervix, vagina, and external female genitalia",1,
+645,"Unspecified kyphosis, site unspecified",1,
+646,"Unspecified fracture of T5-T6 vertebra, initial encounter for closed fracture",1,
+647,Poisoning by insulins and antidiabetic agents,1,
+648,Other myeloid leukemia not having achieved remission,1,
+649,"Graft-versus-host disease, unspecified",1,
+650,Acquired absence of left breast and nipple,1,
+651,Unspecified bacterial pneumonia,1,
+652,"Neutropenia, unspecified",1,
+653,"Sicca syndrome, unspecified",1,
+654,Hemoptysis,1,
+655,Stem cells transplant status,1,
+656,"Unspecified fracture of fourth thoracic vertebra, initial encounter for closed fracture",1,
+657,"Conjunctival hemorrhage, bilateral",1,
+658,"Cellulitis and abscess of hand, except fingers and thumb",1,
+659,Pneumocystosis,1,
+660,Cholesteatoma of attic,1,
+661,"Motorcycle driver injured in collision with fixed or stationary object in nontraffic accident, initial encounter",1,
+662,Other pulmonary aspergillosis,1,
+663,Lack of coordination,1,
+664,"Adverse effect of cephalosporins and other beta-lactam antibiotics, initial encounter",1,
+665,Adhesive capsulitis of shoulder,1,
+666,History of fall,1,
+667,Other specified hypoglycemia,1,
+668,Contact with and (suspected) exposure to other potentially hazardous substances,1,
+669,Unspecified acute appendicitis,1,
+670,Sprains and strains of unspecified site of knee and leg,1,
+671,Unspecified accident,1,
+672,Unspecified psychosis not due to a substance or known physiological condition,1,
+673,"Family history of malignant neoplasm of trachea, bronchus and lung",1,
+674,Vaccination not carried out because of chronic illness or condition,1,
+675,Other specified alveolar and parietoalveolar pneumonopathies,1,
+676,"Other and unspecified superficial injury of hip, thigh, leg, and ankle, without mention of infection",1,
+677,"Accidental cut, puncture, perforation or hemorrhage during heart catheterization",1,
+678,Postinflammatory pulmonary fibrosis,1,
+679,Dysthymic disorder,1,
+680,Nausea alone,1,
+681,Personal history of allergy to other antibiotic agent,1,
+682,Intravenous anesthetics causing adverse effects in therapeutic use,1,
+683,Antineoplastic chemotherapy induced pancytopenia,1,
+684,Anorexia,1,
+685,"Opioid abuse, uncomplicated",1,
+686,Family history of unspecified malignant neoplasm,1,
+687,"Body Mass Index 45.0-49.9, adult",1,
+688,"Acute myeloid leukemia, without mention of having achieved remission",1,
+689,Aspergillosis,1,
+690,Pneumonia in aspergillosis,1,
+691,Local infection due to central venous catheter,1,
+692,Carcinoma in situ of breast,1,
+693,Nontoxic single thyroid nodule,1,
+694,Malignant neoplasm of other and unspecified sites of male breast,1,
+695,"Acute myeloid leukemia, in remission",1,
+696,Other paved roadways as the place of occurrence of the external cause,1,
+697,"Acute myeloblastic leukemia, in relapse",1,
+698,Toxic gastroenteritis and colitis,1,
+699,Long term (current) use of antibiotics,1,
+700,Contact with and (suspected) exposure to other viral communicable diseases,1,
+701,"Tension-type headache, unspecified, not intractable",1,
+702,Abnormal weight loss,1,
+703,Contusion of toe,1,
+704,"Driver of other special all-terrain or other off-road motor vehicle injured in traffic accident, sequela",1,
+705,Pain in right shoulder,1,
+706,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified",1,
+707,"Body mass index (BMI) 26.0-26.9, adult",1,
+708,Long term (current) use of selective estrogen receptor modulators (SERMs),1,
+709,"Gastrointestinal hemorrhage, unspecified",1,
+710,"Hemiplegia, unspecified, affecting unspecified side",1,
+711,Chronic hepatitis C with hepatic coma,1,
+712,"Other myeloid leukemia, in relapse",1,
+713,Dysarthria following cerebral infarction,1,
+714,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side,1,
+715,Pilonidal cyst without abscess,1,
+716,Malignant neoplasm of central portion of female breast,1,
+717,"Chronic ischemic heart disease, unspecified",1,
+718,Periapical abscess without sinus,1,
+719,Rheumatic disorders of both aortic and tricuspid valves,1,
+720,"Anorexia nervosa, restricting type",1,
+721,Other specified hypothyroidism,1,
+722,Non-pressure chronic ulcer of other part of left foot with necrosis of muscle,1,
+723,Sleep terrors [night terrors],1,
+724,Non-pressure chronic ulcer of right heel and midfoot with unspecified severity,1,
+725,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus",1,
+726,Type 2 diabetes mellitus with other skin complications,1,
+727,Type 2 diabetes mellitus with other skin ulcer,1,
+728,"Atherosclerosis of native arteries of extremities with gangrene, left leg",1,
+729,Non-pressure chronic ulcer of left calf with unspecified severity,1,
+730,Non-pressure chronic ulcer of left heel and midfoot with unspecified severity,1,
+731,"Diastolic heart failure, unspecified",1,
+732,Hyperplasia of renal artery,1,
+733,"Blindness, both eyes",1,
+734,"Food in respiratory tract, part unspecified causing asphyxiation, initial encounter",1,
+735,"Adverse effect of unspecified antiepileptic and sedative-hypnotic drugs, initial encounter",1,
+736,Long QT syndrome,1,
+737,Pleural effusion in other conditions classified elsewhere,1,
+738,"Legal blindness, as defined in USA",1,
+739,"Cannabis dependence, uncomplicated",1,
+740,"Urinary obstruction, unspecified",1,
+741,"Unspecified polyarthropathy or polyarthritis, site unspecified",1,
+742,Patient's other noncompliance with medication regimen,1,
+743,Unspecified sleep apnea,1,
+744,Bite of other animal except arthropod,1,
+745,Contusion of hand(s),1,
+746,Difficulty in walking,1,
+747,Human immunodeficiency virus [HIV] disease,1,
+748,Nonrheumatic tricuspid (valve) insufficiency,1,
+749,Other disorders of bilirubin metabolism,1,
+750,Diseases of tricuspid valve,1,
+751,"Body Mass Index 27.0-27.9, adult",1,
+752,Dysphagia following cerebral infarction,1,
+753,Fitting and adjustment of cardiac pacemaker,1,
+754,Renal agenesis and dysgenesis,1,
+755,Regional enteritis of unspecified site,1,
+756,Infection with microorganisms resistant to penicillins,1,
+757,"Late effects of cerebrovascular disease, aphasia",1,
+758,Closed fracture of intertrochanteric section of neck of femur,1,
+759,"Hypoglycemia, unspecified",1,
+760,Other symbolic dysfunction,1,
+761,Occlusion and stenosis of carotid artery without mention of cerebral infarction,1,
+762,Unemployment,1,
+763,"Enterocolitis due to Clostridium difficile, not specified as recurrent",1,
+764,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure,1,
+765,Other psychotic disorder not due to a substance or known physiological condition,1,
+766,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",1,
+767,Eosinophilia,1,
+768,Encounter for attention to tracheostomy,1,
+769,Other frontotemporal dementia,1,
+770,Encounter for fitting and adjustment of other specified devices,1,
+771,Encounter for attention to other artificial openings of digestive tract,1,
+772,Tracheostomy status,1,
+773,"Adverse effect of other antihypertensive drugs, initial encounter",1,
+774,"Retinal vascular occlusion, unspecified",1,
+775,"Pain in joint, site unspecified",1,
+776,Occlusion and stenosis of right carotid artery,1,
+777,Contact with or exposure to other viral diseases,1,
+778,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled",1,
+779,"Displaced comminuted fracture of shaft of right tibia, initial encounter for closed fracture",1,
+780,Other specified disorders of arteries and arterioles,1,
+781,"Contusion of left foot, initial encounter",1,
+782,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding",1,
+783,Personal history of Hodgkin lymphoma,1,
+784,Multiple involvement of mitral and aortic valves,1,
+785,Personal history of hodgkin's disease,1,
+786,Other acquired absence of organ,1,
+787,Personal history of other lymphatic and hematopoietic neoplasms,1,
+788,Presence of prosthetic heart valve,1,
+789,Occlusion and stenosis of left carotid artery,1,
+790,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites",1,
+791,Heart valve replaced by transplant,1,
+792,Aortocoronary bypass status,1,
+793,"Body Mass Index 37.0-37.9, adult",1,
+794,Resistance to other specified antimicrobial drug,1,
+795,Saddle embolus of pulmonary artery with acute cor pulmonale,1,
+796,Unspecified place in other specified residential institution as the place of occurrence of the external cause,1,
+797,"Other cause of strike by thrown, projected or falling object, initial encounter",1,
+798,"Fall on same level, unspecified, subsequent encounter",1,
+799,Family history of malignant neoplasm of digestive organs,1,
+800,Chronic obstructive pulmonary disease with (acute) exacerbation,1,
+801,Other specified disorders of adrenal gland,1,
+802,"Allergic rhinitis, unspecified",1,
+803,Palmar fascial fibromatosis [Dupuytren],1,
+804,"Migraine with aura, not intractable, without status migrainosus",1,
+805,"Retinal artery branch occlusion, unspecified eye",1,
+806,"Adverse effect of penicillins, initial encounter",1,
+807,Drug induced constipation,1,
+808,Resistance to vancomycin,1,
+809,Resistance to quinolones and fluoroquinolones,1,
+810,Full incontinence of feces,1,
+811,Non-pressure chronic ulcer of other part of left foot with unspecified severity,1,
+812,"Pressure ulcer of other site, unspecified stage",1,
+813,Actinic keratosis,1,
+814,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia",1,
+815,"Body Mass Index 36.0-36.9, adult",1,
+816,Cellulitis and abscess of face,1,
+817,"Cannabis abuse, continuous",1,
+818,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,1,
+819,Acute pyelonephritis,1,
+820,Enterococcus as the cause of diseases classified elsewhere,1,
+821,Other malaise and fatigue,1,
+822,Other ureteric obstruction,1,
+823,Drug-induced delirium,1,
+824,Anticoagulants causing adverse effects in therapeutic use,1,
+825,Anal or rectal pain,1,
+826,Other artificial opening of urinary tract status,1,
+827,Personal history of pathologic fracture,1,
+828,Malignant neoplasm of rectum,1,
+829,Calculus of ureter,1,
+830,Other specified analgesics and antipyretics causing adverse effects in therapeutic use,1,
+831,"Dependence on respirator, status",1,
+832,"Tubulo-interstitial nephritis, not specified as acute or chronic",1,
+833,Dyskinesia of esophagus,1,
+834,Unspecified intestinal obstruction,1,
+835,Congenital hydronephrosis,1,
+836,"Other antipsychotics, neuroleptics, and major tranquilizers causing adverse effects in therapeutic use",1,
+837,"Unspecified injury of left hip, initial encounter",1,
+838,Suicidal ideation,1,
+839,Secondary malignant neoplasm of retroperitoneum and peritoneum,1,
+840,Encounter for attention to colostomy,1,
+841,Secondary malignant neoplasm of other digestive organs,1,
+842,Lack of housing,1,
+843,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system, initial encounter",1,
+844,"Other disorders of plasma-protein metabolism, not elsewhere classified",1,
+845,Adult hypertrophic pyloric stenosis,1,
+846,"Osteoarthritis of knee, unspecified",1,
+847,Sicca syndrome,1,
+848,"Hemiplegia, unspecified affecting right dominant side",1,
+849,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site,1,
+850,Unsteadiness on feet,1,
+851,Ataxia following other cerebrovascular disease,1,
+852,Cerebral infarction due to embolism of unspecified cerebral artery,1,
+853,Localized skin eruption due to drugs and medicaments taken internally,1,
+854,Empyema without mention of fistula,1,
+855,Chronic myeloproliferative disease,1,
+856,"Adverse effect of drugs affecting uric acid metabolism, initial encounter",1,
+857,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",1,
+858,"Malignant neoplasm of liver, secondary",1,
+859,Stricture of artery,1,
+860,"Malignant neoplasm of anus, unspecified site",1,
+861,Varices of other sites,1,
+862,Other specified disorders of peritoneum,1,
+863,Malignant neoplasm of body of pancreas,1,
+864,Malignant neoplasm of right main bronchus,1,
+865,"Candidiasis, unspecified",1,
+866,"Sciatica, unspecified side",1,
+867,"Personal history of surgery to heart and great vessels, presenting hazards to health",1,
+868,Malignant neoplasm of left main bronchus,1,
+869,Esophageal obstruction,1,
+870,Fibromyalgia,1,
+871,Candidal stomatitis,1,
+872,Other adrenal hypofunction,1,
+873,"Osteoarthrosis, unspecified whether generalized or localized, lower leg",1,
+874,Early satiety,1,
+875,"Nystagmus, unspecified",1,
+876,"Nausea with vomiting, unspecified",1,
+877,"Psoriasis, unspecified",1,
+878,Age-related osteoporosis without current pathological fracture,1,
+879,Alcoholic hepatitis with ascites,1,
+880,Encounter for adjustment and management of automatic implantable cardiac defibrillator,1,
+881,"Other complications following infusion, transfusion and therapeutic injection, initial encounter",1,
+882,Dilated cardiomyopathy,1,
+883,Postprocedural pneumothorax,1,
+884,Rheumatic tricuspid insufficiency,1,
+885,Acquired absence of kidney,1,
+886,Unspecified cataract,1,
+887,Malignant neoplasm of anal canal,1,
+888,"Anoxic brain damage, not elsewhere classified",1,
+889,Paranoid schizophrenia,1,
+890,Cardiomyopathy due to drug and external agent,1,
+891,Personal history of other malignant neoplasm of kidney,1,
+892,"Adverse effect of unspecified antipsychotics and neuroleptics, sequela",1,
+893,Undiagnosed cardiac murmurs,1,
+894,"Paranoid type schizophrenia, unspecified",1,
+895,Personal history of malignant neoplasm of kidney,1,
+896,"Other displaced fracture of upper end of right humerus, subsequent encounter for fracture with routine healing",1,
+897,Acute embolism and thrombosis of deep veins of right upper extremity,1,
+898,Cervicalgia,1,
+899,Suicidal ideations,1,
+900,"Secondary cardiomyopathy, unspecified",1,
+901,"Impacted cerumen, unspecified ear",1,
+902,Microscopic hematuria,1,
+903,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",1,
+904,"Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus",1,
+905,Other drug-induced pancytopenia,1,
+906,Hallucinations,1,
+907,"Mechanical complication of other vascular device, implant, and graft",1,
+908,"Paranoid type schizophrenia, chronic",1,
+909,"Alcohol use, unspecified with unspecified alcohol-induced disorder",1,
+910,Other specified misadventures during medical care,1,
+911,Other left bundle branch block,1,
+912,"Cocaine use, unspecified, uncomplicated",1,
+913,Accidents occurring in other specified places,1,
+914,"Opioid abuse, in remission",1,
+915,Mechanical complication of automatic implantable cardiac defibrillator,1,
+916,"Ventral, unspecified, hernia without mention of obstruction or gangrene",1,
+917,Drug-induced mood disorder,1,
+918,"Acute venous embolism and thrombosis of upper extremity, unspecified",1,
+919,Other specified intestinal obstruction,1,
+920,Systemic inflammatory response syndrome due to noninfectious process with acute organ dysfunction,1,
+921,"Body Mass Index 33.0-33.9, adult",1,
+922,Dysmenorrhea,1,
+923,"Postoperative shock, other",1,
+924,"Fracture, cause unspecified",1,
+925,Laparoscopic surgical procedure converted to open procedure,1,
+926,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",1,
+927,"Closed fracture of phalanx or phalanges of hand, unspecified",1,
+928,"Other psychoactive substance use, unspecified with psychoactive substance-induced mood disorder",1,
+929,Spontaneous bacterial peritonitis,1,
+930,Tachypnea,1,
+931,Natural blood and blood products causing adverse effects in therapeutic use,1,
+932,Other specified disorders of stomach and duodenum,1,
+933,Esophageal varices without mention of bleeding,1,
+934,Other pulmonary embolism without acute cor pulmonale,1,
+935,Ventricular tachycardia,1,
+936,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh",1,
+937,Unarmed fight or brawl,1,
+938,Closed fracture of nasal bones,1,
+939,Personal history of malignant neoplasm of large intestine,1,
+940,Glucocorticoid deficiency,1,
+941,Oliguria and anuria,1,
+942,Personal history of other diseases of the digestive system,1,
+943,Type 1 diabetes mellitus with ketoacidosis without coma,1,
+944,"Underdosing of insulin and oral hypoglycemic [antidiabetic] drugs, initial encounter",1,
+945,Pneumonia due to Methicillin susceptible Staphylococcus aureus,1,
+946,"Other mechanical complication of insulin pump, initial encounter",1,
+947,"Sarcoidosis, unspecified",1,
+948,Other forms of acute pericarditis,1,
+949,Other specified disorders of circulatory system,1,
+950,Hepatic encephalopathy,1,
+951,"Esophageal varices in diseases classified elsewhere, with bleeding",1,
+952,Acetonuria,1,
+953,Mechanical complication due to insulin pump,1,
+954,Methicillin resistant pneumonia due to Staphylococcus aureus,1,
+955,"Chronic osteomyelitis, site unspecified",1,
+956,Transfusion related acute lung injury (TRALI),1,
+957,Encounter for removal of sutures,1,
+958,Attention to ileostomy,1,
+959,Renal dialysis status,1,
+960,Noncompliance with renal dialysis,1,
+961,"Renal sclerosis, unspecified",1,
+962,"Abdominal pain, unspecified site",1,
+963,Personal history of malignant neoplasm of cervix uteri,1,
+964,Other anaphylactic reaction,1,
+965,Other specified retention of urine,1,
+966,"Vaginal enterocele, congenital or acquired",1,
+967,Prolapse of vaginal vault after hysterectomy,1,
+968,"Myalgia and myositis, unspecified",1,
+969,"Allergic rhinitis, cause unspecified",1,
+970,Acquired hypertrophic pyloric stenosis,1,
+971,"Alcohol abuse, continuous",1,
+972,"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus",1,
+973,Long-term (current) use of antiplatelet/antithrombotic,1,
+974,Other malignant neuroendocrine tumors,1,
+975,"Personal history of other malignant neoplasm of rectum, rectosigmoid junction, and anus",1,
+976,Other secondary neuroendocrine tumors,1,
+977,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere,1,
+978,Other gastritis without bleeding,1,
+979,"Unspecified injury of urethra, initial encounter",1,
+980,Type 2 diabetes mellitus with unspecified complications,1,
+981,"Exposure to other specified factors, initial encounter",1,
+982,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified",1,
+983,"Other disorders of muscle, ligament, and fascia",1,
+984,Other specified pre-operative examination,1,
+985,Diplopia,1,
+986,Hypercalcemia,1,
+987,Personal history of malignant neoplasm of bronchus and lung,1,
+988,Dementia in conditions classified elsewhere with behavioral disturbance,1,
+989,Alzheimer's disease,1,
+990,Other hypotension,1,
+991,Personal history of (healed) traumatic fracture,1,
+992,Discoid lupus erythematosus,1,
+993,Iatrogenic cerebrovascular infarction or hemorrhage,1,
+994,Coronary atherosclerosis of autologous vein bypass graft,1,
+995,Degeneration of lumbar or lumbosacral intervertebral disc,1,
+996,Awaiting organ transplant status,1,
+997,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, initial encounter",1,
+998,Acute embolism and thrombosis of superficial veins of left upper extremity,1,
+999,Malignant neoplasm of rectosigmoid junction,1,
+1000,"Traumatic hemorrhage of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter",1,
+1001,Procedure not carried out for other reasons,1,
+1002,Pernicious anemia,1,
+1003,Unspecified coma,1,
+1004,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",1,
+1005,Cardiac arrest due to underlying cardiac condition,1,
+1006,"Multiple fractures of ribs, bilateral, initial encounter for closed fracture",1,
+1007,"Left bundle-branch block, unspecified",1,
+1008,Closed fracture of seven ribs,1,
+1009,Hemangioma of intracranial structures,1,
+1010,Personal history of malignant neoplasm of thyroid,1,
+1011,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with loss of consciousness of unspecified duration",1,
+1012,Personal history of malignant melanoma of skin,1,
+1013,"Epilepsy, unspecified, not intractable, with status epilepticus",1,
+1014,"Mycosis fungoides, unspecified site, extranodal and solid organ sites",1,
+1015,Hypospadias,1,
+1016,Abnormal involuntary movements,1,
+1017,Unspecified condition of brain,1,
+1018,Other malignant neoplasm without specification of site,1,
+1019,Painful respiration,1,
+1020,Secondary malignant neoplasm of kidney,1,
+1021,Acute laryngitis without mention of obstruction,1,
+1022,"Pressure ulcer, stage III",1,
+1023,Antineoplastic chemotherapy induced anemia,1,
+1024,Secondary malignant neoplasm of brain and spinal cord,1,
+1025,"Pressure ulcer, stage II",1,
+1026,"Pressure ulcer, lower back",1,
+1027,Impaired glucose tolerance test (oral),1,
+1028,Secondary malignant neoplasm of adrenal gland,1,
+1029,Secondary malignant neoplasm of lung,1,
+1030,Subarachnoid hemorrhage,1,
+1031,Degeneration of cervical intervertebral disc,1,
+1032,Cerebral atherosclerosis,1,
+1033,Lumbosacral spondylosis without myelopathy,1,
+1034,"Malignant neoplasm of lower lobe, bronchus or lung",1,
+1035,"Osteoarthrosis, unspecified whether generalized or localized, hand",1,
+1036,Cervical spondylosis without myelopathy,1,
+1037,Mobitz (type) II atrioventricular block,1,
+1038,"Cardiac catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",1,
+1039,Gas pain,1,
+1040,Acute embolism and thrombosis of left popliteal vein,1,
+1041,"Personal history of other endocrine, nutritional and metabolic disease",1,
+1042,Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites,1,
+1043,"Atrioventricular block, complete",1,
+1044,Other specified hypotension,1,
+1045,"Alcohol dependence with intoxication, unspecified",1,
+1046,Open fracture of shaft of femur,1,
+1047,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes",1,
+1048,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group B",1,
+1049,Unspecified infectious and parasitic diseases,1,
+1050,Other disorders of neurohypophysis,1,
+1051,"Unspecified infection due to central venous catheter, initial encounter",1,
+1052,Postprocedural hemorrhage of a circulatory system organ or structure following a cardiac catheterization,1,
+1053,Hemoperitoneum,1,
+1054,Sepsis due to Escherichia coli [E. coli],1,
+1055,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery,1,
+1056,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction",1,
+1057,Other cysts of jaws,1,
+1058,Cardiomegaly,1,
+1059,Unspecified hemorrhoids,1,
+1060,"Macular degeneration (senile), unspecified",1,
+1061,Lens replaced by other means,1,
+1062,Cataract extraction status,1,
+1063,Spondylolisthesis,1,
+1064,"Scoliosis [and kyphoscoliosis], idiopathic",1,
+1065,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system,1,
+1066,Obstructive hydrocephalus,1,
+1067,"Pain in joint, shoulder region",1,
+1068,Accidental fall from bed,1,
+1069,"Ileus, unspecified",1,
+1070,Unspecified hemorrhoids with other complication,1,
+1071,"Cannabis abuse, uncomplicated",1,
+1072,Family history of malignant neoplasm of prostate,1,
+1073,"Bacterial pneumonia, unspecified",1,
+1074,"Migraine, unspecified, not intractable, without status migrainosus",1,
+1075,"Collapsed vertebra, not elsewhere classified, lumbar region, initial encounter for fracture",1,
+1076,Unspecified disturbance of conduct,1,
+1077,"Visual discomfort, bilateral",1,
+1078,"Other cervical disc degeneration, unspecified cervical region",1,
+1079,"Nontoxic goiter, unspecified",1,
+1080,Unspecified place in nursing home as the place of occurrence of the external cause,1,
+1081,Presence of intraocular lens,1,
+1082,Dry eye syndrome of bilateral lacrimal glands,1,
+1083,Acute on chronic combined systolic and diastolic heart failure,1,
+1084,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure,1,
+1085,"Fall from other slipping, tripping, or stumbling",1,
+1086,Unspecified disorder of thyroid,1,
+1087,"Flatulence, eructation, and gas pain",1,
+1088,Iatrogenic pneumothorax,1,
+1089,Pleurisy without mention of effusion or current tuberculosis,1,
+1090,"Arthropathy, unspecified, lower leg",1,
+1091,"Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture",1,
+1092,Malignant neoplasm of main bronchus,1,
+1093,"Spinal stenosis, lumbar region, with neurogenic claudication",1,
+1094,Personal history of poliomyelitis,1,
+1095,"Spinal stenosis, lumbar region, without neurogenic claudication",1,
+1096,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris,1,
+1097,Acute embolism and thrombosis of left iliac vein,1,
+1098,Operating room of hospital as the place of occurrence of the external cause,1,
+1099,Other closed transcervical fracture of neck of femur,1,
+1100,Hemothorax,1,
+1101,Accidental puncture and laceration of a circulatory system organ or structure during other procedure,1,
+1102,Postprocedural heart failure following other surgery,1,
+1103,Obstructive chronic bronchitis with (acute) exacerbation,1,
+1104,Fall resulting in striking against other object,1,
+1105,Closed fracture of two ribs,1,
+1106,Secondary malignant neoplasm of mediastinum,1,
+1107,Acute esophagitis,1,
+1108,"Disruption of wound, unspecified",1,
+1109,Chronic combined systolic and diastolic heart failure,1,
+1110,Persistent postoperative fistula,1,
+1111,Other premature beats,1,
+1112,"Multiple fractures of ribs, left side, initial encounter for closed fracture",1,
+1113,Acquired coagulation factor deficiency,1,
+1114,"Supermarket, store or market as the place of occurrence of the external cause",1,
+1115,Unspecified deficiency anemia,1,
+1116,Other closed fractures of distal end of radius (alone),1,
+1117,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",1,
+1118,Other specified forms of hearing loss,1,
+1119,Overflow incontinence,1,
+1120,Other ventral hernia without mention of obstruction or gangrene,1,
+1121,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",1,
+1122,"Dissection of aorta, abdominal",1,
+1123,Salicylates causing adverse effects in therapeutic use,1,
+1124,Electrolyte and fluid disorders not elsewhere classified,1,
+1125,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,1,
+1126,Personal history of malignant neoplasm of other gastrointestinal tract,1,
+1127,"Accidental cut, puncture, perforation or hemorrhage during surgical operation",1,
+1128,"Collapsed vertebra, not elsewhere classified, thoracic region, initial encounter for fracture",1,
+1129,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris,1,
+1130,"Peritonitis, unspecified",1,
+1131,Other abnormal glucose,1,
+1132,Acute systolic heart failure,1,
+1133,Other abnormal blood chemistry,1,
+1134,Cholangitis,1,
+1135,"Autistic disorder, current or active state",1,
+1136,"Other anomalies of gallbladder, bile ducts, and liver",1,
+1137,Secondary malignant neoplasm of other digestive organs and spleen,1,
+1138,Malignant neoplasm of gallbladder,1,
+1139,"Body Mass Index 35.0-35.9, adult",1,
+1140,Acute and chronic cholecystitis,1,
+1141,Other pulmonary embolism and infarction,1,
+1142,Acute diastolic (congestive) heart failure,1,
+1143,Other specified diseases of pericardium,1,
+1144,Late effects of motor vehicle accident,1,
+1145,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",1,
+1146,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta,1,
+1147,Late effect of certain complications of trauma,1,
+1148,Other lymphedema,1,
+1149,Essential and other specified forms of tremor,1,
+1150,Surgical or other procedure not carried out because of contraindication,1,
+1151,Ankylosing spondylitis,1,
+1152,"Duodenitis, without mention of hemorrhage",1,
+1153,Malignant neoplasm of lower third of esophagus,1,
+1154,Dissection of abdominal aorta,1,
+1155,"Other reconstructive surgery as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",1,
+1156,Postprocedural hemorrhage of a circulatory system organ or structure following other circulatory system procedure,1,
+1157,Pain in limb,1,
+1158,"Major depressive disorder, single episode, severe with psychotic features",1,
+1159,"Primary osteoarthritis, unspecified shoulder",1,
+1160,Acquired absence of other specified parts of digestive tract,1,
+1161,"Ulcerative colitis, unspecified, without complications",1,
+1162,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled",1,
+1163,Background diabetic retinopathy,1,
+1164,"Dissociative and conversion disorder, unspecified",1,
+1165,"Localized swelling, mass and lump, unspecified lower limb",1,
+1166,"Benign paroxysmal vertigo, unspecified ear",1,
+1167,"Homonymous bilateral field defects, left side",1,
+1168,"Pruritus, unspecified",1,
+1169,Conversion disorder with mixed symptom presentation,1,
+1170,Sick sinus syndrome,1,
+1171,Acute appendicitis with generalized peritonitis,1,
+1172,"Major depressive disorder, single episode, in full remission",1,
+1173,Long term (current) use of oral hypoglycemic drugs,1,
+1174,"Acute pericarditis, unspecified",1,
+1175,"Other fall on same level, initial encounter",1,
+1176,Epigastric pain,1,
+1177,Other symptoms and signs concerning food and fluid intake,1,
+1178,Other complications of other bariatric procedure,1,
+1179,Other fatigue,1,
+1180,"Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",1,
+1181,Xerosis cutis,1,
+1182,Bilateral primary osteoarthritis of hip,1,
+1183,"Primary osteoarthritis, left shoulder",1,
+1184,Pure hyperglyceridemia,1,
+1185,Monoplegia of lower limb following cerebral infarction affecting left non-dominant side,1,
+1186,Dissection of other artery,1,
+1187,Malignant neoplasm of intrahepatic bile ducts,1,
+1188,Nontoxic uninodular goiter,1,
+1189,"Accidental cut, puncture, perforation or hemorrhage during other specified medical care",1,
+1190,Impaired fasting glucose,1,
+1191,"Contusion of other intra-abdominal organs, initial encounter",1,
+1192,"Assault by unarmed brawl or fight, initial encounter",1,
+1193,"Fracture of subcondylar process of mandible, initial encounter for closed fracture",1,
+1194,Closed fracture of surgical neck of humerus,1,
+1195,Other psoriasis,1,
+1196,"Other postprocedural complications and disorders of the circulatory system, not elsewhere classified",1,
+1197,"Schizoaffective disorder, chronic with acute exacerbation",1,
+1198,Other alteration of consciousness,1,
+1199,Chronic lymphocytic leukemia of B-cell type in remission,1,
+1200,Malignant neoplasm of descended left testis,1,
+1201,Other sequelae of cerebral infarction,1,
+1202,Syndrome of inappropriate secretion of antidiuretic hormone,1,
+1203,Acute bronchitis due to other specified organisms,1,
+1204,"Body mass index (BMI) 36.0-36.9, adult",1,
+1205,"Body mass index (BMI) 37.0-37.9, adult",1,
+1206,Type 2 diabetes mellitus with diabetic cataract,1,
+1207,Other viral infections of unspecified site,1,
+1208,Chronic lymphocytic leukemia of B-cell type not having achieved remission,1,
+1209,"Body mass index (BMI) 34.0-34.9, adult",1,
+1210,Generalized hyperhidrosis,1,
+1211,Personal history of malignant neoplasm of testis,1,
+1212,"Sacrococcygeal disorders, not elsewhere classified",1,
+1213,"Poisoning by insulin and oral hypoglycemic [antidiabetic] drugs, accidental (unintentional), initial encounter",1,
+1214,Foreign body in larynx,1,
+1215,Diverticulosis of large intestine without perforation or abscess without bleeding,1,
+1216,Alcoholic cirrhosis of liver without ascites,1,
+1217,Benign neoplasm of descending colon,1,
+1218,Acute systolic (congestive) heart failure,1,
+1219,Acute embolism and thrombosis of unspecified deep veins of right lower extremity,1,
+1220,Dietary selenium deficiency,1,
+1221,Other medical devices associated with adverse incidents,1,
+1222,"Underdosing of saline and osmotic laxatives, initial encounter",1,
+1223,Alcohol abuse with unspecified alcohol-induced disorder,1,
+1224,Patient's intentional underdosing of medication regimen for other reason,1,
+1225,Other place in single-family (private) house as the place of occurrence of the external cause,1,
+1226,Alcohol dependence with alcohol-induced psychotic disorder with hallucinations,1,
+1227,"Contusion of right lower leg, initial encounter",1,
+1228,Ventricular premature depolarization,1,
+1229,"Contusion of right upper arm, initial encounter",1,
+1230,"Contusion of left back wall of thorax, initial encounter",1,
+1231,"Contusion of left upper arm, initial encounter",1,
+1232,Acute post-thoracotomy pain,1,
+1233,"Laceration of intercostal blood vessels, left side, initial encounter",1,
+1234,"Dislocation of jaw, initial encounter",1,
+1235,Multiple sclerosis,1,
+1236,Intracranial abscess,1,
+1237,Family history of other specified malignant neoplasm,1,
+1238,"Contusion of right back wall of thorax, initial encounter",1,
+1239,"Fall (on) (from) other stairs and steps, initial encounter",1,
+1240,"Contusion of scalp, initial encounter",1,
+1241,Unspecified viral hepatitis C with hepatic coma,1,
+1242,Alcohol-induced chronic pancreatitis,1,
+1243,Alcoholic hepatic failure without coma,1,
+1244,"Malignant neoplasm of unspecified testis, unspecified whether descended or undescended",1,
+1245,Diabetes mellitus due to underlying condition with hyperglycemia,1,
+1246,Pain in unspecified shoulder,1,
+1247,Other specified diseases of intestine,1,
+1248,"Dorsalgia, unspecified",1,
+1249,Other hemorrhoids,1,
+1250,Hemorrhage of anus and rectum,1,
+1251,Polyp of colon,1,
+1252,"Other bursitis of hip, right hip",1,
+1253,"Major depressive disorder, recurrent, in remission, unspecified",1,
+1254,"Primary osteoarthritis, right shoulder",1,
+1255,Fistula of stomach and duodenum,1,
+1256,"Displacement of vascular dialysis catheter, initial encounter",1,
+1257,Takotsubo syndrome,1,
+1258,Wet beriberi,1,
+1259,Alcoholic hepatitis without ascites,1,
+1260,"Acute pancreatitis, unspecified",1,
+1261,Other specified sepsis,1,
+1262,"Alcohol dependence, uncomplicated",1,
+1263,Chondrocostal junction syndrome [Tietze],1,
+1264,"Mild cognitive impairment, so stated",1,
+1265,"Bursopathy, unspecified",1,
+1266,"Unspecified osteoarthritis, unspecified site",1,
+1267,"Lower abdominal pain, unspecified",1,
+1268,"Hemiplegia, unspecified affecting left nondominant side",1,
+1269,Other and unspecified manifestations of thiamine deficiency,1,
+1270,Dietary zinc deficiency,1,
+1271,"Hypothermia, not associated with low environmental temperature",1,
+1272,Unspecified cirrhosis of liver,1,
+1273,"Partial intestinal obstruction, unspecified as to cause",1,
+1274,"Spondylosis without myelopathy or radiculopathy, sacral and sacrococcygeal region",1,
+1275,Generalized abdominal pain,1,
+1276,"Body mass index (BMI) 20.0-20.9, adult",1,
+1277,Traumatic anuria,1,
+1278,Other chronic nonalcoholic liver disease,1,
+1279,Methicillin susceptible pneumonia due to Staphylococcus aureus,1,
+1280,Edema of male genital organs,1,
+1281,Contact dermatitis and other eczema due to plants [except food],1,
+1282,Traumatic hemothorax without mention of open wound into thorax,1,
+1283,"Closed dislocation, multiple cervical vertebrae",1,
+1284,Unspecified injury of heart without mention of open wound into thorax,1,
+1285,Closed fracture of sixth cervical vertebra,1,
+1286,"Alopecia, unspecified",1,
+1287,"Injury to other intra-abdominal organs without mention of open wound into cavity, adrenal gland",1,
+1288,"Injury to liver without mention of open wound into cavity, hematoma and contusion",1,
+1289,"Injury to liver without mention of open wound into cavity laceration, unspecified",1,
+1290,Right bundle branch block,1,
+1291,"Other acute osteomyelitis, right ankle and foot",1,
+1292,Bacteroides fragilis [B. fragilis] as the cause of diseases classified elsewhere,1,
+1293,Other symbolic dysfunctions,1,
+1294,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified",1,
+1295,Chronic viral hepatitis B without delta-agent,1,
+1296,Non-pressure chronic ulcer of other part of right foot with necrosis of bone,1,
+1297,"Benign neoplasm of meninges, unspecified",1,
+1298,Obstruction of bile duct,1,
+1299,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",1,
+1300,Rhabdomyolysis,1,
+1301,Long term (current) use of opiate analgesic,1,
+1302,Other dorsalgia,1,
+1303,Portal vein thrombosis,1,
+1304,"Viral intestinal infection, unspecified",1,
+1305,"Body mass index (BMI) 23.0-23.9, adult",1,
+1306,Acute pulmonary insufficiency following nonthoracic surgery,1,
+1307,Cellulitis of abdominal wall,1,
+1308,Postprocedural hemorrhage of a musculoskeletal structure following other procedure,1,
+1309,"Spondylosis without myelopathy or radiculopathy, lumbosacral region",1,
+1310,Intestinal adhesions [bands] with obstruction (postinfection),1,
+1311,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",1,
+1312,Other specified places as the place of occurrence of the external cause,1,
+1313,Rheumatic disorders of both mitral and aortic valves,1,
+1314,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms",1,
+1315,Chronic or unspecified gastric ulcer with perforation,1,
+1316,Chronic or unspecified duodenal ulcer with perforation,1,
+1317,Chronic viral hepatitis C,1,
+1318,Peritoneal adhesions (postprocedural) (postinfection),1,
+1319,Other specified peritonitis,1,
+1320,Personal history of allergy to penicillin,1,
+1321,Accidental poisoning from other specified plants,1,
+1322,"Injury to other gastrointestinal sites, without mention of open wound into cavity",1,
+1323,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus",1,
+1324,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",1,
+1325,Abscess of liver,1,
+1326,Other specified disorders of intestine,1,
+1327,Personal history of traumatic fracture,1,
+1328,Intestinal bypass or anastomosis status,1,
+1329,Other diseases of stomach and duodenum,1,
+1330,Other toe(s) amputation status,1,
+1331,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled",1,
+1332,"Surgical instruments, materials and cardiovascular devices (including sutures) associated with adverse incidents",1,
+1333,"Thrombosis due to vascular prosthetic devices, implants and grafts, initial encounter",1,
+1334,Other streptococcal sepsis,1,
+1335,Febrile nonhemolytic transfusion reaction,1,
+1336,Tinea cruris,1,
+1337,Sepsis due to Methicillin resistant Staphylococcus aureus,1,
+1338,Acquired keratosis [keratoderma] palmaris et plantaris,1,
+1339,"Fluid overload, unspecified",1,
+1340,Acute and subacute infective endocarditis,1,
+1341,"Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts, initial encounter",1,
+1342,"Cellulitis and abscess of leg, except foot",1,
+1343,"Chronic kidney disease, Stage V",1,
+1344,Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation,1,
+1345,"Cystic kidney disease, unspecified",1,
+1346,"Bipolar I disorder, most recent episode (or current) mixed, unspecified",1,
+1347,Splenomegaly,1,
+1348,"Calculus of bile duct without mention of cholecystitis, without mention of obstruction",1,
+1349,Non-pressure chronic ulcer of other part of right foot limited to breakdown of skin,1,
+1350,Prurigo nodularis,1,
+1351,Acquired absence of right foot,1,
+1352,Cellulitis of left upper limb,1,
+1353,Presence of cardiac pacemaker,1,
+1354,Other specified soft tissue disorders,1,
+1355,Anemia due to antineoplastic chemotherapy,1,
+1356,"Malignant neoplasm of left testis, unspecified whether descended or undescended",1,
+1357,"Body Mass Index 40.0-44.9, adult",1,
+1358,"Catatonic type schizophrenia, unspecified",1,
+1359,"Unilateral primary osteoarthritis, left knee",1,
+1360,Presence of right artificial knee joint,1,
+1361,"Mechanical complication of nervous system device, implant, and graft",1,
+1362,Acute respiratory failure following trauma and surgery,1,
+1363,Traumatic shock,1,
+1364,"Injury to other intra-abdominal organs without mention of open wound into cavity, peritoneum",1,
+1365,Contusion of lung without mention of open wound into thorax,1,
+1366,Ulcer of other part of foot,1,
+1367,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled",1,
+1368,Polyneuropathy in diabetes,1,
+1369,Anesthesia of skin,1,
+1370,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,1,
+1371,"Other complication of vascular dialysis catheter, initial encounter",1,
+1372,Non-pressure chronic ulcer of other part of right foot with unspecified severity,1,
+1373,Type 2 diabetes mellitus with other specified complication,1,
+1374,Acquired absence of other right toe(s),1,
+1375,"Cellulitis and abscess of foot, except toes",1,
+1376,Bathroom in nursing home as the place of occurrence of the external cause,1,
+1377,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",1,
+1378,"Nondisplaced intertrochanteric fracture of left femur, initial encounter for closed fracture",1,
+1379,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site,1,
+1380,Family history of diabetes mellitus,1,
+1381,Streptococcal septicemia,1,
+1382,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",1,
+1383,Other bone involvement in diseases classified elsewhere,1,
+1384,"Unspecified osteomyelitis, ankle and foot",1,
+1385,Unspecified hemorrhoids without mention of complication,1,
+1386,Benign neoplasm of heart,1,
+1387,Necrotizing fasciitis,1,
