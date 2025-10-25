@@ -7071,3 +7071,313 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [W 2025-10-21 01:15:53.138 ServerApp] 404 GET /HNAP1 (@35.229.89.40) 1.87ms referer=None
 [I 2025-10-21 01:15:53.203 ServerApp] 302 GET / (@35.229.89.40) 0.62ms
 [I 2025-10-21 01:15:53.269 ServerApp] 302 GET / (@35.229.89.40) 0.93ms
+[I 2025-10-21 17:45:09.255 ServerApp] 302 GET / (@167.94.138.57) 0.90ms
+[I 2025-10-21 17:45:13.597 ServerApp] Malformed HTTP message from 167.94.138.57: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-21 17:45:40.533 LabApp] 302 GET /lab (@167.94.138.57) 2.04ms
+[W 2025-10-21 17:46:23.341 ServerApp] 404 GET /sitemap.xml (@167.94.138.57) 4.05ms referer=None
+[I 2025-10-21 17:46:25.921 ServerApp] 302 GET / (@167.94.138.57) 0.65ms
+[I 2025-10-21 17:46:32.458 ServerApp] Malformed HTTP message from 167.94.138.57: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-21 17:46:50.786 LabApp] 302 GET /lab (@167.94.138.57) 0.71ms
+[W 2025-10-21 17:48:50.973 ServerApp] 404 GET /wiki (@167.94.138.57) 1.81ms referer=None
+[I 2025-10-22 08:57:01.200 ServerApp] 302 GET / (@199.45.155.74) 6.39ms
+[I 2025-10-22 08:57:10.986 ServerApp] 302 GET / (@199.45.155.74) 0.72ms
+[I 2025-10-22 08:57:11.844 ServerApp] Malformed HTTP message from 199.45.155.74: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-22 08:57:15.965 LabApp] 302 GET /lab (@199.45.155.74) 4.98ms
+[I 2025-10-22 08:57:16.698 ServerApp] Malformed HTTP message from 199.45.155.74: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-22 08:57:26.276 ServerApp] Malformed HTTP message from 199.45.155.74: Unexpected HTTP version 'HTTP/2.0'
+[W 2025-10-22 08:57:31.212 ServerApp] 404 GET /.well-known/security.txt (@199.45.155.74) 2.12ms referer=None
+[I 2025-10-23 02:13:10.719 ServerApp] 302 GET / (@216.180.246.35) 6.28ms
+[W 2025-10-23 02:13:21.062 ServerApp] 404 GET /manage/account/login (@216.180.246.35) 10.27ms referer=None
+[W 2025-10-23 02:13:31.190 ServerApp] 404 GET /admin/index.html (@216.180.246.35) 1.96ms referer=None
+[W 2025-10-23 02:13:41.364 ServerApp] 404 GET /index.html (@216.180.246.35) 2.08ms referer=None
+[W 2025-10-23 02:13:51.539 ServerApp] 404 GET /+CSCOE+/logon.html (@216.180.246.35) 1.81ms referer=None
+[W 2025-10-23 02:14:01.724 ServerApp] 404 GET /cgi-bin/login.cgi (@216.180.246.35) 1.62ms referer=None
+[W 2025-10-23 02:14:13.911 ServerApp] 404 GET /login.htm (@216.180.246.35) 1.61ms referer=None
+[W 2025-10-23 02:14:23.000 ServerApp] 404 GET /login.html (@216.180.246.35) 1.64ms referer=None
+[W 2025-10-23 02:14:32.206 ServerApp] 404 GET /login.jsp (@216.180.246.35) 1.96ms referer=None
+[I 2025-10-23 07:35:53.836 ServerApp] Malformed HTTP message from 51.81.155.131: Malformed HTTP request line
+[I 2025-10-23 07:35:53.984 ServerApp] 302 GET / (@51.81.155.131) 5.69ms
+[W 2025-10-23 07:35:54.175 ServerApp] 404 GET /CSS/Miniweb.css (@51.81.155.131) 15.81ms referer=None
+[W 2025-10-23 07:35:54.179 ServerApp] 404 GET /default.asp (@51.81.155.131) 1.86ms referer=None
+[W 2025-10-23 07:35:54.184 ServerApp] 404 GET /.git/HEAD (@51.81.155.131) 4.79ms referer=None
+[W 2025-10-23 07:35:54.186 ServerApp] 404 GET /voA6 (@51.81.155.131) 6.03ms referer=None
+[W 2025-10-23 07:35:54.187 ServerApp] 404 GET /cgi-mod/header_logo.cgi?size=big (@51.81.155.131) 7.11ms referer=None
+[I 2025-10-23 07:35:54.188 ServerApp] 302 GET / (@51.81.155.131) 7.00ms
+[W 2025-10-23 07:35:54.188 ServerApp] 403 POST /sdk (51.81.155.131): '_xsrf' argument missing from POST
+[W 2025-10-23 07:35:54.191 ServerApp] 403 POST /sdk (@51.81.155.131) 9.33ms referer=None
+[W 2025-10-23 07:35:54.192 ServerApp] 404 GET /nmaplowercheck1761204954 (@51.81.155.131) 10.16ms referer=None
+[I 2025-10-23 07:35:54.411 LabApp] 302 GET /lab? (@51.81.155.131) 2.12ms
+[W 2025-10-23 07:35:54.414 ServerApp] 404 GET /webui (@51.81.155.131) 2.08ms referer=None
+[W 2025-10-23 07:35:54.418 ServerApp] 404 GET /dana-na/nc/nc_gina_ver.txt (@51.81.155.131) 3.63ms referer=None
+[W 2025-10-23 07:35:54.420 ServerApp] 404 GET /main.aspx (@51.81.155.131) 4.65ms referer=None
+[W 2025-10-23 07:35:54.424 ServerApp] 404 GET /HNAP1 (@51.81.155.131) 8.11ms referer=None
+[I 2025-10-23 07:35:54.512 ServerApp] 302 GET /CFIDE/componentutils/ (@51.81.155.131) 0.83ms
+[W 2025-10-23 07:35:54.515 ServerApp] 404 GET /user (@51.81.155.131) 1.35ms referer=None
+[W 2025-10-23 07:35:54.517 ServerApp] 404 GET /dniapi/userInfos (@51.81.155.131) 1.19ms referer=None
+[W 2025-10-23 07:35:54.673 ServerApp] 404 GET /menu.html (@51.81.155.131) 1.59ms referer=None
+[W 2025-10-23 07:35:54.727 ServerApp] 404 GET /CFIDE/componentutils (@51.81.155.131) 2.17ms referer=None
+[W 2025-10-23 07:35:54.729 ServerApp] 404 GET /ise/img/rm-logo_small.png (@51.81.155.131) 1.23ms referer=None
+[I 2025-10-23 07:35:54.781 ServerApp] 302 GET /geoserver/ (@51.81.155.131) 0.67ms
+[W 2025-10-23 07:35:54.832 ServerApp] 404 GET /+CSCOE+/logon.html (@51.81.155.131) 1.50ms referer=None
+[W 2025-10-23 07:35:54.835 ServerApp] 404 GET /geoserver/index.html (@51.81.155.131) 1.80ms referer=None
+[I 2025-10-23 07:35:54.836 ServerApp] 302 GET / (@51.81.155.131) 0.48ms
+[W 2025-10-23 07:35:54.886 ServerApp] 404 GET /localstart.pl (@51.81.155.131) 2.34ms referer=None
+[W 2025-10-23 07:35:54.890 ServerApp] 404 GET /geoserver/web/wicket/bookmarkable/org.geoserver.web.AboutGeoServerPage (@51.81.155.131) 2.72ms referer=None
+[W 2025-10-23 07:35:54.891 ServerApp] 404 GET /Account/Login (@51.81.155.131) 3.25ms referer=None
+[W 2025-10-23 07:35:54.986 ServerApp] 404 GET /cgi-bin/info.cgi (@51.81.155.131) 1.59ms referer=None
+[W 2025-10-23 07:35:54.988 ServerApp] 404 GET /images/logo.png (@51.81.155.131) 1.27ms referer=None
+[W 2025-10-23 07:35:54.989 ServerApp] 404 GET /geoserver (@51.81.155.131) 1.00ms referer=None
+[W 2025-10-23 07:35:54.990 ServerApp] 404 GET /health (@51.81.155.131) 0.95ms referer=None
+[I 2025-10-23 07:35:55.051 LabApp] 302 GET /lab? (@51.81.155.131) 0.95ms
+[W 2025-10-23 07:35:55.152 ServerApp] 404 GET /xml/info.xml (@51.81.155.131) 1.53ms referer=None
+[W 2025-10-23 07:35:55.154 ServerApp] 404 GET /home.html (@51.81.155.131) 1.21ms referer=None
+[W 2025-10-23 07:35:55.200 ServerApp] 405 HEAD / (@51.81.155.131) 0.78ms referer=None
+[W 2025-10-23 07:35:55.204 ServerApp] 404 GET /phoenix/favicon.ico (@51.81.155.131) 2.98ms referer=None
+[W 2025-10-23 07:35:55.207 ServerApp] 404 GET /api/v2/about (@51.81.155.131) 1.66ms referer=None
+[I 2025-10-23 07:35:55.207 ServerApp] 302 GET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 (@51.81.155.131) 0.52ms
+[W 2025-10-23 07:35:55.255 ServerApp] 404 GET /api/v1/check-version (@51.81.155.131) 1.70ms referer=None
+[I 2025-10-23 07:35:55.411 LabApp] 302 GET /lab?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 (@51.81.155.131) 1.05ms
+[W 2025-10-23 07:35:55.413 ServerApp] 404 GET /cluster/list.query (@51.81.155.131) 1.46ms referer=None
+[W 2025-10-23 07:35:55.415 ServerApp] 404 GET /main.shtml (@51.81.155.131) 1.05ms referer=None
+[W 2025-10-23 07:35:55.466 ServerApp] 404 GET /assets/png/favicon-abe32304.png (@51.81.155.131) 2.28ms referer=None
+[W 2025-10-23 07:35:55.468 ServerApp] 404 GET /helpdesk/WebObjects/Helpdesk.woa (@51.81.155.131) 1.19ms referer=None
+[W 2025-10-23 07:35:55.517 ServerApp] 404 GET /apps/zxtm/login.cgi (@51.81.155.131) 1.62ms referer=None
+[W 2025-10-23 07:35:55.520 ServerApp] 404 GET /rest/applinks/1.0/manifest (@51.81.155.131) 1.93ms referer=None
+[I 2025-10-23 07:35:55.521 ServerApp] 302 GET / (@51.81.155.131) 0.53ms
+[W 2025-10-23 07:35:55.579 ServerApp] 404 GET /api/server/version (@51.81.155.131) 2.21ms referer=None
+[W 2025-10-23 07:35:55.681 ServerApp] 404 GET /home.shtml (@51.81.155.131) 1.45ms referer=None
+[W 2025-10-23 07:35:55.736 ServerApp] 404 GET /App_Themes/Default/Images/favicon.ico (@51.81.155.131) 2.42ms referer=None
+[I 2025-10-23 07:35:55.792 ServerApp] 302 GET /dashboard/ (@51.81.155.131) 1.03ms
+[W 2025-10-23 07:35:55.794 ServerApp] 404 GET /language/en-GB/en-GB.xml (@51.81.155.131) 1.70ms referer=None
+[W 2025-10-23 07:35:55.796 ServerApp] 404 GET /confluence/rest/applinks/1.0/manifest (@51.81.155.131) 1.26ms referer=None
+[W 2025-10-23 07:35:55.840 ServerApp] 404 GET /pools/default/buckets (@51.81.155.131) 1.50ms referer=None
+[W 2025-10-23 07:35:55.894 ServerApp] 404 GET /versa/login (@51.81.155.131) 1.90ms referer=None
+[I 2025-10-23 07:35:55.895 ServerApp] 302 GET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 (@51.81.155.131) 0.71ms
+[I 2025-10-23 07:35:55.896 ServerApp] 302 GET /p/login/ (@51.81.155.131) 0.88ms
+[W 2025-10-23 07:35:55.897 ServerApp] 404 GET /login.html (@51.81.155.131) 1.58ms referer=None
+[W 2025-10-23 07:35:56.001 ServerApp] 404 GET /images/logo.gif (@51.81.155.131) 1.64ms referer=None
+[W 2025-10-23 07:35:56.003 ServerApp] 404 GET /dashboard (@51.81.155.131) 1.50ms referer=None
+[W 2025-10-23 07:35:56.099 ServerApp] 404 GET /webui (@51.81.155.131) 1.92ms referer=None
+[W 2025-10-23 07:35:56.101 ServerApp] 404 GET /p/login (@51.81.155.131) 1.37ms referer=None
+[I 2025-10-23 07:35:56.103 LabApp] 302 GET /lab?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 (@51.81.155.131) 1.16ms
+[W 2025-10-23 07:35:56.104 ServerApp] 404 GET /admin.shtml (@51.81.155.131) 1.89ms referer=None
+[W 2025-10-23 07:35:56.105 ServerApp] 404 GET /api/version (@51.81.155.131) 2.63ms referer=None
+[W 2025-10-23 07:35:56.106 ServerApp] 404 GET /pools (@51.81.155.131) 1.05ms referer=None
+[I 2025-10-23 07:35:56.260 ServerApp] 302 GET /portal/ (@51.81.155.131) 0.75ms
+[W 2025-10-23 07:35:56.263 ServerApp] 404 GET /assets/img/favicon.ico (@51.81.155.131) 1.42ms referer=None
+[W 2025-10-23 07:35:56.264 ServerApp] 404 GET /webui/index.html (@51.81.155.131) 1.16ms referer=None
+[W 2025-10-23 07:35:56.312 ServerApp] 404 GET /status (@51.81.155.131) 2.04ms referer=None
+[W 2025-10-23 07:35:56.317 ServerApp] 404 GET /indice.asp (@51.81.155.131) 3.05ms referer=None
+[I 2025-10-23 07:35:56.360 ServerApp] 302 GET / (@51.81.155.131) 0.84ms
+[W 2025-10-23 07:35:56.415 ServerApp] 404 GET /cgi-bin/param.cgi?get_device_conf (@51.81.155.131) 1.83ms referer=None
+[W 2025-10-23 07:35:56.418 ServerApp] 404 GET /info.asp (@51.81.155.131) 1.90ms referer=None
+[W 2025-10-23 07:35:56.476 ServerApp] 404 GET /portal (@51.81.155.131) 1.90ms referer=None
+[W 2025-10-23 07:35:56.529 ServerApp] 404 GET /themes/admin/default/build/assets/favicon-19fbef86.svg (@51.81.155.131) 2.12ms referer=None
+[I 2025-10-23 07:35:56.579 LabApp] 302 GET /lab? (@51.81.155.131) 1.27ms
+[W 2025-10-23 07:35:56.581 ServerApp] 404 GET /default.shtml (@51.81.155.131) 1.43ms referer=None
+[W 2025-10-23 07:35:56.743 ServerApp] 404 GET /lms/db (@51.81.155.131) 1.82ms referer=None
+[W 2025-10-23 07:35:56.795 ServerApp] 404 GET /human.aspx?arg12=infotech (@51.81.155.131) 2.80ms referer=None
+[W 2025-10-23 07:35:56.799 ServerApp] 404 GET /login/login.html (@51.81.155.131) 2.30ms referer=None
+[W 2025-10-23 07:35:56.800 ServerApp] 404 GET /dashboard/favicon.ico (@51.81.155.131) 2.80ms referer=None
+[W 2025-10-23 07:35:56.801 ServerApp] 404 GET /ext-js/app/common/zld_product_spec.js (@51.81.155.131) 3.37ms referer=None
+[W 2025-10-23 07:35:56.802 ServerApp] 404 GET /allversions (@51.81.155.131) 4.09ms referer=None
+[W 2025-10-23 07:35:56.844 ServerApp] 404 GET /readme.txt (@51.81.155.131) 1.78ms referer=None
+[W 2025-10-23 07:35:57.053 ServerApp] 404 GET /administrator/manifests/files/joomla.xml (@51.81.155.131) 1.46ms referer=None
+[W 2025-10-23 07:35:57.057 ServerApp] 404 GET /kubepi/fav.png (@51.81.155.131) 1.90ms referer=None
+[I 2025-10-23 07:35:57.058 ServerApp] 302 GET /owa/ (@51.81.155.131) 0.96ms
+[W 2025-10-23 07:35:57.063 ServerApp] 404 GET /dana-cached/hc/HostCheckerInstaller.osx (@51.81.155.131) 5.66ms referer=None
+[W 2025-10-23 07:35:57.065 ServerApp] 404 GET /inicio.jhtml (@51.81.155.131) 1.27ms referer=None
+[W 2025-10-23 07:35:57.109 ServerApp] 404 GET /login.php (@51.81.155.131) 2.85ms referer=None
+[I 2025-10-23 07:35:57.109 ServerApp] 302 GET / (@51.81.155.131) 2.68ms
+[W 2025-10-23 07:35:57.167 ServerApp] 404 GET /tos/index.php?user/login (@51.81.155.131) 1.66ms referer=None
+[W 2025-10-23 07:35:57.220 ServerApp] 404 GET /r-seenet/index.php (@51.81.155.131) 1.48ms referer=None
+[W 2025-10-23 07:35:57.267 ServerApp] 404 GET /start.php (@51.81.155.131) 1.45ms referer=None
+[W 2025-10-23 07:35:57.270 ServerApp] 404 GET /api/vip/i18n/api/v2/translation/products/vRNIUI/versions/1 (@51.81.155.131) 2.00ms referer=None
+[W 2025-10-23 07:35:57.273 ServerApp] 404 GET /c/login (@51.81.155.131) 1.66ms referer=None
+[W 2025-10-23 07:35:57.274 ServerApp] 404 GET /owa (@51.81.155.131) 2.08ms referer=None
+[I 2025-10-23 07:35:57.317 LabApp] 302 GET /lab? (@51.81.155.131) 1.28ms
+[W 2025-10-23 07:35:57.374 ServerApp] 404 GET /versions (@51.81.155.131) 2.23ms referer=None
+[W 2025-10-23 07:35:57.488 ServerApp] 404 GET /officescan/console/cgi/cgiChkMasterPwd.exe (@51.81.155.131) 2.35ms referer=None
+[W 2025-10-23 07:35:57.489 ServerApp] 404 GET /login.aspx (@51.81.155.131) 2.76ms referer=None
+[I 2025-10-23 07:35:57.540 ServerApp] 302 GET /owa/ (@51.81.155.131) 0.78ms
+[W 2025-10-23 07:35:57.541 ServerApp] 404 GET /inicio.php (@51.81.155.131) 1.51ms referer=None
+[I 2025-10-23 07:35:57.589 ServerApp] 302 GET /kylin/ (@51.81.155.131) 0.86ms
+[W 2025-10-23 07:35:57.652 ServerApp] 404 GET /IPCamDesc.xml (@51.81.155.131) 2.36ms referer=None
+[W 2025-10-23 07:35:57.747 ServerApp] 404 GET /WebApp/js/UI_String.js (@51.81.155.131) 2.49ms referer=None
+[W 2025-10-23 07:35:57.748 ServerApp] 404 GET /api/v1.0/environment (@51.81.155.131) 2.78ms referer=None
+[W 2025-10-23 07:35:57.795 ServerApp] 404 GET /config (@51.81.155.131) 2.21ms referer=None
+[W 2025-10-23 07:35:57.798 ServerApp] 404 GET /kylin (@51.81.155.131) 2.18ms referer=None
+[W 2025-10-23 07:35:57.799 ServerApp] 404 GET /Portal0000.htm (@51.81.155.131) 2.63ms referer=None
+[W 2025-10-23 07:35:57.800 ServerApp] 404 GET /officescan/console/html/localization.js (@51.81.155.131) 3.18ms referer=None
+[W 2025-10-23 07:35:57.801 ServerApp] 404 GET /home.asp (@51.81.155.131) 3.90ms referer=None
+[W 2025-10-23 07:35:57.802 ServerApp] 404 GET /owa (@51.81.155.131) 0.98ms referer=None
+[W 2025-10-23 07:35:57.903 ServerApp] 404 GET /cslu/v1/core/conf (@51.81.155.131) 2.27ms referer=None
+[W 2025-10-23 07:35:58.062 ServerApp] 404 GET /admin/reports/status (@51.81.155.131) 1.87ms referer=None
+[W 2025-10-23 07:35:58.063 ServerApp] 404 GET /admin/reports/updates (@51.81.155.131) 2.47ms referer=None
+[W 2025-10-23 07:35:58.064 ServerApp] 404 GET /__Additional (@51.81.155.131) 1.06ms referer=None
+[W 2025-10-23 07:35:58.066 ServerApp] 404 GET /base.aspx (@51.81.155.131) 0.98ms referer=None
+[W 2025-10-23 07:35:58.113 ServerApp] 404 GET /javascript/validation/OEM.js (@51.81.155.131) 2.26ms referer=None
+[W 2025-10-23 07:35:58.115 ServerApp] 404 GET /Portal/Portal.mwsl (@51.81.155.131) 1.15ms referer=None
+[W 2025-10-23 07:35:58.165 ServerApp] 404 GET /webportal.cgi (@51.81.155.131) 1.59ms referer=None
+[W 2025-10-23 07:35:58.224 ServerApp] 404 GET /build.gradle (@51.81.155.131) 2.27ms referer=None
+[W 2025-10-23 07:35:58.272 ServerApp] 404 GET /workplace/home.action (@51.81.155.131) 1.67ms referer=None
+[I 2025-10-23 07:35:58.321 ServerApp] 302 GET /docs/cplugError.html/ (@51.81.155.131) 0.68ms
+[W 2025-10-23 07:35:58.325 ServerApp] 404 GET /pom.xml (@51.81.155.131) 1.74ms referer=None
+[W 2025-10-23 07:35:58.327 ServerApp] 404 GET /inicio.asp (@51.81.155.131) 1.15ms referer=None
+[I 2025-10-23 07:35:58.375 ServerApp] 302 GET /pandora_console/ (@51.81.155.131) 1.17ms
+[W 2025-10-23 07:35:58.489 ServerApp] 404 GET /css/eonweb.css (@51.81.155.131) 1.99ms referer=None
+[W 2025-10-23 07:35:58.490 ServerApp] 404 GET /fog/management/index.php?node=client&sub=logininfo (@51.81.155.131) 2.57ms referer=None
+[W 2025-10-23 07:35:58.491 ServerApp] 404 GET /centreon/api/latest/platform/versions (@51.81.155.131) 1.07ms referer=None
+[W 2025-10-23 07:35:58.540 ServerApp] 404 GET /home.cfm (@51.81.155.131) 2.75ms referer=None
+[W 2025-10-23 07:35:58.542 ServerApp] 404 GET /docs/cplugError.html (@51.81.155.131) 3.69ms referer=None
+[W 2025-10-23 07:35:58.589 ServerApp] 404 GET /pandora_console (@51.81.155.131) 1.60ms referer=None
+[W 2025-10-23 07:35:58.591 ServerApp] 404 GET /api/v3/meta (@51.81.155.131) 1.12ms referer=None
+[W 2025-10-23 07:35:58.650 ServerApp] 404 GET /css/elfinder.min.css (@51.81.155.131) 1.99ms referer=None
+[I 2025-10-23 07:35:58.699 ServerApp] 302 GET /geoserver/web/ (@51.81.155.131) 0.61ms
+[W 2025-10-23 07:35:58.703 ServerApp] 404 GET /cgi-bin/authLogin.cgi (@51.81.155.131) 1.43ms referer=None
+[W 2025-10-23 07:35:58.754 ServerApp] 404 GET /home.cgi (@51.81.155.131) 1.58ms referer=None
+[W 2025-10-23 07:35:58.756 ServerApp] 404 GET /magento_version (@51.81.155.131) 1.17ms referer=None
+[W 2025-10-23 07:35:58.915 ServerApp] 404 GET /i18n/component/JS (@51.81.155.131) 1.56ms referer=None
+[W 2025-10-23 07:35:58.917 ServerApp] 404 GET /geoserver/web (@51.81.155.131) 1.28ms referer=None
+[W 2025-10-23 07:35:59.016 ServerApp] 404 GET /app/ui/login.jsp (@51.81.155.131) 1.46ms referer=None
+[W 2025-10-23 07:35:59.019 ServerApp] 404 GET /indice.jhtml (@51.81.155.131) 1.17ms referer=None
+[W 2025-10-23 07:35:59.067 ServerApp] 404 GET /system/version/current (@51.81.155.131) 1.51ms referer=None
+[W 2025-10-23 07:35:59.070 ServerApp] 404 GET /am_bin/amlogin (@51.81.155.131) 1.94ms referer=None
+[W 2025-10-23 07:35:59.073 ServerApp] 404 GET /hx/api/about (@51.81.155.131) 1.83ms referer=None
+[W 2025-10-23 07:35:59.122 ServerApp] 404 GET /MagicInfo/config.js (@51.81.155.131) 2.12ms referer=None
+[I 2025-10-23 07:35:59.179 ServerApp] 302 GET / (@51.81.155.131) 0.63ms
+[I 2025-10-23 07:35:59.180 ServerApp] 302 GET /login/?next=/ (@51.81.155.131) 0.53ms
+[W 2025-10-23 07:35:59.234 ServerApp] 404 GET /plugin/webs_model_cfg.js (@51.81.155.131) 1.94ms referer=None
+[W 2025-10-23 07:35:59.285 ServerApp] 404 GET /api/v1/version (@51.81.155.131) 2.25ms referer=None
+[W 2025-10-23 07:35:59.286 ServerApp] 404 GET /localstart.jsp (@51.81.155.131) 2.60ms referer=None
+[W 2025-10-23 07:35:59.393 ServerApp] 404 GET /Main_Login.asp (@51.81.155.131) 2.24ms referer=None
+[W 2025-10-23 07:35:59.445 ServerApp] 404 GET /rs/application-about (@51.81.155.131) 1.52ms referer=None
+[W 2025-10-23 07:35:59.496 ServerApp] 404 GET /admin.jsa (@51.81.155.131) 2.04ms referer=None
+[W 2025-10-23 07:35:59.547 ServerApp] 404 GET /cap.js (@51.81.155.131) 1.98ms referer=None
+[W 2025-10-23 07:35:59.549 ServerApp] 404 GET /json/login_session (@51.81.155.131) 1.16ms referer=None
+[W 2025-10-23 07:35:59.601 ServerApp] 404 GET /cgi-bin/luci (@51.81.155.131) 1.57ms referer=None
+[W 2025-10-23 07:35:59.654 ServerApp] 404 GET /nidp/app/login (@51.81.155.131) 1.92ms referer=None
+[W 2025-10-23 07:35:59.657 ServerApp] 403 GET /metrics (@51.81.155.131) 2.34ms referer=None
+[W 2025-10-23 07:35:59.658 ServerApp] 404 GET /photo/webapi/query.php?api=SYNO.API.Info&method=query&version=1 (@51.81.155.131) 1.25ms referer=None
+[W 2025-10-23 07:35:59.705 ServerApp] 404 GET /admin.jhtml (@51.81.155.131) 2.19ms referer=None
+[W 2025-10-23 07:35:59.806 ServerApp] 404 GET /index.html (@51.81.155.131) 1.83ms referer=None
+[W 2025-10-23 07:35:59.862 ServerApp] 404 GET /main/main.html (@51.81.155.131) 1.48ms referer=None
+[W 2025-10-23 07:35:59.866 ServerApp] 404 GET /about (@51.81.155.131) 1.50ms referer=None
+[W 2025-10-23 07:35:59.918 ServerApp] 404 GET /ui/login.action (@51.81.155.131) 1.92ms referer=None
+[W 2025-10-23 07:35:59.969 ServerApp] 404 GET /api/v2/hoverfly/version (@51.81.155.131) 2.41ms referer=None
+[W 2025-10-23 07:35:59.972 ServerApp] 404 GET /localstart.cgi (@51.81.155.131) 1.18ms referer=None
+[W 2025-10-23 07:36:00.019 ServerApp] 404 GET /admin/config.php (@51.81.155.131) 1.51ms referer=None
+[W 2025-10-23 07:36:00.127 ServerApp] wrote error: 'Forbidden'
+    Traceback (most recent call last):
+      File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/web.py", line 1846, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/web.py", line 3363, in wrapper
+        url = self.get_login_url()
+      File "/home/kayvans/.local/lib/python3.10/site-packages/jupyter_server/base/handlers.py", line 784, in get_login_url
+        raise web.HTTPError(403)
+    tornado.web.HTTPError: HTTP 403: Forbidden
+[W 2025-10-23 07:36:00.139 ServerApp] 403 GET /api/status (@51.81.155.131) 12.98ms referer=None
+[W 2025-10-23 07:36:00.231 ServerApp] 404 GET /start.aspx (@51.81.155.131) 2.45ms referer=None
+[W 2025-10-23 07:36:00.281 ServerApp] 404 GET /config_dump (@51.81.155.131) 2.35ms referer=None
+[W 2025-10-23 07:36:00.283 ServerApp] 404 GET /mailinspector/login.php (@51.81.155.131) 1.28ms referer=None
+[W 2025-10-23 07:36:00.389 ServerApp] 404 GET /agent/vicidial.php (@51.81.155.131) 1.59ms referer=None
+[W 2025-10-23 07:36:00.441 ServerApp] 404 GET /AppsHome.do (@51.81.155.131) 1.99ms referer=None
+[W 2025-10-23 07:36:00.443 ServerApp] 404 GET /agc/vicidial.php (@51.81.155.131) 1.19ms referer=None
+[I 2025-10-23 07:36:00.490 ServerApp] 302 GET /core/auth/login/ (@51.81.155.131) 0.98ms
+[W 2025-10-23 07:36:00.493 ServerApp] 404 GET /start.jsp (@51.81.155.131) 2.13ms referer=None
+[W 2025-10-23 07:36:00.540 ServerApp] 404 GET /api/v1/info (@51.81.155.131) 2.68ms referer=None
+[W 2025-10-23 07:36:00.542 ServerApp] 404 GET /index.do (@51.81.155.131) 1.72ms referer=None
+[W 2025-10-23 07:36:00.543 ServerApp] 404 GET /~login (@51.81.155.131) 2.27ms referer=None
+[W 2025-10-23 07:36:00.544 ServerApp] 404 GET /CHANGELOG.txt (@51.81.155.131) 2.89ms referer=None
+[W 2025-10-23 07:36:00.648 ServerApp] 404 GET /openapi.json (@51.81.155.131) 1.42ms referer=None
+[W 2025-10-23 07:36:00.652 ServerApp] 404 GET /system/gwinfo (@51.81.155.131) 1.51ms referer=None
+[W 2025-10-23 07:36:00.705 ServerApp] 404 GET /core/auth/login (@51.81.155.131) 1.49ms referer=None
+[W 2025-10-23 07:36:00.753 ServerApp] 404 GET /base.cfm (@51.81.155.131) 1.68ms referer=None
+[W 2025-10-23 07:36:00.754 ServerApp] 404 GET /decisioncenter-api/v1/about (@51.81.155.131) 1.22ms referer=None
+[W 2025-10-23 07:36:00.756 ServerApp] 404 GET /jtcgi/wte.pyc (@51.81.155.131) 1.06ms referer=None
+[I 2025-10-23 07:36:00.854 ServerApp] 302 GET /nifi/ (@51.81.155.131) 1.08ms
+[W 2025-10-23 07:36:00.856 ServerApp] 404 GET /nifi-api/flow/about (@51.81.155.131) 1.29ms referer=None
+[W 2025-10-23 07:36:00.967 ServerApp] 404 GET /index.lua (@51.81.155.131) 1.72ms referer=None
+[W 2025-10-23 07:36:00.970 ServerApp] 404 GET /cgi-bin/meteobridge.cgi (@51.81.155.131) 1.89ms referer=None
+[W 2025-10-23 07:36:00.971 ServerApp] 404 GET /v2 (@51.81.155.131) 2.48ms referer=None
+[W 2025-10-23 07:36:00.972 ServerApp] 404 GET /info.htm (@51.81.155.131) 3.12ms referer=None
+[W 2025-10-23 07:36:00.973 ServerApp] 404 GET /api-description (@51.81.155.131) 3.74ms referer=None
+[W 2025-10-23 07:36:01.019 ServerApp] 404 GET /admin.cfm (@51.81.155.131) 1.47ms referer=None
+[W 2025-10-23 07:36:01.070 ServerApp] 404 GET /nifi (@51.81.155.131) 2.08ms referer=None
+[W 2025-10-23 07:36:01.125 ServerApp] 404 GET /sys/en/neoclassic/login/login (@51.81.155.131) 1.41ms referer=None
+[W 2025-10-23 07:36:01.128 ServerApp] 404 GET /wp-content/plugins/post-smtp/readme.txt (@51.81.155.131) 1.95ms referer=None
+[W 2025-10-23 07:36:01.129 ServerApp] 404 GET /monitor/index.php/auth/login (@51.81.155.131) 2.41ms referer=None
+[W 2025-10-23 07:36:01.229 ServerApp] 404 GET /base.pl (@51.81.155.131) 1.50ms referer=None
+[W 2025-10-23 07:36:01.489 ServerApp] 404 GET /main.jhtml (@51.81.155.131) 1.51ms referer=None
+[W 2025-10-23 07:36:01.757 ServerApp] 404 GET /admin.cgi (@51.81.155.131) 1.45ms referer=None
+[W 2025-10-23 07:36:02.025 ServerApp] 404 GET /default.html (@51.81.155.131) 1.48ms referer=None
+[W 2025-10-23 07:36:02.283 ServerApp] 404 GET /admin.asp (@51.81.155.131) 1.46ms referer=None
+[W 2025-10-23 07:36:02.546 ServerApp] 404 GET /base.shtml (@51.81.155.131) 1.99ms referer=None
+[W 2025-10-23 07:36:02.817 ServerApp] 404 GET /base.asp (@51.81.155.131) 1.82ms referer=None
+[W 2025-10-23 07:36:03.029 ServerApp] 404 GET /admin.html (@51.81.155.131) 2.09ms referer=None
+[W 2025-10-23 07:36:03.288 ServerApp] 404 GET /base.php (@51.81.155.131) 1.48ms referer=None
+[W 2025-10-23 07:36:03.498 ServerApp] 404 GET /default.php (@51.81.155.131) 1.93ms referer=None
+[W 2025-10-23 07:36:03.760 ServerApp] 404 GET /menu.shtml (@51.81.155.131) 1.45ms referer=None
+[W 2025-10-23 07:36:04.021 ServerApp] 404 GET /start.shtml (@51.81.155.131) 1.62ms referer=None
+[W 2025-10-23 07:36:04.279 ServerApp] 404 GET /menu.jhtml (@51.81.155.131) 1.44ms referer=None
+[W 2025-10-23 07:36:04.537 ServerApp] 404 GET /base.jsa (@51.81.155.131) 1.50ms referer=None
+[W 2025-10-23 07:36:04.749 ServerApp] 404 GET /menu.jsa (@51.81.155.131) 1.60ms referer=None
+[W 2025-10-23 07:36:05.011 ServerApp] 404 GET /base.jhtml (@51.81.155.131) 1.46ms referer=None
+[I 2025-10-23 07:36:05.385 ServerApp] 302 GET / (@51.81.155.131) 0.66ms
+[I 2025-10-23 07:36:05.584 ServerApp] 302 GET / (@51.81.155.131) 0.86ms
+[I 2025-10-23 09:30:23.208 ServerApp] 302 GET / (@167.94.138.162) 6.25ms
+[I 2025-10-23 09:30:47.978 ServerApp] 302 GET / (@167.94.138.162) 0.86ms
+[I 2025-10-23 09:30:48.961 ServerApp] Malformed HTTP message from 167.94.138.162: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-23 09:31:09.706 LabApp] 302 GET /lab (@167.94.138.162) 1.91ms
+[W 2025-10-23 09:32:24.353 ServerApp] 404 GET /wiki (@167.94.138.162) 2.57ms referer=None
+[I 2025-10-23 14:17:23.884 ServerApp] 302 GET / (@167.94.138.176) 6.46ms
+[I 2025-10-23 14:17:24.099 ServerApp] Malformed HTTP message from 167.94.138.176: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-23 14:17:40.856 LabApp] 302 GET /lab (@167.94.138.176) 2.08ms
+[I 2025-10-23 14:17:54.713 ServerApp] 302 GET / (@162.142.125.220) 0.67ms
+[I 2025-10-23 14:17:55.853 ServerApp] Malformed HTTP message from 162.142.125.220: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-23 14:18:01.196 ServerApp] 302 GET / (@66.132.153.133) 0.88ms
+[I 2025-10-23 14:18:02.138 ServerApp] Malformed HTTP message from 66.132.153.133: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-23 14:18:40.019 LabApp] 302 GET /lab (@66.132.153.133) 1.06ms
+[I 2025-10-23 14:19:17.492 LabApp] 302 GET /lab (@162.142.125.220) 0.76ms
+[W 2025-10-23 14:21:39.400 ServerApp] 404 GET /.well-known/security.txt (@162.142.125.220) 2.71ms referer=None
+[W 2025-10-23 14:24:19.406 ServerApp] 404 GET /security.txt (@167.94.138.176) 2.19ms referer=None
+[W 2025-10-23 14:30:29.377 ServerApp] 404 GET /.well-known/security.txt (@66.132.153.133) 1.93ms referer=None
+[I 2025-10-24 14:19:04.243 ServerApp] 302 GET / (@172.236.228.197) 7.11ms
+[I 2025-10-24 14:36:56.057 ServerApp] 302 GET / (@45.79.5.11) 1.04ms
+[I 2025-10-24 14:36:58.155 ServerApp] 302 GET / (@45.33.80.243) 0.86ms
+[I 2025-10-24 16:00:47.502 ServerApp] 302 GET / (@167.94.138.207) 6.04ms
+[I 2025-10-24 16:01:15.912 ServerApp] 302 GET / (@167.94.138.207) 0.81ms
+[I 2025-10-24 16:01:17.615 ServerApp] Malformed HTTP message from 167.94.138.207: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-24 16:01:42.320 LabApp] 302 GET /lab (@167.94.138.207) 1.76ms
+[W 2025-10-24 16:02:45.020 ServerApp] 404 GET /wiki (@167.94.138.207) 2.12ms referer=None
+[I 2025-10-25 03:46:08.080 ServerApp] 302 GET / (@147.185.133.212) 7.78ms
+[I 2025-10-25 03:46:09.573 ServerApp] 302 GET / (@147.185.133.212) 0.65ms
+[I 2025-10-25 03:46:09.833 LabApp] 302 GET /lab? (@147.185.133.212) 5.46ms
+[I 2025-10-25 08:22:58.324 ServerApp] 302 GET / (@167.94.138.184) 6.28ms
+[I 2025-10-25 08:22:59.300 ServerApp] Malformed HTTP message from 167.94.138.184: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-25 08:23:04.061 LabApp] 302 GET /lab (@167.94.138.184) 1.75ms
+[I 2025-10-25 08:23:09.111 ServerApp] 302 GET / (@162.142.125.119) 0.51ms
+[I 2025-10-25 08:23:09.644 ServerApp] Malformed HTTP message from 162.142.125.119: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-25 08:23:11.661 LabApp] 302 GET /lab (@162.142.125.119) 0.83ms
+[I 2025-10-25 08:23:12.426 ServerApp] 302 GET / (@66.132.153.139) 0.59ms
+[I 2025-10-25 08:23:13.327 ServerApp] Malformed HTTP message from 66.132.153.139: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-25 08:23:14.477 LabApp] 302 GET /lab (@66.132.153.139) 0.76ms
+[W 2025-10-25 08:23:25.973 ServerApp] 404 GET /.well-known/security.txt (@167.94.138.184) 2.08ms referer=None
+[W 2025-10-25 08:23:40.544 ServerApp] 404 GET /security.txt (@66.132.153.139) 1.42ms referer=None
+[W 2025-10-25 08:23:43.606 ServerApp] 404 GET /security.txt (@162.142.125.119) 1.52ms referer=None
+[I 2025-10-25 16:17:50.329 ServerApp] 302 GET / (@167.94.138.177) 5.89ms
+[I 2025-10-25 16:17:59.990 ServerApp] 302 GET / (@167.94.138.177) 0.67ms
+[I 2025-10-25 16:18:01.306 ServerApp] Malformed HTTP message from 167.94.138.177: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-25 16:18:07.014 LabApp] 302 GET /lab (@167.94.138.177) 5.17ms
+[I 2025-10-25 16:18:07.387 ServerApp] Malformed HTTP message from 167.94.138.177: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-25 16:18:13.218 ServerApp] Malformed HTTP message from 167.94.138.177: Unexpected HTTP version 'HTTP/2.0'
+[W 2025-10-25 16:18:17.615 ServerApp] 404 GET /.well-known/security.txt (@167.94.138.177) 2.10ms referer=None
+[I 2025-10-25 17:03:13.778 ServerApp] 302 GET / (@147.185.133.177) 7.42ms
+[I 2025-10-25 17:05:42.265 ServerApp] Malformed HTTP message from 147.185.133.177: Malformed HTTP request line
+[I 2025-10-25 17:05:43.969 ServerApp] 302 GET / (@147.185.133.177) 0.80ms
+[I 2025-10-25 17:05:49.415 ServerApp] Malformed HTTP message from 147.185.133.177: Malformed HTTP request line
+[I 2025-10-25 17:05:49.800 ServerApp] 302 GET / (@147.185.133.177) 0.61ms
+[I 2025-10-25 17:11:48.477 ServerApp] 302 GET / (@147.185.133.177) 0.77ms
+[I 2025-10-25 17:11:48.733 LabApp] 302 GET /lab? (@147.185.133.177) 4.95ms
+[I 2025-10-25 17:12:52.681 ServerApp] 302 GET / (@147.185.133.177) 0.69ms
+[I 2025-10-25 17:12:52.942 LabApp] 302 GET /lab? (@147.185.133.177) 0.88ms
