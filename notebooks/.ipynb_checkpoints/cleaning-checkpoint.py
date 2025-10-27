@@ -70,13 +70,15 @@ columns = ['hadm_id','subject_id','stay_id',
     'ICU_length',
     'Hospital_length']
 
-vitals = {"heart_rate_max":{'itemid':220045, "agg":'max'}, "blood_pressure_min":{'itemid':220181,"agg":'min'}}
+vitals = {"heart_rate_max":{'itemid':220045, 'agg':'max'}, "blood_pressure_min":{'itemid':220181,"agg":'min'}}
+
+labevents = {"sodium_max":{'itemid':[50983,52623],'agg':'max'}, "sodium_min":{'itemid':[50983,52623],'agg':'min'},"potassium_max":{'itemid':[52610,50971],'agg':'max'},"bun_max":{'itemid':[51006,52647], 'agg':'max'},"creatinine_max":{'itemid':[50912,52546],'agg':'max'},"glucose_min":{'itemid':[50931,52569],'agg':'min'},"pH_min":{'itemid':[50820],'agg':'min'},"lactate_max":{'itemid':[50813, 52442, 53154],'agg':'max'}, "platelet_max":{'itemid':[51704,51265],'agg':'max'},"wbc_max":{'itemid':[51301, 51755, 51756],'agg':'max'},"hemoglobin_min":{'itemid':[50811, 51222, 51640],'agg':'min'},"ast_max":{'itemid':[53088,50878],'agg':'max'},"alt_max":{'itemid':[50861],'agg':'max'},"bilirubin_max":{'itemid':[50885,53089],'agg':'max'},"inr_max":{'itemid':[51675,51237],'agg':'max'}}
 
 antibiotics = ['Vancomycin', 'Piperacillin-Tazobactam', 'Ciprofloxacin', 'Ciprofloxacin HCl', 'Meropenem', 'CefePIME', 'CeftriaXONE', 'MetRONIDAZOLE (FLagyl)', 'CefTRIAXone', 'Acyclovir', 'CefazoLIN', 'Sulfameth/Trimethoprim DS', 'Tobramycin', 'Azithromycin', 'Levofloxacin', 'Ampicillin', 'Erythromycin', 'Clindamycin', 'Aztreonam', 'CeFAZolin', 'moxifloxacin', 'Linezolid', 'Micafungin', 'Sulfamethoxazole-Trimethoprim', 'Doxycycline Hyclate', 'CefTAZidime', 'MetroNIDAZOLE', 'Sulfameth/Trimethoprim SS']
 
 vasoactive_agents = ['Norepinephrine', 'NORepinephrine', 'EPINEPHrine', 'Vasopressin', 'DOPamine']
 
-vent_keywords = ["ventilation", "endotracheal", "intubation", "mechanical ventilation"]
+procedure_keywords = ["ventilation", "endotracheal", "intubation", "mechanical ventilation"]
 
 def clean(title, before, after):
     matched_titles = d_diagnoses[d_diagnoses["long_title"].str.contains(title, case=False,na=False)].copy()
@@ -105,12 +107,23 @@ def get_vitals(df, before, after):
     merged  = c.merge(df[["hadm_id","intime","end_window"]],on="hadm_id", how="right")
     mask =  (merged['intime'] <= merged['charttime']) & (merged['charttime']<=merged["end_window"])
     merged = merged[mask]
-    result = df[["hadm_id"]]
     for vital, info in vitals.items():
         test = merged[merged["itemid"]==info["itemid"]].groupby("hadm_id")["valuenum"].agg(info["agg"]).reset_index(name=vital)
         df = df.merge(test, on="hadm_id",how="left")
+    return get_labs(df)
+
+def get_labs(df):
+    df = df.copy()
+    l = labs.copy()
+    l["charttime"] = pd.to_datetime(l["charttime"])
+    merged  = l.merge(df[["hadm_id","intime","end_window"]],on="hadm_id", how="right")
+    mask =  (merged['intime'] <= merged['charttime']) & (merged['charttime']<=merged["end_window"])
+    merged = merged[mask]
+    for event, info in labevents.items():
+        test = merged[merged["itemid"].isin(info["itemid"])].groupby("hadm_id")["valuenum"].agg(info["agg"]).reset_index(name=event)
+        df = df.merge(test, on="hadm_id",how="left")
     return get_max_creatinine_bun(df)
-    
+        
 def get_medications(df):
     p = pharmacy.copy()
     p["starttime"] = pd.to_datetime(p["starttime"])
@@ -132,7 +145,7 @@ def get_medications(df):
 def get_max_creatinine_bun(df):
     creatinine = labs[ (labs["itemid"].isin([50912,52546])) & (labs["hadm_id"].isin(df["hadm_id"]))]
     max_cre = creatinine.groupby("hadm_id")["valuenum"].max().reset_index(name="creatinine_admission_max")
-    bun = labs[ (labs["itemid"] ==51006) & (labs["hadm_id"].isin(df["hadm_id"]))]
+    bun = labs[(labs["itemid"].isin([51006,52647])) & (labs["hadm_id"].isin(df["hadm_id"]))]
     max_bun = bun.groupby("hadm_id")["valuenum"].max().reset_index(name="bun_admission_max")
     df = df.merge(max_cre, on="hadm_id", how="left")
     df = df.merge(max_bun, on="hadm_id", how="left")
@@ -141,8 +154,8 @@ def get_max_creatinine_bun(df):
 def get_procedures(df):
     procedures_diagnoses = procedures[procedures["hadm_id"].isin(df["hadm_id"])]
     procedures_diagnoses = procedures_diagnoses.merge(d_procedures,on=["icd_code","icd_version"], how="left")
-    vent_mask = procedures_diagnoses['long_title'].str.contains('|'.join(vent_keywords), case=False, na=False)
-    vent_procs = procedures_diagnoses[vent_mask]
-    vent_procs_hadm = vent_procs["hadm_id"]
-    df['vent_or_intubation'] = df['hadm_id'].isin(vent_procs_hadm).astype(int)
+    procedure_mask = procedures_diagnoses['long_title'].str.contains('|'.join(procedure_keywords), case=False, na=False)
+    procedure_procs = procedures_diagnoses[procedure_mask]
+    procedure_procs_hadm = procedure_procs["hadm_id"]
+    df['vent_or_intubation'] = df['hadm_id'].isin(procedure_procs_hadm).astype(int)
     return df

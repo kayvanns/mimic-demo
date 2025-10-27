@@ -939,3 +939,19 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2025-10-25 22:58:32.461 ServerApp] Connecting to kernel 7be9722b-01f1-467f-860a-6d8a52ecdfe0.
 [I 2025-10-25 22:58:32.462 ServerApp] Restoring connection for 7be9722b-01f1-467f-860a-6d8a52ecdfe0:9d119d3c-6182-4eb1-ac7e-7fd72305c809
 [I 2025-10-25 22:59:17.774 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-25 23:00:37.325 ServerApp] Kernel shutdown: 7be9722b-01f1-467f-860a-6d8a52ecdfe0
+[I 2025-10-25 23:00:37.981 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-25 23:00:37.982 ServerApp] Shutting down 5 extensions
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
