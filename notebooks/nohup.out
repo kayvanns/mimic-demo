@@ -7557,3 +7557,46 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2025-10-27 22:23:51.606 ServerApp] Saving file at /urinary_tract_infection.ipynb
 [I 2025-10-27 22:25:51.752 ServerApp] Saving file at /urinary_tract_infection.ipynb
 [I 2025-10-27 22:25:53.130 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-27 22:34:24.979 ServerApp] Saving file at /cleaning.py
+[I 2025-10-27 22:34:44.035 ServerApp] Kernel restarted: 31e615f9-1701-47a3-a4b7-b760a4e9177d
+[I 2025-10-27 22:34:44.192 ServerApp] Starting buffering for 31e615f9-1701-47a3-a4b7-b760a4e9177d:15060698-4139-4422-bf4a-5274f62ac44d
+[I 2025-10-27 22:34:44.220 ServerApp] Connecting to kernel 31e615f9-1701-47a3-a4b7-b760a4e9177d.
+[I 2025-10-27 22:34:44.220 ServerApp] Restoring connection for 31e615f9-1701-47a3-a4b7-b760a4e9177d:15060698-4139-4422-bf4a-5274f62ac44d
+[I 2025-10-27 22:35:52.576 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-27 22:37:52.684 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-27 22:45:52.891 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-27 22:47:50.091 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-27 22:49:50.193 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-27 22:49:52.876 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-27 22:51:52.982 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-27 22:52:25.330 ServerApp] Saving file at /cleaning.py
+[I 2025-10-27 22:53:53.161 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[W 2025-10-27 23:20:14.221 ServerApp] WebSocket ping timeout after 119919 ms.
+[I 2025-10-27 23:20:19.225 ServerApp] Starting buffering for 31e615f9-1701-47a3-a4b7-b760a4e9177d:15060698-4139-4422-bf4a-5274f62ac44d
+[I 2025-10-27 23:21:02.286 ServerApp] Connecting to kernel 31e615f9-1701-47a3-a4b7-b760a4e9177d.
+[I 2025-10-27 23:21:02.287 ServerApp] Restoring connection for 31e615f9-1701-47a3-a4b7-b760a4e9177d:15060698-4139-4422-bf4a-5274f62ac44d
+[W 2025-10-27 23:30:02.287 ServerApp] WebSocket ping timeout after 119837 ms.
+[I 2025-10-27 23:30:07.291 ServerApp] Starting buffering for 31e615f9-1701-47a3-a4b7-b760a4e9177d:15060698-4139-4422-bf4a-5274f62ac44d
+[I 2025-10-27 23:32:53.073 ServerApp] Connecting to kernel 31e615f9-1701-47a3-a4b7-b760a4e9177d.
+[I 2025-10-27 23:32:53.073 ServerApp] Restoring connection for 31e615f9-1701-47a3-a4b7-b760a4e9177d:15060698-4139-4422-bf4a-5274f62ac44d
+[W 2025-10-27 23:46:53.073 ServerApp] WebSocket ping timeout after 119936 ms.
+[I 2025-10-27 23:46:58.079 ServerApp] Starting buffering for 31e615f9-1701-47a3-a4b7-b760a4e9177d:15060698-4139-4422-bf4a-5274f62ac44d
+[I 2025-10-27 23:48:38.233 ServerApp] Connecting to kernel 31e615f9-1701-47a3-a4b7-b760a4e9177d.
+[I 2025-10-27 23:48:38.234 ServerApp] Restoring connection for 31e615f9-1701-47a3-a4b7-b760a4e9177d:15060698-4139-4422-bf4a-5274f62ac44d
+[I 2025-10-27 23:55:31.007 ServerApp] Saving file at /urinary_tract_infection.ipynb
+[I 2025-10-28 00:15:32.061 ServerApp] Kernel shutdown: 31e615f9-1701-47a3-a4b7-b760a4e9177d
+[I 2025-10-28 00:15:33.416 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-28 00:15:33.433 ServerApp] Shutting down 5 extensions
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+

@@ -70,7 +70,7 @@ columns = ['hadm_id','subject_id','stay_id',
     'ICU_length',
     'Hospital_length']
 
-vitals = {"heart_rate_max":{'itemid':220045, 'agg':'max'}, "blood_pressure_min":{'itemid':220181,"agg":'min'}}
+vitals = {"heart_rate_max":{'itemid':220045, 'agg':'max'}, "blood_pressure_min":{'itemid':220181,"agg":'min'},"spO2_min":{'itemid':220277,'agg':'min'},"FiO2_max":{'itemid':223835, 'agg':'max'},"temperature_max_C":{'itemid':223762, 'agg':'max'},"temperature_max_F":{'itemid':223761,'agg':'max'},"gsc_motor_min":{'itemid':223901,'agg':'min'},"gsc_verbal_min":{'itemid':223900,'agg':'min'},"gsc_eye_min":{'itemid':220739,'agg':'min'}}
 
 labevents = {"sodium_max":{'itemid':[50983,52623],'agg':'max'}, "sodium_min":{'itemid':[50983,52623],'agg':'min'},"potassium_max":{'itemid':[52610,50971],'agg':'max'},"bun_max":{'itemid':[51006,52647], 'agg':'max'},"creatinine_max":{'itemid':[50912,52546],'agg':'max'},"glucose_min":{'itemid':[50931,52569],'agg':'min'},"pH_min":{'itemid':[50820],'agg':'min'},"lactate_max":{'itemid':[50813, 52442, 53154],'agg':'max'}, "platelet_max":{'itemid':[51704,51265],'agg':'max'},"wbc_max":{'itemid':[51301, 51755, 51756],'agg':'max'},"hemoglobin_min":{'itemid':[50811, 51222, 51640],'agg':'min'},"ast_max":{'itemid':[53088,50878],'agg':'max'},"alt_max":{'itemid':[50861],'agg':'max'},"bilirubin_max":{'itemid':[50885,53089],'agg':'max'},"inr_max":{'itemid':[51675,51237],'agg':'max'}}
 
@@ -133,14 +133,13 @@ def get_medications(df):
     antibiotics_df = antibiotics_df[mask]
     antibiotics_df = antibiotics_df.groupby("hadm_id")["medication"].apply(lambda x: list(x.unique())).reset_index(name="antibiotics")
     df = df.merge(antibiotics_df, on ="hadm_id", how = 'left')
-    pp = pharmacy.copy()
-    merged = pp.merge(df[["hadm_id","intime","end_window"]],on="hadm_id", how="right")
+    merged = p.merge(df[["hadm_id","intime","end_window"]],on="hadm_id", how="right")
     vaso_df = merged[merged["medication"].isin(vasoactive_agents)]
     mask = (vaso_df['intime'] <= vaso_df['starttime']) & (vaso_df['starttime']<=vaso_df["end_window"])
     vaso_df = vaso_df[mask]
     vaso_df = vaso_df.groupby("hadm_id")["medication"].apply(lambda x:list(x.unique())).reset_index(name="vasoactive_meds")
     df = df.merge(vaso_df,on="hadm_id",how="left")
-    return df
+    return get_procedures(df)
     
 def get_max_creatinine_bun(df):
     creatinine = labs[ (labs["itemid"].isin([50912,52546])) & (labs["hadm_id"].isin(df["hadm_id"]))]
@@ -150,6 +149,19 @@ def get_max_creatinine_bun(df):
     df = df.merge(max_cre, on="hadm_id", how="left")
     df = df.merge(max_bun, on="hadm_id", how="left")
     return get_medications(df)
+
+def get_time_to_first_antibiotic(df):
+    df = df.copy()
+    p = pharmacy.copy()
+    p["starttime"] = pd.to_datetime(p["starttime"])
+    merged = p.merge(df[["hadm_id","admittime"]],on="hadm_id", how="right")
+    antibiotics_df = merged[merged["medication"].isin(antibiotics)]
+    mask = antibiotics_df["starttime"] >= antibiotics_df["admittime"]
+    antibiotics_df = antibiotics_df[mask]
+    first = antibiotics_df.groupby("hadm_id")["starttime"].min().reset_index(name="first_antibiotic_time")
+    df = df.merge(first, on="hadm_id", how="left")
+    df["time_to_first_antibiotic_hrs"] = (df["first_antibiotic_time"] - df["admittime"]).dt.total_seconds() / 3600
+    return df
 
 def get_procedures(df):
     procedures_diagnoses = procedures[procedures["hadm_id"].isin(df["hadm_id"])]
