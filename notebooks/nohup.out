@@ -7600,3 +7600,42 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[I 2025-10-28 04:31:13.483 ServerApp] 302 GET / (@162.216.150.119) 8.15ms
+[I 2025-10-28 04:31:36.628 ServerApp] 302 GET / (@162.216.150.119) 0.80ms
+[I 2025-10-28 04:31:36.727 LabApp] 302 GET /lab? (@162.216.150.119) 4.88ms
+[I 2025-10-28 04:33:55.608 ServerApp] Malformed HTTP message from 162.216.150.119: Malformed HTTP request line
+[I 2025-10-28 04:33:57.936 ServerApp] 302 GET / (@162.216.150.119) 0.83ms
+[I 2025-10-28 04:38:44.532 ServerApp] 302 GET / (@162.216.150.119) 0.82ms
+[I 2025-10-28 04:38:44.597 LabApp] 302 GET /lab? (@162.216.150.119) 1.08ms
+[I 2025-10-28 14:57:25.455 ServerApp] 302 GET / (@162.216.150.83) 7.77ms
+[I 2025-10-28 14:57:36.197 ServerApp] 302 GET / (@162.216.150.83) 0.78ms
+[I 2025-10-28 14:57:36.267 LabApp] 302 GET /lab? (@162.216.150.83) 5.46ms
+[I 2025-10-28 16:26:16.920 ServerApp] 302 GET / (@167.94.138.127) 6.14ms
+[I 2025-10-28 16:26:18.876 ServerApp] Malformed HTTP message from 167.94.138.127: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-28 16:26:20.284 LabApp] 302 GET /lab (@167.94.138.127) 1.60ms
+[I 2025-10-28 16:26:22.265 ServerApp] 302 GET / (@167.94.138.127) 0.65ms
+[I 2025-10-28 16:26:24.611 ServerApp] Malformed HTTP message from 167.94.138.127: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-28 16:26:32.936 LabApp] 302 GET /lab (@167.94.138.127) 0.70ms
+[W 2025-10-28 16:27:09.530 ServerApp] 404 GET /wiki (@167.94.138.127) 1.97ms referer=None
+[I 2025-10-28 17:27:44.046 ServerApp] 302 GET / (@162.142.125.209) 6.57ms
+[I 2025-10-28 17:27:44.725 ServerApp] Malformed HTTP message from 162.142.125.209: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-28 17:27:49.162 LabApp] 302 GET /lab (@162.142.125.209) 1.62ms
+[I 2025-10-28 18:57:56.820 ServerApp] 302 GET / (@34.76.34.183) 7.02ms
+[I 2025-10-29 05:39:28.134 ServerApp] 302 GET / (@35.203.210.239) 7.30ms
+[I 2025-10-29 05:41:31.990 ServerApp] Malformed HTTP message from 35.203.210.239: Malformed HTTP request line
+[I 2025-10-29 05:41:32.184 ServerApp] 302 GET / (@35.203.210.239) 0.93ms
+[I 2025-10-29 05:47:23.806 ServerApp] 302 GET / (@35.203.210.239) 0.99ms
+[I 2025-10-29 05:47:24.021 LabApp] 302 GET /lab? (@35.203.210.239) 5.04ms
+[I 2025-10-29 15:53:37.493 ServerApp] 302 GET / (@147.185.133.201) 7.35ms
+[I 2025-10-29 15:53:51.204 ServerApp] 302 GET / (@147.185.133.201) 0.78ms
+[I 2025-10-29 15:53:51.463 LabApp] 302 GET /lab? (@147.185.133.201) 5.03ms
+[I 2025-10-29 15:55:49.714 ServerApp] Malformed HTTP message from 147.185.133.201: Malformed HTTP request line
+[I 2025-10-29 15:55:50.554 ServerApp] 302 GET / (@147.185.133.201) 0.82ms
+[I 2025-10-29 16:02:23.601 ServerApp] 302 GET / (@147.185.133.201) 0.78ms
+[I 2025-10-29 16:02:23.854 LabApp] 302 GET /lab? (@147.185.133.201) 0.89ms
+[I 2025-10-29 20:37:36.131 ServerApp] 302 GET / (@162.142.125.115) 6.35ms
+[I 2025-10-29 20:37:45.964 ServerApp] 302 GET / (@162.142.125.115) 0.78ms
+[I 2025-10-29 20:37:46.473 ServerApp] Malformed HTTP message from 162.142.125.115: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-29 20:37:50.520 LabApp] 302 GET /lab (@162.142.125.115) 5.05ms
+[I 2025-10-29 20:37:50.578 ServerApp] Malformed HTTP message from 162.142.125.115: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-29 20:37:57.898 ServerApp] Malformed HTTP message from 162.142.125.115: Unexpected HTTP version 'HTTP/2.0'

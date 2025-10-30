@@ -1068,3 +1068,1042 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[W 2025-10-28 23:33:11.213 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[I 2025-10-28 23:33:11.316 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-28 23:33:11.321 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-28 23:33:11.327 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-28 23:33:11.332 ServerApp] nbclassic | extension was successfully linked.
+[I 2025-10-28 23:33:12.014 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-10-28 23:33:12.080 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-28 23:33:12.084 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-28 23:33:12.085 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-28 23:33:12.096 LabApp] JupyterLab extension loaded from /home/kayvans/.local/lib/python3.10/site-packages/jupyterlab
+[I 2025-10-28 23:33:12.096 LabApp] JupyterLab application directory is /home/kayvans/.local/share/jupyter/lab
+[I 2025-10-28 23:33:12.097 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-28 23:33:12.395 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-28 23:33:12.409 ServerApp] nbclassic | extension was successfully loaded.
+[I 2025-10-28 23:33:12.410 ServerApp] Serving notebooks from local directory: /home/kayvans/mimic-demo
+[I 2025-10-28 23:33:12.410 ServerApp] Jupyter Server 2.16.0 is running at:
+[I 2025-10-28 23:33:12.410 ServerApp] http://cs320:2020/lab
+[I 2025-10-28 23:33:12.410 ServerApp]     http://127.0.0.1:2020/lab
+[I 2025-10-28 23:33:12.411 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-10-28 23:33:12.439 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-10-28 23:33:16.634 ServerApp] 302 GET / (@72.33.2.84) 0.67ms
+[W 2025-10-28 23:33:17.837 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-10-28 23:33:24.116 ServerApp] Kernel started: 499ea461-9399-45a5-a394-c07e25686293
+[I 2025-10-28 23:33:25.035 ServerApp] Connecting to kernel 499ea461-9399-45a5-a394-c07e25686293.
+[I 2025-10-28 23:33:25.040 ServerApp] Connecting to kernel 499ea461-9399-45a5-a394-c07e25686293.
+[I 2025-10-28 23:33:25.045 ServerApp] Connecting to kernel 499ea461-9399-45a5-a394-c07e25686293.
+[W 2025-10-28 23:33:25.049 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-28 23:35:24.002 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-28 23:39:24.263 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-28 23:41:24.379 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-28 23:41:46.848 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-28 23:43:22.657 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-28 23:43:46.979 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-28 23:44:36.022 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-28 23:45:52.187 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-28 23:47:52.305 ServerApp] Saving file at /notebooks/cleaning.py
+[W 2025-10-28 23:59:55.043 ServerApp] WebSocket ping timeout after 119805 ms.
+[I 2025-10-29 00:00:00.048 ServerApp] Starting buffering for 499ea461-9399-45a5-a394-c07e25686293:0fc22054-ecd9-4c94-9a98-c72396177bee
+[I 2025-10-29 00:21:44.684 ServerApp] Connecting to kernel 499ea461-9399-45a5-a394-c07e25686293.
+[I 2025-10-29 00:21:44.684 ServerApp] Restoring connection for 499ea461-9399-45a5-a394-c07e25686293:0fc22054-ecd9-4c94-9a98-c72396177bee
+[I 2025-10-29 00:27:02.183 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:27:26.876 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:27:33.737 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:27:52.508 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 00:28:55.566 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:29:04.030 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:29:12.648 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:29:52.618 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 00:31:12.843 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:31:52.819 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 00:32:14.326 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:33:52.932 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 00:34:14.494 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:34:35.154 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:34:38.480 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:34:49.131 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:35:43.285 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:35:53.166 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 00:37:43.557 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:43:41.394 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:43:44.136 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:43:44.976 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:43:54.239 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:43:57.718 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:44:33.013 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:44:45.383 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:45:53.315 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 00:46:35.886 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:47:01.983 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:47:05.379 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:47:53.539 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 00:48:37.167 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:48:45.656 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:48:49.240 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:49:05.946 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:49:27.392 ServerApp] 302 GET / (@199.45.155.66) 0.96ms
+[I 2025-10-29 00:49:40.791 ServerApp] 302 GET / (@199.45.155.66) 0.61ms
+[I 2025-10-29 00:49:42.784 ServerApp] Malformed HTTP message from 199.45.155.66: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-29 00:49:52.572 LabApp] 302 GET /lab (@199.45.155.66) 1.10ms
+[I 2025-10-29 00:49:53.650 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 00:49:55.021 ServerApp] Malformed HTTP message from 199.45.155.66: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-29 00:50:22.603 ServerApp] Malformed HTTP message from 199.45.155.66: Unexpected HTTP version 'HTTP/2.0'
+[W 2025-10-29 00:50:36.969 ServerApp] 404 GET /wiki (@199.45.155.66) 8.98ms referer=None
+[I 2025-10-29 00:58:53.528 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 00:59:53.784 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[W 2025-10-29 01:04:14.687 ServerApp] WebSocket ping timeout after 119867 ms.
+[I 2025-10-29 01:04:19.691 ServerApp] Starting buffering for 499ea461-9399-45a5-a394-c07e25686293:0fc22054-ecd9-4c94-9a98-c72396177bee
+[I 2025-10-29 01:13:55.581 ServerApp] Connecting to kernel 499ea461-9399-45a5-a394-c07e25686293.
+[I 2025-10-29 01:13:55.581 ServerApp] Restoring connection for 499ea461-9399-45a5-a394-c07e25686293:0fc22054-ecd9-4c94-9a98-c72396177bee
+[W 2025-10-29 01:15:25.584 ServerApp] WebSocket ping timeout after 90002 ms.
+[I 2025-10-29 01:15:30.586 ServerApp] Starting buffering for 499ea461-9399-45a5-a394-c07e25686293:0fc22054-ecd9-4c94-9a98-c72396177bee
+[I 2025-10-29 01:17:07.085 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:18:55.880 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:18:56.995 ServerApp] Connecting to kernel 499ea461-9399-45a5-a394-c07e25686293.
+[I 2025-10-29 01:18:56.995 ServerApp] Restoring connection for 499ea461-9399-45a5-a394-c07e25686293:0fc22054-ecd9-4c94-9a98-c72396177bee
+[I 2025-10-29 01:19:02.597 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 01:19:05.305 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:19:05.655 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:19:06.061 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:19:07.422 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:19:07.705 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:19:09.030 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:19:09.362 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:21:02.866 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 01:23:03.069 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 01:24:54.944 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:26:55.152 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:28:32.597 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:05.994 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:11.636 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:29.048 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:31.497 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:32.111 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:34.006 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:35.361 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:36.385 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:40.901 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:42.915 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:43.556 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:44.019 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:44.394 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:29:50.940 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 01:31:38.662 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:31:40.683 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:31:51.075 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 01:32:03.224 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-29 01:32:56.042 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 01:33:01.906 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 01:33:03.321 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-29 01:37:26.628 ServerApp] Kernel shutdown: 499ea461-9399-45a5-a394-c07e25686293
+[I 2025-10-29 01:37:28.020 ServerApp] Shutting down on /api/shutdown request.
+[I 2025-10-29 01:37:28.022 ServerApp] Shutting down 5 extensions
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[W 2025-10-30 00:02:45.349 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[I 2025-10-30 00:02:45.445 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-10-30 00:02:45.451 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-10-30 00:02:45.457 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-10-30 00:02:45.462 ServerApp] nbclassic | extension was successfully linked.
+[I 2025-10-30 00:02:46.190 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-10-30 00:02:46.255 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-10-30 00:02:46.258 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-10-30 00:02:46.259 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-10-30 00:02:46.270 LabApp] JupyterLab extension loaded from /home/kayvans/.local/lib/python3.10/site-packages/jupyterlab
+[I 2025-10-30 00:02:46.270 LabApp] JupyterLab application directory is /home/kayvans/.local/share/jupyter/lab
+[I 2025-10-30 00:02:46.271 LabApp] Extension Manager is 'pypi'.
+[I 2025-10-30 00:02:46.570 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-10-30 00:02:46.584 ServerApp] nbclassic | extension was successfully loaded.
+[I 2025-10-30 00:02:46.585 ServerApp] Serving notebooks from local directory: /home/kayvans/mimic-demo
+[I 2025-10-30 00:02:46.585 ServerApp] Jupyter Server 2.16.0 is running at:
+[I 2025-10-30 00:02:46.585 ServerApp] http://cs320:2020/lab
+[I 2025-10-30 00:02:46.585 ServerApp]     http://127.0.0.1:2020/lab
+[I 2025-10-30 00:02:46.585 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2025-10-30 00:02:46.619 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2025-10-30 00:02:49.257 ServerApp] 302 GET / (@50.93.221.145) 0.62ms
+[W 2025-10-30 00:02:49.777 ServerApp] 404 GET /apple-touch-icon-precomposed.png (@50.93.221.145) 33.02ms referer=None
+[W 2025-10-30 00:02:49.885 ServerApp] 404 GET /apple-touch-icon.png (@50.93.221.145) 1.39ms referer=None
+[W 2025-10-30 00:02:50.022 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-10-30 00:02:51.220 ServerApp] Kernel started: bf42b962-0aa8-4b4b-ba01-68a85064678c
+[I 2025-10-30 00:02:52.228 ServerApp] Connecting to kernel bf42b962-0aa8-4b4b-ba01-68a85064678c.
+[W 2025-10-30 00:02:52.232 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-30 00:03:41.746 ServerApp] Connecting to kernel bf42b962-0aa8-4b4b-ba01-68a85064678c.
+[I 2025-10-30 00:10:51.259 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:10:51.289 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:11:16.653 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:11:22.805 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:11:32.134 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:12:51.526 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:13:13.708 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:13:23.499 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:14:37.912 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:15:13.941 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:20:38.133 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:21:14.162 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:22:57.795 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:24:27.715 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+Task exception was never retrieved
+future: <Task finished name='Task-2689' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2697' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2699' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2701' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2704' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2705' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2716' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2718' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2720' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2723' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2724' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2734' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2736' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2738' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2741' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2742' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2753' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2755' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2757' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2760' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2761' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2772' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2774' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2776' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2779' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2780' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2793' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2795' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2797' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2800' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2801' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2813' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2815' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2817' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2820' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2821' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2845' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2847' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2849' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2852' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2853' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2867' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2869' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2871' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2874' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2875' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2899' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2901' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2903' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2906' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2907' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2919' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2921' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2923' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2926' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2927' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2954' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2956' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2958' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2961' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+Task exception was never retrieved
+future: <Task finished name='Task-2962' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py:1111> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1113, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/kayvans/.local/lib/python3.10/site-packages/tornado/websocket.py", line 1115, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 2025-10-30 00:26:27.913 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:26:38.258 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:28:28.210 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:29:55.532 ServerApp] 302 GET / (@162.142.125.113) 0.80ms
+[I 2025-10-30 00:29:55.716 ServerApp] Malformed HTTP message from 162.142.125.113: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-30 00:30:01.199 LabApp] 302 GET /lab (@162.142.125.113) 1.10ms
+[I 2025-10-30 00:30:01.961 ServerApp] Malformed HTTP message from 162.142.125.113: Unexpected HTTP version 'HTTP/2.0'
+[I 2025-10-30 00:30:14.341 ServerApp] Malformed HTTP message from 162.142.125.113: Unexpected HTTP version 'HTTP/2.0'
+[W 2025-10-30 00:30:20.801 ServerApp] 404 GET /security.txt (@162.142.125.113) 2.06ms referer=None
+[I 2025-10-30 00:30:28.470 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:32:13.448 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:32:45.820 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:34:46.055 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:36:46.264 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:37:06.841 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:39:07.120 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:41:07.351 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:43:07.673 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:45:07.971 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:47:08.114 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:48:05.856 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:49:27.385 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:50:05.986 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:51:27.637 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:52:06.141 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:53:12.858 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:54:57.935 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:55:15.893 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:55:25.239 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:56:06.395 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 00:57:25.419 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 00:59:25.677 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:00:05.964 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:00:47.103 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:00:51.461 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:01:10.489 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:01:17.816 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:02:06.880 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 01:02:20.771 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:07:24.133 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:08:32.711 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:08:59.663 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:09:03.065 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:09:14.649 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:09:17.012 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:09:17.305 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:09:38.075 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:09:39.543 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:09:39.843 ServerApp] Saving file at /notebooks/cleaning.py
+[I 2025-10-30 01:10:07.220 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 01:12:03.662 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 01:12:23.065 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 01:13:35.819 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 01:15:36.002 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[I 2025-10-30 01:19:29.307 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
+[W 2025-10-30 01:19:46.105 ServerApp] delete /csv_files/draft1.csv
+[I 2025-10-30 01:19:48.587 ServerApp] Saving file at /notebooks/urinary_tract_infection.ipynb
