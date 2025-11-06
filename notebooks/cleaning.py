@@ -117,13 +117,13 @@ def get_medications(df):
     mask = (antibiotics_df['intime'] <= antibiotics_df['starttime']) & (antibiotics_df['starttime']<=antibiotics_df["end_window"])
     antibiotics_df = antibiotics_df[mask]
     antibiotics_df = antibiotics_df.groupby("hadm_id")["medication"].apply(lambda x: list(x.unique())).reset_index(name="antibiotics")
-    df = df.merge(antibiotics_df, on ="hadm_id", how = 'left')
+    df["antibiotics"] = df["antibiotics"].notna()
     merged = p.merge(df[["hadm_id","intime","end_window"]],on="hadm_id", how="right")
     vaso_df = merged[merged["medication"].isin(vasoactive_agents)]
     mask = (vaso_df['intime'] <= vaso_df['starttime']) & (vaso_df['starttime']<=vaso_df["end_window"])
     vaso_df = vaso_df[mask]
     vaso_df = vaso_df.groupby("hadm_id")["medication"].apply(lambda x:list(x.unique())).reset_index(name="vasoactive_meds")
-    df = df.merge(vaso_df,on="hadm_id",how="left")
+    df["vasoactive_agents"] = df["vasoactive_agents"].notna()
     return df
     
 def get_max_creatinine_bun(df):
