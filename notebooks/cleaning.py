@@ -2,8 +2,8 @@ import pandas as pd
 from datetime import timedelta
 import datetime as dt
 
-path = "../data/mimic-iv-clinical-database-demo-2.2/hosp/"
-path2 = "../data/mimic-iv-clinical-database-demo-2.2/icu/"
+path = "/Users/kayvans/Downloads/mimic-iv-clinical-database-demo-2.2/hosp/"
+path2 = "/Users/kayvans/Downloads/mimic-iv-clinical-database-demo-2.2/icu/"
 
 files = ["admissions", "patients", "labevents", "d_labitems", "prescriptions","pharmacy","transfers", "diagnoses_icd","d_icd_diagnoses","procedures_icd","d_icd_procedures","omr"]
 dfs = {}
@@ -116,14 +116,15 @@ def get_medications(df):
     antibiotics_df = merged[merged["medication"].isin(antibiotics)]
     mask = (antibiotics_df['intime'] <= antibiotics_df['starttime']) & (antibiotics_df['starttime']<=antibiotics_df["end_window"])
     antibiotics_df = antibiotics_df[mask]
-    antibiotics_df = antibiotics_df.groupby("hadm_id")["medication"].apply(lambda x: list(x.unique())).reset_index(name="antibiotics")
-    df["antibiotics"] = df["antibiotics"].notna()
-    merged = p.merge(df[["hadm_id","intime","end_window"]],on="hadm_id", how="right")
+    ab_flag = antibiotics_df.groupby("hadm_id").size().rename("antibiotics_given") > 0
     vaso_df = merged[merged["medication"].isin(vasoactive_agents)]
     mask = (vaso_df['intime'] <= vaso_df['starttime']) & (vaso_df['starttime']<=vaso_df["end_window"])
     vaso_df = vaso_df[mask]
-    vaso_df = vaso_df.groupby("hadm_id")["medication"].apply(lambda x:list(x.unique())).reset_index(name="vasoactive_meds")
-    df["vasoactive_agents"] = df["vasoactive_agents"].notna()
+    vaso_flag = vaso_df.groupby("hadm_id").size().rename("vaso_given") > 0
+    df = df.merge(ab_flag, on="hadm_id", how="left")
+    df = df.merge(vaso_flag, on="hadm_id", how="left")
+    df["antibiotics_given"] = df["antibiotics_given"].fillna(False)
+    df["vaso_given"] = df["vaso_given"].fillna(False)
     return df
     
 def get_max_creatinine_bun(df):
