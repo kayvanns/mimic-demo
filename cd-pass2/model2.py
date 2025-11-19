@@ -71,22 +71,25 @@ df2["lactate_max"] = df2["lactate_max"].apply(discretize_lactate)
 df2["anchor_age"] = df2["anchor_age"].apply(discretize_age)
 
 
-for col in categorical_cols:
-    df2[col] = df2[col].astype('category').cat.codes
-for col in binary_cols:
-    df2[col] = df2[col].astype('int')
+
+
+
 
 
 core_cols = ['antibiotics_given', 'vaso_given','vent_or_intubation', 'creatinine_admission_max', 'bun_admission_max', 'blood_pressure_min','lactate_max','anchor_age','gender',"race",'hospital_expire_flag', 'septic_shock', 'sepsis', 'arf']
+
 df2=df2[core_cols]
+for col in core_cols:
+    df2[col] = df2[col].astype('category')
 
 data = df2.to_numpy()
+print(data)
 cg = pc(data, indep_test='chisq')
 nodes = cg.G.get_nodes()
 bk = BackgroundKnowledge()
 for i in range(len(nodes)):
     bk.add_forbidden_by_node(nodes[9], nodes[i])
-bk.add_forbidden_by_node(nodes[10], nodes[11])
+bk.add_forbidden_by_node(nodes[11], nodes[12])
 cg_with_background_knowledge = pc(data, indep_test='chisq', background_knowledge=bk)
 cg_with_background_knowledge.draw_pydot_graph(labels=core_cols)
 pyd = GraphUtils.to_pydot(cg_with_background_knowledge.G,labels=core_cols) 

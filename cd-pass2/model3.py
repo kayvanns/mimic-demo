@@ -22,7 +22,7 @@ for col in categorical_cols:
     df[col] = df[col].astype('category').cat.codes
 for col in binary_cols:
     df[col] = df[col].astype('int')
-core_cols = ['antibiotics_given', 'vaso_given','vent_or_intubation', 'creatinine_admission_max', 'bun_admission_max', 'blood_pressure_min','lactate_max','anchor_age','gender','hospital_expire_flag', 'septic_shock', 'sepsis', 'arf']
+core_cols = ['antibiotics_given', 'vaso_given','vent_or_intubation', 'creatinine_admission_max', 'bun_admission_max', 'blood_pressure_min','lactate_max','anchor_age','gender','hospital_expire_flag', 'septic_shock', 'sepsis', 'arf','race']
 data = df[core_cols].to_numpy()
 cg = pc(data, indep_test='mv_fisherz', mvpc=True)
 nodes = cg.G.get_nodes()

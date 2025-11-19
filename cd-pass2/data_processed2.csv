@@ -1,37 +1,37 @@
 antibiotics_given,vaso_given,vent_or_intubation,creatinine_admission_max,bun_admission_max,blood_pressure_min,lactate_max,anchor_age,gender,race,hospital_expire_flag,septic_shock,sepsis,arf
-1,1,1,0,0,99,0,2,0,5,0,0,1,0
-0,0,0,0,0,99,99,2,0,5,0,0,0,0
-0,0,0,0,1,99,99,0,0,0,0,0,0,0
-0,0,0,1,1,0,0,2,0,1,0,0,0,1
-0,0,0,1,2,99,99,2,0,1,0,0,0,1
-0,0,0,1,1,99,99,2,0,1,0,0,0,1
-0,0,0,1,1,1,99,2,0,1,0,0,0,1
-0,0,0,1,1,99,99,2,0,1,0,0,0,0
-0,0,0,0,0,1,99,0,0,5,0,0,0,0
-1,0,0,0,1,0,99,3,0,5,0,0,0,0
-0,0,0,0,1,99,99,1,0,3,0,0,0,0
-0,0,0,0,0,0,99,1,0,5,0,0,1,0
-0,0,0,1,1,99,99,2,0,5,0,0,0,1
-1,1,0,2,2,0,1,2,0,5,0,1,1,1
-0,0,0,1,1,99,99,2,0,5,0,0,0,1
-0,0,0,1,0,99,99,2,0,5,0,0,0,1
-0,0,0,99,99,99,99,1,0,0,0,0,0,0
-0,0,1,0,1,0,99,2,0,5,0,0,0,0
-1,0,0,1,1,0,0,2,0,5,0,1,1,0
-0,0,1,1,1,0,99,1,0,0,0,0,0,1
-0,0,1,0,1,0,99,1,0,0,0,0,0,0
-0,0,0,1,1,99,99,3,0,0,0,0,0,0
-0,0,0,99,99,99,99,3,0,0,0,0,0,0
-0,0,0,0,0,99,99,2,0,5,0,0,0,0
-1,0,0,2,2,0,99,2,1,2,1,0,0,1
-0,0,0,1,1,99,99,2,1,2,0,0,0,0
-0,0,0,1,1,99,99,2,1,5,0,0,0,0
-1,1,1,2,2,0,1,2,1,5,0,1,1,1
-0,0,0,1,1,99,99,1,1,5,0,0,0,1
-0,0,0,1,2,99,99,2,1,4,0,0,0,1
-0,0,1,2,2,99,99,2,1,4,1,1,1,1
-0,1,1,2,2,0,2,2,1,5,1,1,1,1
-0,0,1,2,1,1,1,2,1,4,0,1,1,1
-0,0,0,1,1,99,1,2,1,5,0,0,0,0
-0,1,0,2,2,0,99,2,1,5,0,0,0,0
-0,0,0,2,2,99,0,2,1,5,0,0,0,1
+True,True,1,0,0,99,0,2,F,WHITE,0,0,1,0
+False,False,0,0,0,99,99,2,F,WHITE,0,0,0,0
+False,False,0,0,1,99,99,0,F,BLACK/AFRICAN AMERICAN,0,0,0,0
+False,False,0,1,1,0,0,2,F,HISPANIC/LATINO - CUBAN,0,0,0,1
+False,False,0,1,2,99,99,2,F,HISPANIC/LATINO - CUBAN,0,0,0,1
+False,False,0,1,1,99,99,2,F,HISPANIC/LATINO - CUBAN,0,0,0,1
+False,False,0,1,1,1,99,2,F,HISPANIC/LATINO - CUBAN,0,0,0,1
+False,False,0,1,1,99,99,2,F,HISPANIC/LATINO - CUBAN,0,0,0,0
+False,False,0,0,0,1,99,0,F,WHITE,0,0,0,0
+True,False,0,0,1,0,99,3,F,WHITE,0,0,0,0
+False,False,0,0,1,99,99,1,F,UNABLE TO OBTAIN,0,0,0,0
+False,False,0,0,0,0,99,1,F,WHITE,0,0,1,0
+False,False,0,1,1,99,99,2,F,WHITE,0,0,0,1
+True,True,0,2,2,0,1,2,F,WHITE,0,1,1,1
+False,False,0,1,1,99,99,2,F,WHITE,0,0,0,1
+False,False,0,1,0,99,99,2,F,WHITE,0,0,0,1
+False,False,0,99,99,99,99,1,F,BLACK/AFRICAN AMERICAN,0,0,0,0
+False,False,1,0,1,0,99,2,F,WHITE,0,0,0,0
+True,False,0,1,1,0,0,2,F,WHITE,0,1,1,0
+False,False,1,1,1,0,99,1,F,BLACK/AFRICAN AMERICAN,0,0,0,1
+False,False,1,0,1,0,99,1,F,BLACK/AFRICAN AMERICAN,0,0,0,0
+False,False,0,1,1,99,99,3,F,BLACK/AFRICAN AMERICAN,0,0,0,0
+False,False,0,99,99,99,99,3,F,BLACK/AFRICAN AMERICAN,0,0,0,0
+False,False,0,0,0,99,99,2,F,WHITE,0,0,0,0
+True,False,0,2,2,0,99,2,M,PATIENT DECLINED TO ANSWER,1,0,0,1
+False,False,0,1,1,99,99,2,M,PATIENT DECLINED TO ANSWER,0,0,0,0
+False,False,0,1,1,99,99,2,M,WHITE,0,0,0,0
+True,True,1,2,2,0,1,2,M,WHITE,0,1,1,1
+False,False,0,1,1,99,99,1,M,WHITE,0,0,0,1
+False,False,0,1,2,99,99,2,M,UNKNOWN,0,0,0,1
+False,False,1,2,2,99,99,2,M,UNKNOWN,1,1,1,1
+False,True,1,2,2,0,2,2,M,WHITE,1,1,1,1
+False,False,1,2,1,1,1,2,M,UNKNOWN,0,1,1,1
+False,False,0,1,1,99,1,2,M,WHITE,0,0,0,0
+False,True,0,2,2,0,99,2,M,WHITE,0,0,0,0
+False,False,0,2,2,99,0,2,M,WHITE,0,0,0,1
